@@ -1,5 +1,9 @@
 ## Welcome to my website!
 
+
+I am Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at The University of Texas at Austin in May 2017 under the supervision of  Prof. James Scott. Prior to that, I completed a B.S in Mathematics at CIMAT in April 2013 advised by Prof. Daniel Hernandez-Hernandez. 
+
+
 You can use the [editor on GitHub](https://github.com/hernanmp/hernanmp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
