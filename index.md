@@ -4,7 +4,7 @@
 I am Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at [The University of Texas at Austin](https://stat.utexas.edu/) in May 2017 under the supervision of  [Prof. James Scott](http://jgscott.github.io/). Prior to that, I completed a B.S in Mathematics at [CIMAT](https://www.cimat.mx/en) in April 2013 advised by [Prof. Daniel Hernandez-Hernandez](https://www.cimat.mx/~dher/). 
 
 A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github.io/blob/master/cv_oscar_madrid.pdf).
-
+[Google scholar](https://scholar.google.com/citations?user=--VNAYEAAAAJ&hl=en).
 
 
 ### Papers
@@ -18,48 +18,18 @@ A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github
 
 **O.H.M. Padilla** and J.G. Scott.  Tensor decomposition with generalized lasso penalties. **Journal of Computational and Graphical Statistics 2017, 26:3, 537-546**. [arXiv](https://arxiv.org/abs/1502.06930). [Code](https://amstat.tandfonline.com/doi/suppl/10.1080/10618600.2016.1255638?scroll=top#.Wepa8ltSzIU).
 
- D. Hernandez-Hernandez* and O.H.M. Padilla*.  Worst portfolios for dynamic monetary utility processes. Stochastics (2017). DOI: 10.1080/17442508.2017.1311901.
+ D. Hernandez-Hernandez* and **O.H.M. Padilla***.  Worst portfolios for dynamic monetary utility processes. **Stochastics, Vol. 90, Number 1 (2018), 78-101.**
 
-M. Zhou, O. H. M. Padilla, and J. G. Scott, "Priors for random count matrices derived from a family of negative binomial processes," Journal of the American Statistical Association   2016, Vol. 111, No. 515, 1144-1156, Theory and Methods. PDF.  (See  here  for code.)
+M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrices derived from a family of negative binomial processes," **Journal of the American Statistical Association   2016, Vol. 111, No. 515, 1144-1156, Theory and Methods**. [PDF](https://www.tandfonline.com/doi/abs/10.1080/01621459.2015.1075407#.V1SXkberSM8).[Code](https://github.com/mingyuanzhou/NBP_random_count_matrices).
                
- W. Tansey, O.-H. Madrid-Padilla, A. Suggala, and P. Ravikumar.  Vector-Space Markov Random Fields via Exponential Families. In International Conference on Machine Learning (ICML) 32, 2015. PDF.  (See here  for code.)
+ W. Tansey, **O.-H. Madrid-Padilla**, A. Suggala, and P. Ravikumar.  Vector-Space Markov Random Fields via Exponential Families.**In International Conference on Machine Learning (ICML) 32, 2015**. [PDF](http://proceedings.mlr.press/v37/tansey15.pdf).[Code](https://github.com/tansey/vsmrfs) 
 
-  O.-H. Madrid-Padilla, James  Sharpnack,  Yanzhen Chen, and Daniela Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso.
+ **O.-H. Madrid-Padilla**, James  Sharpnack,  Yanzhen Chen, and Daniela Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso. [Link](https://arxiv.org/abs/1807.11641)
 
-Shitong Wei,  O.-H. Madrid-Padilla, and  James  Sharpnack.  Distributed Cartesian Power Graph Segmentation for Graphon Estimation. link.
+Shitong Wei,  **O.-H. Madrid-Padilla**, and  James  Sharpnack.  Distributed Cartesian Power Graph Segmentation for Graphon Estimation. [Link](https://arxiv.org/abs/1805.09978).
 
-O.-H. Madrid-Padilla.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. link.
+**O.-H. Madrid-Padilla**.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. [Link](https://arxiv.org/pdf/1805.07042.pdf).
 
-O.H.M. Padilla and J.G. Scott.  Nonparametric density estimation by histogram trend filtering.link.
+**O.H.M. Padilla** and J.G. Scott.  Nonparametric density estimation by histogram trend filtering.[Link](https://arxiv.org/abs/1509.04348).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hernanmp/hernanmp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*Alphabetical order.
