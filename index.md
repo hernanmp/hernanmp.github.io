@@ -6,7 +6,7 @@ I am Neyman Visiting Assistant Professor in the [Department of Statistics at Uni
 
  My work constructs algorithms for network  estimation problems,  sequential analysis, tensor denoising, deconvolution, nonparametric regression, and graphical models. One important theme of my research is  to  develop  computationally  efficient  algorithms, that also  enjoy strong probabilistic guarantees of convergence in a frequentest sense. 
 
-My past and  ongoing  research has been driven by  applications in physics, biology, computer science, health-care, and financial data. In all of these, my work  constructs statistical methodology, both frequentist and  Bayesian.  
+My past and  ongoing  research has been driven by  applications in physics, biology, computer science, health-care, and financial data. In all of these, my develops  constructs statistical methodology, both frequentist and  Bayesian.  
 
 A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github.io/blob/master/cv_oscar_madrid.pdf).
 
