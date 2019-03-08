@@ -1,16 +1,8 @@
 ## Welcome!
 
-I  am  currently in the job market  looking for tenure  track positions in statistics and data sciences.
-
-I am Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at [The University of Texas at Austin](https://stat.utexas.edu/) in May 2017 under the supervision of  [Prof. James Scott](http://jgscott.github.io/). Prior to that, I completed a B.S in Mathematics at [CIMAT](https://www.cimat.mx/en) in April 2013 advised by [Prof. Daniel Hernandez-Hernandez](https://www.cimat.mx/~dher/). I was born and raised  in the rural area in Honduras.
-
- My work constructs algorithms for network  estimation problems,  sequential analysis, tensor denoising, deconvolution, nonparametric regression, and graphical models. One important theme of my research is  to  develop  computationally  efficient  algorithms, that also  enjoy strong probabilistic guarantees of convergence in a frequentest sense. 
-
-My past and  ongoing  research has been driven by  applications in physics, biology, computer science, health-care, and financial data. In all of these, my work develops statistical methodology, both frequentist and  Bayesian.  
-
+I am Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at [The University of Texas at Austin](https://stat.utexas.edu/) in May 2017 under the supervision of  [Prof. James Scott](http://jgscott.github.io/). Prior to that, I completed a B.S in Mathematics at [CIMAT](https://www.cimat.mx/en) in April 2013 advised by [Prof. Daniel Hernandez-Hernandez](https://www.cimat.mx/~dher/). 
 A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github.io/blob/master/cv_oscar_madrid.pdf).
 
-[Google scholar](https://scholar.google.com/citations?user=--VNAYEAAAAJ&hl=en).
 
 
 ### Papers
@@ -32,7 +24,6 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
  **O.-H. Madrid-Padilla**, James  Sharpnack,  Yanzhen Chen, and Daniela Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso. [Link](https://arxiv.org/abs/1807.11641)
 
-Shitong Wei,  **O.-H. Madrid-Padilla**, and  James  Sharpnack.  Distributed Cartesian Power Graph Segmentation for Graphon Estimation. [Link](https://arxiv.org/abs/1805.09978).
 
 **O.-H. Madrid-Padilla**.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. [Link](https://arxiv.org/pdf/1805.07042.pdf).
 
