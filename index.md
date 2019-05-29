@@ -1,6 +1,6 @@
 ## Welcome!
 
-Starting the Fall of 2019, I am going to be a Tenure-track Assistant Professor in the [Department of Statistics at University of California, Los Angeles](http://statistics.ucla.edu/). Currently, 
+Starting on July of 2019, I am going to be a Tenure-track Assistant Professor in the [Department of Statistics at University of California, Los Angeles](http://statistics.ucla.edu/). Currently, 
 I am Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at [The University of Texas at Austin](https://stat.utexas.edu/) in May 2017 under the supervision of  [Prof. James Scott](http://jgscott.github.io/). Prior to that, I completed a B.S in Mathematics at [CIMAT](https://www.cimat.mx/en) in April 2013 advised by [Prof. Daniel Hernandez-Hernandez](https://www.cimat.mx/~dher/). 
 A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github.io/blob/master/cv_oscar_madrid.pdf).
 
@@ -23,8 +23,13 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
                
  W. Tansey, **O.-H. Madrid-Padilla**, A. Suggala, and P. Ravikumar.  Vector-Space Markov Random Fields via Exponential Families.**In International Conference on Machine Learning (ICML) 32, 2015**. [PDF](http://proceedings.mlr.press/v37/tansey15.pdf). [Code](https://github.com/tansey/vsmrfs) 
 
+
+ **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric change point detection and localization. [Link](https://arxiv.org/abs/1905.10019)
+
+
  **O.-H. Madrid-Padilla**, James  Sharpnack,  Yanzhen Chen, and Daniela Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso. [Link](https://arxiv.org/abs/1807.11641)
 
+Shitong Wei, **O.-H. Madrid-Padilla**, James Sharpnack. Distributed Cartesian Power Graph Segmentation for Graphon Estimation. [Link](https://arxiv.org/abs/1805.09978).
 
 **O.-H. Madrid-Padilla**.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. [Link](https://arxiv.org/pdf/1805.07042.pdf).
 
