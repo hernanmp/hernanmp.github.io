@@ -36,3 +36,8 @@ Shitong Wei, **O.-H. Madrid-Padilla**, James Sharpnack. Distributed Cartesian Po
 **O.H.M. Padilla** and J.G. Scott.  Nonparametric density estimation by histogram trend filtering. [Link](https://arxiv.org/abs/1509.04348).
 
 *Alphabetical order.
+
+<!-- Contador de visitas -->
+<center><a href="http://www.websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
+<img style="border: 0px solid; display: inline;" alt="contador de visitas" src="http://www.websmultimedia.com/contador-de-visitas.php?id=264508"></a><br><a href='http://www.websmultimedia.com/contador-de-visitas-gratis'>Contador de visitas</a><br><a href='http://www.websmultimedia.com/registro-de-marcas-y-logotipos'>registro de marcas</a></center>
+<!-- Fin Contador de visitas -->
