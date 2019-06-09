@@ -37,6 +37,9 @@ Shitong Wei, **O.-H. Madrid-Padilla**, James Sharpnack. Distributed Cartesian Po
 
 *Alphabetical order.
 
+
+<center><a href="http://www.websmultimedia.com/ipcheckers"><img alt="IP Checker" src="http://websmultimedia.com/widgets/ipchecker/ip-checker.php?bg=1" style="margin-bottom:5px;" /></a><br /><a href="http://www.websmultimedia.com/ipcheckers" style="font-size:10px;">IP Checker</a></center>
+
 <!-- Contador de visitas -->
 <center><a href="http://www.websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
 <img style="border: 0px solid; display: inline;" alt="contador de visitas" src="http://www.websmultimedia.com/contador-de-visitas.php?id=264508"></a><br><a href='http://www.websmultimedia.com/contador-de-visitas-gratis'>Contador de visitas</a><br><a href='http://www.websmultimedia.com/registro-de-marcas-y-logotipos'>registro de marcas</a></center>
