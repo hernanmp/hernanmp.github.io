@@ -8,7 +8,10 @@ A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github
 ### Papers
 
 
-**O.H.M. Padilla**,  Alex Athey, Alex Reinhart, James G. Scott.  Sequential nonparametric tests for a change in distribution: an application to detecting radiological anomalies. **To appear in Journal of the American Statistical Association.** [arXiv](https://arxiv.org/abs/1612.07867). 
+ **O.-H. Madrid-Padilla**, James  Sharpnack,  Yanzhen Chen, and Daniela Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso. **Biometrika (Just-Accepted). 2019.**  [Link](https://github.com/hernanmp/hernanmp.github.io/blob/master/knn_fl.pdf)
+
+
+**O.H.M. Padilla**,  Alex Athey, Alex Reinhart, James G. Scott.  Sequential nonparametric tests for a change in distribution: an application to detecting radiological anomalies. **Journal of the American Statistical Association, Vol. 114, Issue  526, 514-528, 2019.** [arXiv](https://arxiv.org/abs/1612.07867). 
 
 **O.H.M. Padilla**, J. Sharpnack, J.G. Scott, and R.J Tibshirani. The DFS Fused Lasso: Linear-Time Denoising over General Graphs.  **Journal of Machine Learning Research, Vol. 18, No. 176, 1-36, 2018**. [Link](http://www.jmlr.org/papers/volume18/16-532/16-532.pdf).
 
@@ -24,9 +27,7 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 
  **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric change point detection and localization. [Link](https://arxiv.org/abs/1905.10019)
-
-
- **O.-H. Madrid-Padilla**, James  Sharpnack,  Yanzhen Chen, and Daniela Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso. [Link](https://arxiv.org/abs/1807.11641)
+ 
 
 Shitong Wei, **O.-H. Madrid-Padilla**, James Sharpnack. Distributed Cartesian Power Graph Segmentation for Graphon Estimation. [Link](https://arxiv.org/abs/1805.09978).
 
