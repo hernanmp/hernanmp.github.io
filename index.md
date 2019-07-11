@@ -8,7 +8,7 @@ A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github
 ### Papers
 
 
- **O.-H. Madrid-Padilla**, James  Sharpnack,  Yanzhen Chen, and Daniela Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso. **Biometrika (Just-Accepted). 2019.**  [Link](https://github.com/hernanmp/hernanmp.github.io/blob/master/knn_fl.pdf)
+ **O.-H. Madrid-Padilla**, James  Sharpnack,  Yanzhen Chen, and Daniela Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso. **Biometrika (Just-Accepted). 2019.**  [PDF](https://github.com/hernanmp/hernanmp.github.io/blob/master/knn_fl.pdf)
 
 
 **O.H.M. Padilla**,  Alex Athey, Alex Reinhart, James G. Scott.  Sequential nonparametric tests for a change in distribution: an application to detecting radiological anomalies. **Journal of the American Statistical Association, Vol. 114, Issue  526, 514-528, 2019.** [arXiv](https://arxiv.org/abs/1612.07867). 
