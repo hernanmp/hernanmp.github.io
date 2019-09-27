@@ -13,8 +13,6 @@ My  research interests  include:
 
 A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github.io/blob/master/cv_oscar_madrid.pdf).
 
-As a side note, I am orignally from a  [small town](https://en.wikipedia.org/wiki/Concepci%C3%B3n_del_Norte) in  Honduras. 
-
 
 
 ### Papers
