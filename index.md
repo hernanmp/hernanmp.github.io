@@ -15,7 +15,7 @@ A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github
 
 
 
-### Papers
+### Published/Accepted papers
 
 
  **O.-H. Madrid-Padilla**, James  Sharpnack,  Yanzhen Chen, and Daniela Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso. **To appear in Biometrika. 2019.**  [PDF](https://github.com/hernanmp/hernanmp.github.io/blob/master/knn_fl.pdf)
@@ -35,6 +35,8 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
                
  W. Tansey, **O.-H. Madrid-Padilla**, A. Suggala, and P. Ravikumar.  Vector-Space Markov Random Fields via Exponential Families.**In International Conference on Machine Learning (ICML) 32, 2015**. [PDF](http://proceedings.mlr.press/v37/tansey15.pdf). [Code](https://github.com/tansey/vsmrfs) 
 
+
+### Preprints
 
  **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric change point detection and localization. [Link](https://arxiv.org/abs/1905.10019)
  
