@@ -13,7 +13,7 @@ My  research interests  include:
 
 A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github.io/blob/master/cv_oscar_madrid.pdf).
 
-
+I was  born  and raised in Honduras.
 
 ### Published/Accepted papers
 
