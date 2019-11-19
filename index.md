@@ -38,6 +38,10 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
+ **O.-H. Madrid-Padilla**, Yi Yu,  Carey E. Priebe. Change point localization in dependent
+dynamic nonparametric random dot product graphs. [Link](https://arxiv.org/abs/1911.07494)
+
+
  **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric multivariate change point detection and localization. [Link](http://arxiv.org/abs/1910.13289)
  
  **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric change point detection and localization. [Link](https://arxiv.org/abs/1905.10019)
