@@ -17,6 +17,8 @@ I was  born  and raised in Honduras.
 
 ### Published/Accepted papers
 
+Alexandre Belloni*, Mingli  Chen*, **O.H.M. Padilla***, Zixuan (Kevin) Wang*. High Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://arxiv.org/pdf/1912.02151v1.pdf)
+
 
  **O.-H. Madrid-Padilla**, James  Sharpnack,  Yanzhen Chen, and Daniela Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso. **To appear in Biometrika. 2019.**  [arXiv](https://arxiv.org/abs/1807.11641).
 
