@@ -38,7 +38,7 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
-Alexandre Belloni*, Mingli Chen, **O.-H. Madrid-Padilla***, Zixuan (Kevin) Wang*. High Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://arxiv.org/pdf/1912.02151v1.pdf)
+Alexandre Belloni*, Mingli Chen*, **O.-H. Madrid-Padilla***, Zixuan (Kevin) Wang*. High Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://arxiv.org/pdf/1912.02151v1.pdf)
 
  **O.-H. Madrid-Padilla**, Yi Yu,  Carey E. Priebe. Change point localization in dependent
 dynamic nonparametric random dot product graphs. [Link](https://arxiv.org/abs/1911.07494)
