@@ -17,8 +17,6 @@ I was  born  and raised in Honduras.
 
 ### Published/Accepted papers
 
- **O.-H. Madrid-Padilla**, James  Sharpnack,  Yanzhen Chen, and Daniela Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso. **To appear in Biometrika. 2019.**  [arXiv](https://arxiv.org/abs/1807.11641).
-
 
 **O.H.M. Padilla**,  Alex Athey, Alex Reinhart, James G. Scott.  Sequential nonparametric tests for a change in distribution: an application to detecting radiological anomalies. **Journal of the American Statistical Association, Vol. 114, Issue  526, 514-528, 2019.** [Link](https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1476245). 
 
