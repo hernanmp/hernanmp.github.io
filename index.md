@@ -35,7 +35,6 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
-
  **O.-H. Madrid-Padilla**, Yi Yu,  Carey E. Priebe. Change point localization in dependent
 dynamic nonparametric random dot product graphs. [Link](https://arxiv.org/abs/1911.07494)
 
