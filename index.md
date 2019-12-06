@@ -18,8 +18,6 @@ I was  born  and raised in Honduras.
 ### Published/Accepted papers
 
 
-Alexandre Belloni*, Mingli  Chen*, **O.H.M. Padilla***, Zixuan (Kevin) Wang*. High Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://arxiv.org/pdf/1912.02151v1.pdf)
-
 **O.H.M. Padilla**,  Alex Athey, Alex Reinhart, James G. Scott.  Sequential nonparametric tests for a change in distribution: an application to detecting radiological anomalies. **Journal of the American Statistical Association, Vol. 114, Issue  526, 514-528, 2019.** [Link](https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1476245). 
 
 **O.H.M. Padilla**, J. Sharpnack, J.G. Scott, and R.J Tibshirani. The DFS Fused Lasso: Linear-Time Denoising over General Graphs.  **Journal of Machine Learning Research, Vol. 18, No. 176, 1-36, 2018**. [Link](http://www.jmlr.org/papers/volume18/16-532/16-532.pdf).
@@ -36,6 +34,9 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 
 ### Preprints
+
+
+Alexandre Belloni*, Mingli  Chen*, **O.H.M. Padilla***, Zixuan (Kevin) Wang*. High Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://arxiv.org/pdf/1912.02151v1.pdf)
 
  **O.-H. Madrid-Padilla**, Yi Yu,  Carey E. Priebe. Change point localization in dependent
 dynamic nonparametric random dot product graphs. [Link](https://arxiv.org/abs/1911.07494)
