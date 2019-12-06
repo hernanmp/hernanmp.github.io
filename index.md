@@ -43,7 +43,6 @@ dynamic nonparametric random dot product graphs. [Link](https://arxiv.org/abs/19
  
  **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric change point detection and localization. [Link](https://arxiv.org/abs/1905.10019)
  
-
 Shitong Wei, **O.-H. Madrid-Padilla**, James Sharpnack. Distributed Cartesian Power Graph Segmentation for Graphon Estimation. [Link](https://arxiv.org/abs/1805.09978).
 
 **O.-H. Madrid-Padilla**.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. [Link](https://arxiv.org/pdf/1805.07042.pdf).
