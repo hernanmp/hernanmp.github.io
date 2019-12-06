@@ -17,6 +17,7 @@ I was  born  and raised in Honduras.
 
 ### Published/Accepted papers
 
+
 **O.H.M. Padilla**,  James Sharpnack, Yanzhen Chen, Daniela  Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso
 . **To appear in Bionmetrika.** [arXiv](https://arxiv.org/abs/1807.11641). 
 
