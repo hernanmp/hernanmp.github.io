@@ -40,6 +40,7 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 Alexandre Belloni* , Mingli Chen* , **O. H. Madrid-Padilla*** , Zixuan (Kevin) Wang* .  High Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://arxiv.org/pdf/1912.02151.pdf)
 
+
 Marcos Matabuena , **O. H. Madrid-Padilla** , Zixuan (Kevin) Wang .  Energy distance and kernel mean embeddings for two-sample
 survival testing. [Link](https://arxiv.org/pdf/1912.04160.pdf)
 
