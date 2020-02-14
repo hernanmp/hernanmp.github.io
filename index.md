@@ -38,6 +38,8 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
+ Spencer Woody, **O.-H. Madrid-Padilla**, James G. Scott.  Vector-Space Markov Random Fields via Exponential Families. [PDF](https://arxiv.org/pdf/1810.11042.pdf). 
+ 
 Alexandre Belloni* , Mingli Chen* , **O. H. Madrid-Padilla*** , Zixuan (Kevin) Wang* .  High Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://arxiv.org/pdf/1912.02151.pdf)
 
 
