@@ -19,9 +19,9 @@ I was  born  and raised in Honduras.
 
 
 **O.H.M. Padilla**,  James Sharpnack, Yanzhen Chen, Daniela  Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso
-. **Biometrika, Volume 107, Issue 2, June 2020, Pages 293–310.** [arXiv](https://arxiv.org/abs/1807.11641). 
+. **Biometrika, Volume 107, Issue 2, June 2020, Pages 293–310.** [Link](https://academic.oup.com/biomet/article-abstract/107/2/293/5717457). 
 
-**O.H.M. Padilla**,  Alex Athey, Alex Reinhart, James G. Scott.  Sequential nonparametric tests for a change in distribution: an application to detecting radiological anomalies. **Journal of the American Statistical Association, Vol. 114, Issue  526, 514-528, 2019.** [Link](https://academic.oup.com/biomet/article-abstract/107/2/293/5717457). 
+**O.H.M. Padilla**,  Alex Athey, Alex Reinhart, James G. Scott.  Sequential nonparametric tests for a change in distribution: an application to detecting radiological anomalies. **Journal of the American Statistical Association, Vol. 114, Issue  526, 514-528, 2019.** [Link](https://www.tandfonline.com/doi/abs/10.1080/01621459.2018.1476245?journalCode=uasa20). 
 
 **O.H.M. Padilla**, J. Sharpnack, J.G. Scott, and R.J Tibshirani. The DFS Fused Lasso: Linear-Time Denoising over General Graphs.  **Journal of Machine Learning Research, Vol. 18, No. 176, 1-36, 2018**. [Link](http://www.jmlr.org/papers/volume18/16-532/16-532.pdf).
 
