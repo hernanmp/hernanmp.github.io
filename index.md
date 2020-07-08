@@ -38,6 +38,9 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
+Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  A Note on Online Change Point Detection. [PDF](https://arxiv.org/pdf/2006.03283.pdf). 
+
+
 Spencer Woody, **O.-H. Madrid-Padilla**, James G. Scott.  Optimal post-selection inference for sparse signals:
 a nonparametric empirical-Bayes approach. [PDF](https://arxiv.org/pdf/1810.11042.pdf). 
  
