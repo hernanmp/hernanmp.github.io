@@ -38,7 +38,7 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
-**O.H.M. Padilla**,  Sabyasachi Chatterjee.  Adaptive Quantile Trend Filtering. [PDF](https://github.com/hernanmp/hernanmp.github.io/blob/master/QTF.pdf). 
+**O.H.M. Padilla**,  Sabyasachi Chatterjee.  Adaptive Quantile Trend Filtering. [PDF](https://arxiv.org/pdf/2007.07472.pdf). 
 
 Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  A Note on Online Change Point Detection. [PDF](https://arxiv.org/pdf/2006.03283.pdf). 
 
