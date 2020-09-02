@@ -42,8 +42,6 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
-Alfonso Landeros, **O.H.M. Padilla**, Hua Zhou, Kenneth Lange.  Extensions to the Proximal Distance of Method of Constrained
-Optimization. [PDF]. 
 
 **O.H.M. Padilla**,  Sabyasachi Chatterjee.  Adaptive Quantile Trend Filtering. [PDF](https://arxiv.org/pdf/2007.07472.pdf). 
 
