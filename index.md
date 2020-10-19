@@ -42,6 +42,9 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
+**O.H.M. Padilla**, W. Tansey, Y. Chen.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). 
+
+
 Alfonso Landeros, **O.H.M. Padilla**, Hua Zhou, Kenneth Lange.  Extensions to the Proximal Distance of Method of Constrained
 Optimization. [PDF](https://arxiv.org/abs/2009.00801). 
 
