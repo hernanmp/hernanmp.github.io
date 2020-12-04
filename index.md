@@ -42,6 +42,10 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
+Steven Ye, **O.H.M. Padilla**.  Non-Parametric Quantile Regression via the K-NN
+Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). 
+
+
 **O.H.M. Padilla**, W. Tansey, Y. Chen.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). 
 
 
