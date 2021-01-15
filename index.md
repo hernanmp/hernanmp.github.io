@@ -42,6 +42,8 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
+Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  Optimal network online change point localisation. [PDF](https://arxiv.org/pdf/2101.05477.pdf). 
+
 Steven Ye, **O.H.M. Padilla**.  Non-Parametric Quantile Regression via the K-NN
 Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). 
 
