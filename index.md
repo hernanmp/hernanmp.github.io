@@ -22,6 +22,9 @@ NSF DMS-2015489
 ### Published/Accepted papers
 
 
+Spencer Woody, **O.-H. Madrid-Padilla**, James G. Scott.  Optimal post-selection inference for sparse signals:
+a nonparametric empirical-Bayes approach. [PDF](https://arxiv.org/pdf/1810.11042.pdf). **Biometrika,  accepted with minor revision.** 
+
 **O.H.M. Padilla**,  James Sharpnack, Yanzhen Chen, Daniela  Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso
 . **Biometrika, Volume 107, Issue 2, June 2020, Pages 293–310.** [Link](https://academic.oup.com/biomet/article-abstract/107/2/293/5717457). 
 
@@ -58,9 +61,6 @@ Optimization. [PDF](https://arxiv.org/abs/2009.00801).
 
 Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  A Note on Online Change Point Detection. [PDF](https://arxiv.org/pdf/2006.03283.pdf). 
 
-
-Spencer Woody, **O.-H. Madrid-Padilla**, James G. Scott.  Optimal post-selection inference for sparse signals:
-a nonparametric empirical-Bayes approach. [PDF](https://arxiv.org/pdf/1810.11042.pdf). 
  
 Alexandre Belloni* , Mingli Chen* , **O. H. Madrid-Padilla*** , Zixuan (Kevin) Wang* .  High Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://arxiv.org/pdf/1912.02151.pdf)
 
