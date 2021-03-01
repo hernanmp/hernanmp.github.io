@@ -1,6 +1,6 @@
 ## Welcome!
 
-I am  a Tenure-track Assistant Professor in the [Department of Statistics at University of California, Los Angeles](http://statistics.ucla.edu/). Previously,  from  July,  2017 to June, 2019, I was Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at [The University of Texas at Austin](https://stat.utexas.edu/) in May 2017 under the supervision of  [Prof. James Scott](http://jgscott.github.io/). My undergraudate degree was a B.S in Mathematics completed at [CIMAT](https://www.cimat.mx/en) in April 2013, advised by [Prof. Daniel Hernandez-Hernandez](https://www.cimat.mx/~dher/). 
+I am  a Tenure-track Assistant Professor in the [Department of Statistics at University of California, Los Angeles](http://statistics.ucla.edu/). Previously,  from  July,  2017 to June, 2019, I was Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at [The University of Texas at Austin](https://stat.utexas.edu/) in May 2017 under the supervision of  [Prof. James Scott](http://jgscott.github.io/). My undergraudate degree was a B.S in Mathematics completed at [CIMAT](https://www.cimat.mx/en) (in Mexico) in April 2013, advised by [Prof. Daniel Hernandez-Hernandez](https://www.cimat.mx/~dher/). 
 
 My  research interests  include:
 - High-dimensional statistics
