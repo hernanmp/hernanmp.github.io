@@ -24,7 +24,7 @@ NSF DMS-2015489
 Spencer Woody, **O.-H. Madrid-Padilla**, James G. Scott.  Optimal post-selection inference for sparse signals:
 a nonparametric empirical-Bayes approach. [PDF](https://arxiv.org/pdf/1810.11042.pdf). **To appear in Biometrika.** 
 
- **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric change point detection and localization. [Link](https://arxiv.org/abs/1905.10019) **Electronic Journal of Statistics. 15 (1) 1154 - 1201, 2021.** 
+ **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric change point detection and localization. **Electronic Journal of Statistics. 15 (1) 1154 - 1201, 2021.**  [Link](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-1/Optimal-nonparametric-change-point-analysis/10.1214/21-EJS1809.full).
 
 **O.H.M. Padilla**,  James Sharpnack, Yanzhen Chen, Daniela  Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso
 . **Biometrika, Volume 107, Issue 2, June 2020, Pages 293–310.** [Link](https://academic.oup.com/biomet/article-abstract/107/2/293/5717457). 
