@@ -22,7 +22,7 @@ NSF DMS-2015489
 ### Published/Accepted papers
 
 Steven Ye, **O.H.M. Padilla**.  Non-Parametric Quantile Regression via the K-NN
-Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **To appear in Journal of Machine Learning Research.** 
+Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **To appear in Journal of Machine Learning Research.** [Code](https://github.com/stevenysw/qt_knnfl).
 
 Spencer Woody, **O.-H. Madrid-Padilla**, James G. Scott.  Optimal post-selection inference for sparse signals:
 a nonparametric empirical-Bayes approach. [PDF](https://arxiv.org/pdf/1810.11042.pdf). **To appear in Biometrika.** 
