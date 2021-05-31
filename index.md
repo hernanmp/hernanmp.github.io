@@ -49,6 +49,8 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
+**O.-H. Madrid-Padilla**, Yi Yu, Alessandro Rinaldo.  Lattice partition recovery with dyadic CART. [PDF](https://arxiv.org/pdf/2105.13504.pdf). 
+
 Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  Optimal network online change point localisation. [PDF](https://arxiv.org/pdf/2101.05477.pdf). 
 
 
