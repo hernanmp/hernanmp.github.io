@@ -21,6 +21,8 @@ NSF DMS-2015489
 
 ### Published/Accepted papers
 
+**O.-H. Madrid-Padilla** and Y. Chen.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising.**To appear in  The Canadian Journal of Statistics.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
+
 Steven Ye, **O.H.M. Padilla**.  Non-Parametric Quantile Regression via the K-NN
 Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **To appear in Journal of Machine Learning Research.** [Code](https://github.com/stevenysw/qt_knnfl).
 
@@ -82,7 +84,6 @@ dynamic nonparametric random dot product graphs. [Link](https://arxiv.org/abs/19
  
 Shitong Wei, **O.-H. Madrid-Padilla**, James Sharpnack. Distributed Cartesian Power Graph Segmentation for Graphon Estimation. [Link](https://arxiv.org/abs/1805.09978).
 
-**O.-H. Madrid-Padilla**.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. [Link](https://arxiv.org/pdf/1805.07042.pdf).
 
 **O.H.M. Padilla** and J.G. Scott.  Nonparametric density estimation by histogram trend filtering. [Link](https://arxiv.org/abs/1509.04348).
 
