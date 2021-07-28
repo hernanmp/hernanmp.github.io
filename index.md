@@ -23,10 +23,10 @@ NSF DMS-2015489
 
 **O.-H. Madrid-Padilla** and Y. Chen.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. **To appear in  The Canadian Journal of Statistics.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
 
-Steven Ye, **O.H.M. Padilla**.  Non-Parametric Quantile Regression via the K-NN
+S. Ye, **O.H.M. Padilla**.  Non-Parametric Quantile Regression via the K-NN
 Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **To appear in Journal of Machine Learning Research.** [Code](https://github.com/stevenysw/qt_knnfl).
 
-Spencer Woody, **O.-H. Madrid-Padilla**, James G. Scott.  Optimal post-selection inference for sparse signals:
+S. Woody, **O.-H. Madrid-Padilla**, J. G. Scott.  Optimal post-selection inference for sparse signals:
 a nonparametric empirical-Bayes approach. [PDF](https://arxiv.org/pdf/1810.11042.pdf). **To appear in Biometrika.** 
 
  **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric change point detection and localization. **Electronic Journal of Statistics. 15 (1) 1154 - 1201, 2021.**  [Link](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-1/Optimal-nonparametric-change-point-analysis/10.1214/21-EJS1809.full).
