@@ -51,11 +51,14 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
-Lorenzo Cappello, **O.-H. Madrid-Padilla**,  Julia A. Palacios.  Scalable Bayesian change point detection with spike and slab priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). 
+H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network Data. [PDF](https://arxiv.org/pdf/1905.10848.pdf). 
 
-**O.-H. Madrid-Padilla**, Yi Yu, Alessandro Rinaldo.  Lattice partition recovery with dyadic CART. [PDF](https://arxiv.org/pdf/2105.13504.pdf). 
+L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Scalable Bayesian change point detection with spike and slab priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). 
 
-Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  Optimal network online change point localisation. [PDF](https://arxiv.org/pdf/2101.05477.pdf). 
+
+**O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo.  Lattice partition recovery with dyadic CART. [PDF](https://arxiv.org/pdf/2105.13504.pdf). 
+
+Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Optimal network online change point localisation. [PDF](https://arxiv.org/pdf/2101.05477.pdf). 
 
 
 **O.H.M. Padilla**, W. Tansey, Y. Chen.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). 
