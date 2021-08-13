@@ -32,7 +32,7 @@ a nonparametric empirical-Bayes approach. [PDF](https://arxiv.org/pdf/1810.11042
  **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric change point detection and localization. **Electronic Journal of Statistics. 15 (1) 1154 - 1201, 2021.**  [Link](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-1/Optimal-nonparametric-change-point-analysis/10.1214/21-EJS1809.full).
 
 **O.H.M. Padilla**,  James Sharpnack, Yanzhen Chen, Daniela  Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso
-. **Biometrika, Volume 107, Issue 2, June 2020, Pages 293–310.** [Link](https://academic.oup.com/biomet/article-abstract/107/2/293/5717457). 
+. **Biometrika, Volume 107, Issue 2, June 2020, Pages 293–310.** [Link](https://academic.oup.com/biomet/article-abstract/107/2/293/5717457). [Code](https://github.com/stevenysw/qt_knnfl).
 
 **O.H.M. Padilla**,  Alex Athey, Alex Reinhart, James G. Scott.  Sequential nonparametric tests for a change in distribution: an application to detecting radiological anomalies. **Journal of the American Statistical Association, Vol. 114, Issue  526, 514-528, 2019.** [Link](https://www.tandfonline.com/doi/abs/10.1080/01621459.2018.1476245?journalCode=uasa20). 
 
