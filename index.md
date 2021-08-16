@@ -22,7 +22,6 @@ NSF DMS-2015489
 ### Published/Accepted papers
 
 
-**O.H.M. Padilla**,  Sabyasachi Chatterjee.  Risk Bounds for Quantile Trend Filtering. **To appear in Biometrika.** [PDF](https://arxiv.org/pdf/2007.07472.pdf). 
 
 
 **O.-H. Madrid-Padilla** and Y. Chen.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. **To appear in  The Canadian Journal of Statistics.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
@@ -66,6 +65,8 @@ Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Optimal network online ch
 
 
 **O.H.M. Padilla**, W. Tansey, Y. Chen.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). 
+
+**O.H.M. Padilla**,  Sabyasachi Chatterjee.  Risk Bounds for Quantile Trend Filtering. [PDF](https://arxiv.org/pdf/2007.07472.pdf). 
 
 
 Alfonso Landeros, **O.H.M. Padilla**, Hua Zhou, Kenneth Lange.  Extensions to the Proximal Distance of Method of Constrained
