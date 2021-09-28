@@ -21,6 +21,7 @@ NSF DMS-2015489
 
 ### Published/Accepted papers
 
+**O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo.  Lattice partition recovery with dyadic CART. **To appear in NeurIPS 2021.** [PDF](https://arxiv.org/pdf/2105.13504.pdf). 
 
 **O.H.M. Padilla**,  Sabyasachi Chatterjee.  Risk Bounds for Quantile Trend Filtering. **To appear in Biometrika.** [PDF](https://arxiv.org/pdf/2007.07472.pdf). 
 
@@ -58,8 +59,6 @@ H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network 
 
 L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Scalable Bayesian change point detection with spike and slab priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). 
 
-
-**O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo.  Lattice partition recovery with dyadic CART. [PDF](https://arxiv.org/pdf/2105.13504.pdf). 
 
 Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Optimal network online change point localisation. [PDF](https://arxiv.org/pdf/2101.05477.pdf). 
 
