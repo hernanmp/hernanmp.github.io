@@ -55,6 +55,9 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
+**O.-H. Madrid-Padilla**,  P. Ding, Y. Chen, G. Ruiz. A causal fused lasso for interpretable heterogeneous treatment
+effects estimation . [PDF](https://arxiv.org/pdf/2110.00901.pdf). 
+
 H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network Data. [PDF](https://arxiv.org/pdf/1905.10848.pdf). 
 
 L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Scalable Bayesian change point detection with spike and slab priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). 
