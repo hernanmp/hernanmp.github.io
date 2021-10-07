@@ -55,8 +55,11 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
+S. Ye, Y. Chen, **O.-H. Madrid-Padilla**. Non-parametric interpretabe score based estimation
+of heterogeneous treatment effects. [PDF](https://arxiv.org/pdf/2110.02401.pdf). [Code](ttps://github.com/stevenysw/causal_pp).
+
 **O.-H. Madrid-Padilla**,  P. Ding, Y. Chen, G. Ruiz. A causal fused lasso for interpretable heterogeneous treatment
-effects estimation . [PDF](https://arxiv.org/pdf/2110.00901.pdf). [Code](https://github.com/hernanmp/causal_fused_lasso).
+effects estimation. [PDF](https://arxiv.org/pdf/2110.00901.pdf). [Code](https://github.com/hernanmp/causal_fused_lasso).
 
 H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network Data. [PDF](https://arxiv.org/pdf/1905.10848.pdf). 
 
