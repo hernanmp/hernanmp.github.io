@@ -55,6 +55,8 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
+**O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). 
+
 S. Ye, Y. Chen, **O.-H. Madrid-Padilla**. Non-parametric interpretabe score based estimation
 of heterogeneous treatment effects. [PDF](https://arxiv.org/pdf/2110.02401.pdf). [Code](https://github.com/stevenysw/causal_pp).
 
