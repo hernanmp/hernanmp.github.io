@@ -55,6 +55,9 @@ M. Zhou, **O. H. M. Padilla**, and J. G. Scott, "Priors for random count matrice
 
 ### Preprints
 
+F. Wang, **O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo. Denoising and change point localisation in piecewise-constant
+high-dimensional regression coefficients. [PDF](https://arxiv.org/pdf/2110.14298.pdf). 
+
 **O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). 
 
 Y. Yu, **O.-H. Madrid-Padilla**, A. Rinaldo. Optimal partition recovery in general graphs. [PDF](https://arxiv.org/pdf/2110.10989.pdf?). 
@@ -76,7 +79,7 @@ Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Optimal network online ch
 **O.H.M. Padilla**, W. Tansey, Y. Chen.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). 
 
 Alfonso Landeros, **O.H.M. Padilla**, Hua Zhou, Kenneth Lange.  Extensions to the Proximal Distance of Method of Constrained
-Optimization. [PDF](https://arxiv.org/abs/2009.00801). 
+Optimization. [PDF](https://arxiv.org/pdf/2009.00801.pdf). 
 
 Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  A Note on Online Change Point Detection. [PDF](https://arxiv.org/pdf/2006.03283.pdf). 
 
