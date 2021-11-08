@@ -22,7 +22,7 @@ NSF DMS-2015489
 ### Published/Accepted papers
 
  **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric multivariate change point detection and localization.
- **To appear in IEEE Transactions on Information Theory.**[Link](http://arxiv.org/abs/1910.13289)
+ **To appear in IEEE Transactions on Information Theory.** [Link](http://arxiv.org/abs/1910.13289)
  
 **O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo.  Lattice partition recovery with dyadic CART. **To appear in NeurIPS 2021.** [PDF](https://arxiv.org/pdf/2105.13504.pdf). 
 
