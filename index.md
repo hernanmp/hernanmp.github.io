@@ -21,6 +21,9 @@ NSF DMS-2015489
 
 ### Published/Accepted papers
 
+ **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric multivariate change point detection and localization.
+ **To appear in IEEE Transactions on Information Theory.**[Link](http://arxiv.org/abs/1910.13289)
+ 
 **O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo.  Lattice partition recovery with dyadic CART. **To appear in NeurIPS 2021.** [PDF](https://arxiv.org/pdf/2105.13504.pdf). 
 
 **O.H.M. Padilla**,  Sabyasachi Chatterjee.  Risk Bounds for Quantile Trend Filtering. **To appear in Biometrika.** [PDF](https://arxiv.org/pdf/2007.07472.pdf). 
@@ -93,8 +96,6 @@ survival testing. [Link](https://arxiv.org/pdf/1912.04160.pdf)
 
  **O.-H. Madrid-Padilla**, Yi Yu,  Carey E. Priebe. Change point localization in dependent
 dynamic nonparametric random dot product graphs. [Link](https://arxiv.org/abs/1911.07494)
-
- **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric multivariate change point detection and localization. [Link](http://arxiv.org/abs/1910.13289)
  
  
 Shitong Wei, **O.-H. Madrid-Padilla**, James Sharpnack. Distributed Cartesian Power Graph Segmentation for Graphon Estimation. [Link](https://arxiv.org/abs/1805.09978).
