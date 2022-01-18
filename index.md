@@ -21,6 +21,12 @@ NSF DMS-2015489
 
 ### Published/Accepted papers
 
+
+F. Wang, **O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo. Denoising and change point localisation in piecewise-constant
+high-dimensional regression coefficients. [PDF](https://arxiv.org/pdf/2110.14298.pdf). **To appear in AISTATS 2022.** **(Oral presentation, in the top 44 out of 1685 submissions)**
+
+Y. Yu, **O.-H. Madrid-Padilla**, A. Rinaldo. Optimal partition recovery in general graphs. [PDF](https://arxiv.org/pdf/2110.10989.pdf?). **To appear in AISTATS 2022.**
+
  **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric multivariate change point detection and localization.
  **To appear in IEEE Transactions on Information Theory.** [Link](http://arxiv.org/abs/1910.13289)
  
@@ -58,12 +64,7 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 
 ### Preprints
 
-F. Wang, **O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo. Denoising and change point localisation in piecewise-constant
-high-dimensional regression coefficients. [PDF](https://arxiv.org/pdf/2110.14298.pdf). 
-
 **O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). 
-
-Y. Yu, **O.-H. Madrid-Padilla**, A. Rinaldo. Optimal partition recovery in general graphs. [PDF](https://arxiv.org/pdf/2110.10989.pdf?). 
 
 S. Ye, Y. Chen, **O.-H. Madrid-Padilla**. Non-parametric interpretabe score based estimation
 of heterogeneous treatment effects. [PDF](https://arxiv.org/pdf/2110.02401.pdf). [Code](https://github.com/stevenysw/causal_pp).
