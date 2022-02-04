@@ -64,6 +64,8 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 
 ### Preprints
 
+G. Ruiz, **O.-H. Madrid-Padilla**, Q. Zhou. Sequential Learning of the Topological Ordering for the Linear Non-Gaussian Acyclic Model with Parametric Noise. [PDF](https://arxiv.org/pdf/2202.01748.pdf). 
+
 **O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). 
 
 S. Ye, Y. Chen, **O.-H. Madrid-Padilla**. Non-parametric interpretabe score based estimation
