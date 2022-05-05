@@ -21,7 +21,7 @@ NSF DMS-2015489
 
 ### Published/Accepted papers
 
-M. Essalat, D. Morrison, S. Kak, E. Chang, I. Penso, R. Kulchar, **O.-H. Madrid-Padilla**,  V. Shetty.A naturalistic study of brushing patterns using powered toothbrushes. **To appear in PLOS  One.**
+M. Essalat, D. Morrison, S. Kak, E. Chang, I. Penso, R. Kulchar, **O.-H. Madrid-Padilla**,  V. Shetty. A naturalistic study of brushing patterns using powered toothbrushes. **To appear in PLOS  One.**
 
 F. Wang, **O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo. Denoising and change point localisation in piecewise-constant
 high-dimensional regression coefficients. [PDF](https://arxiv.org/pdf/2110.14298.pdf). **To appear in AISTATS 2022.** **(Oral presentation, in the top 44 out of 1685 submissions)**
