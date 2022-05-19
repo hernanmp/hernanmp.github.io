@@ -65,6 +65,8 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 
 ### Preprints
 
+G. Ruiz, **O.-H. Madrid-Padilla**. Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT). [PDF](https://arxiv.org/pdf/2205.09094.pdf). 
+
 G. Ruiz, **O.-H. Madrid-Padilla**, Q. Zhou. Sequential Learning of the Topological Ordering for the Linear Non-Gaussian Acyclic Model with Parametric Noise. [PDF](https://arxiv.org/pdf/2202.01748.pdf). 
 
 **O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). 
