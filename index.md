@@ -21,24 +21,24 @@ NSF DMS-2015489
 
 ### Published/Accepted papers
 
-M. Essalat, D. Morrison, S. Kak, E. Chang, I. Penso, R. Kulchar, **O.-H. Madrid-Padilla**,  V. Shetty. A naturalistic study of brushing patterns using powered toothbrushes. **To appear in PLOS  One.**
+M. Essalat, D. Morrison, S. Kak, E. Chang, I. Penso, R. Kulchar, **O.-H. Madrid-Padilla**,  V. Shetty. A naturalistic study of brushing patterns using powered toothbrushes. **PLoS One. 2022 May 19;17(5):e0263638.** [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263638).
 
 F. Wang, **O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo. Denoising and change point localisation in piecewise-constant
-high-dimensional regression coefficients. [PDF](https://arxiv.org/pdf/2110.14298.pdf). **To appear in AISTATS 2022.** **(Oral presentation, in the top 44 out of 1685 submissions)**
+high-dimensional regression coefficients. **Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, PMLR 151:4309-4338.** **(Oral presentation, in the top 44 out of 1685 submissions).** [PDF](https://proceedings.mlr.press/v151/wang22c/wang22c.pdf).
 
-Y. Yu, **O.-H. Madrid-Padilla**, A. Rinaldo. Optimal partition recovery in general graphs. [PDF](https://arxiv.org/pdf/2110.10989.pdf?). **To appear in AISTATS 2022.**
+Y. Yu, **O.-H. Madrid-Padilla**, A. Rinaldo. Optimal partition recovery in general graphs. **Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, PMLR 151:4339-4358.** [PDF](https://proceedings.mlr.press/v151/yu22b/yu22b.pdf).
 
  **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric multivariate change point detection and localization.
- **To appear in IEEE Transactions on Information Theory.** [Link](http://arxiv.org/abs/1910.13289)
+ **IEEE Transactions on Information Theory,  Volume: 68, Issue: 3, March 2022.** [PDF](http://arxiv.org/abs/1910.13289)
  
-**O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo.  Lattice partition recovery with dyadic CART. **To appear in NeurIPS 2021.** [PDF](https://arxiv.org/pdf/2105.13504.pdf). 
+**O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo.  Lattice partition recovery with dyadic CART. **35th Conference on Neural Information Processing Systems. 2021.** [PDF](https://arxiv.org/pdf/2105.13504.pdf). 
 
 **O.H.  Madrid-Padilla**,  Sabyasachi Chatterjee.  Risk Bounds for Quantile Trend Filtering. **To appear in Biometrika.** [PDF](https://arxiv.org/pdf/2007.07472.pdf). 
 
 **O.-H. Madrid-Padilla** and Y. Chen.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. **To appear in  The Canadian Journal of Statistics.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
 
 S. Woody, **O.-H. Madrid-Padilla**, J. G. Scott.  Optimal post-selection inference for sparse signals:
-a nonparametric empirical-Bayes approach. [PDF](https://arxiv.org/pdf/1810.11042.pdf). **To appear in Biometrika.** 
+a nonparametric empirical-Bayes approach. [PDF](https://arxiv.org/pdf/1810.11042.pdf). **Biometrika, Volume 109, Issue 1, March 2022, Pages 1–16.** 
 
 S. Ye, **O.H.  Madrid-Padilla**.  Non-Parametric Quantile Regression via the K-NN
 Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine Learning Research, Vol. 22, No. 111, 1-38, 2021.** [Code](https://github.com/stevenysw/qt_knnfl).
@@ -64,6 +64,9 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 
 
 ### Preprints
+
+Y.L Kei, Y. Chen, **O.-H. Madrid-Padilla**. 
+A Partially Separable Temporal Model for Dynamic Valued Networks. [PDF](https://arxiv.org/pdf/2205.13651.pdf). 
 
 G. Ruiz, **O.-H. Madrid-Padilla**. Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT). [PDF](https://arxiv.org/pdf/2205.09094.pdf). 
 
