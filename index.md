@@ -65,6 +65,9 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 
 ### Preprints
 
+**O.-H. Madrid-Padilla**, Y. Yu. 
+Dynamic and heterogeneous treatment effects with abrupt changes. [PDF]([https://arxiv.org/pdf/2205.13651.pdf](https://arxiv.org/pdf/2206.09092.pdf)). 
+
 Y.L Kei, Y. Chen, **O.-H. Madrid-Padilla**. 
 A Partially Separable Temporal Model for Dynamic Valued Networks. [PDF](https://arxiv.org/pdf/2205.13651.pdf). 
 
