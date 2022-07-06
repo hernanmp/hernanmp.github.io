@@ -31,7 +31,7 @@ Y. Yu, **O.-H. Madrid-Padilla**, A. Rinaldo. Optimal partition recovery in gener
  **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric multivariate change point detection and localization.
  **IEEE Transactions on Information Theory,  Volume: 68, Issue: 3, March 2022.** [PDF](http://arxiv.org/abs/1910.13289)
  
-**O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo.  Lattice partition recovery with dyadic CART. **35th Conference on Neural Information Processing Systems. 2021.** [PDF](https://arxiv.org/pdf/2105.13504.pdf). 
+**O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo.  Lattice partition recovery with dyadic CART. **34th Conference on Neural Information Processing Systems. 2021.** [PDF](https://arxiv.org/pdf/2105.13504.pdf). 
 
 **O.H.  Madrid-Padilla**,  Sabyasachi Chatterjee.  Risk Bounds for Quantile Trend Filtering. **To appear in Biometrika.** [PDF](https://arxiv.org/pdf/2007.07472.pdf). 
 
