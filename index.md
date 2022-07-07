@@ -21,6 +21,9 @@ NSF DMS-2015489
 
 ### Published/Accepted papers
 
+Alfonso Landeros, **O.H.  Madrid-Padilla**, Hua Zhou, Kenneth Lange.  Extensions to the Proximal Distance of Method of Constrained
+Optimization. [PDF](https://arxiv.org/pdf/2009.00801.pdf).  **To appear in Journal of Machine Learning Research.**
+
 M. Essalat, D. Morrison, S. Kak, E. Chang, I. Penso, R. Kulchar, **O.-H. Madrid-Padilla**,  V. Shetty. A naturalistic study of brushing patterns using powered toothbrushes. **PLoS One. 2022 May 19;17(5):e0263638.** [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263638).
 
 F. Wang, **O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo. Denoising and change point localisation in piecewise-constant
@@ -93,8 +96,6 @@ Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Optimal network online ch
 
 **O.H.  Madrid-Padilla**, W. Tansey, Y. Chen.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). 
 
-Alfonso Landeros, **O.H.  Madrid-Padilla**, Hua Zhou, Kenneth Lange.  Extensions to the Proximal Distance of Method of Constrained
-Optimization. [PDF](https://arxiv.org/pdf/2009.00801.pdf). 
 
 Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  A Note on Online Change Point Detection. [PDF](https://arxiv.org/pdf/2006.03283.pdf). 
 
