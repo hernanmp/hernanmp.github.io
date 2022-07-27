@@ -68,6 +68,9 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 
 ### Preprints
 
+**O.-H. Madrid-Padilla**. 
+Variance estimation in graphs with the fused lasso. [PDF]([https://arxiv.org/pdf/2206.09092.pdf](https://arxiv.org/pdf/2207.12638.pdf)). 
+
 **O.-H. Madrid-Padilla**, Y. Yu. 
 Dynamic and heterogeneous treatment effects with abrupt changes. [PDF](https://arxiv.org/pdf/2206.09092.pdf). 
 
