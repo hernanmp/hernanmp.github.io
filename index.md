@@ -23,6 +23,8 @@ UCLA 2022-23 Faculty Career Development Award
 
 ### Published/Accepted papers
 
+**O.H.  Madrid-Padilla**, W. Tansey, Y. Chen.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). **To appear in Journal of Machine Learning Research.**
+
 Alfonso Landeros, **O.H.  Madrid-Padilla**, Hua Zhou, Kenneth Lange.  Extensions to the Proximal Distance of Method of Constrained
 Optimization. [PDF](https://arxiv.org/pdf/2009.00801.pdf).  **To appear in Journal of Machine Learning Research.**
 
@@ -97,9 +99,6 @@ L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Scalable Bayesian chang
 
 
 Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Optimal network online change point localisation. [PDF](https://arxiv.org/pdf/2101.05477.pdf). 
-
-
-**O.H.  Madrid-Padilla**, W. Tansey, Y. Chen.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). 
 
 
 Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  A Note on Online Change Point Detection. [PDF](https://arxiv.org/pdf/2006.03283.pdf). 
