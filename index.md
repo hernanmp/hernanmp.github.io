@@ -27,6 +27,7 @@ UCLA 2022-23 Faculty Career Development Award
 
 Alfonso Landeros, **O.H.  Madrid-Padilla**, Hua Zhou, Kenneth Lange.  Extensions to the Proximal Distance of Method of Constrained
 Optimization. [PDF](https://arxiv.org/pdf/2009.00801.pdf).  **Journal of Machine Learning Research, Vol. 23, No. 182, 1−45, 2022.**
+[Code](https://github.com/alanderos91/ProximalDistanceAlgorithms.jl).
 
 M. Essalat, D. Morrison, S. Kak, E. Chang, I. Penso, R. Kulchar, **O.-H. Madrid-Padilla**,  V. Shetty. A naturalistic study of brushing patterns using powered toothbrushes. **PLoS One. 2022 May 19;17(5):e0263638.** [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263638).
 
