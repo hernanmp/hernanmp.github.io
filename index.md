@@ -80,7 +80,7 @@ Variance estimation in graphs with the fused lasso. [PDF](https://arxiv.org/pdf/
 Dynamic and heterogeneous treatment effects with abrupt changes. [PDF](https://arxiv.org/pdf/2206.09092.pdf). 
 
 M. Matabuena, J.C. Vidal, **O.-H. Madrid-Padilla**, D. Sejdinovic. 
-DKernel Biclustering algorithm in Hilbert Spaces. [PDF](https://arxiv.org/pdf/2208.03675.pdf). 
+Kernel Biclustering algorithm in Hilbert Spaces. [PDF](https://arxiv.org/pdf/2208.03675.pdf). 
 
 Y.L Kei, Y. Chen, **O.-H. Madrid-Padilla**. 
 A Partially Separable Temporal Model for Dynamic Valued Networks. [PDF](https://arxiv.org/pdf/2205.13651.pdf). 
