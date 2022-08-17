@@ -23,6 +23,9 @@ UCLA 2022-23 Faculty Career Development Award
 
 ### Published/Accepted papers
 
+ **O.-H. Madrid-Padilla**, Yi Yu,  Carey E. Priebe. Change point localization in dependent
+dynamic nonparametric random dot product graphs. [Link](https://arxiv.org/abs/1911.07494). **To appear in Journal of Machine Learning Research.**
+
 **O.H.  Madrid-Padilla**, W. Tansey, Y. Chen.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). **To appear in Journal of Machine Learning Research.** [Code](https://github.com/tansey/quantile-regression).
 
 Alfonso Landeros, **O.H.  Madrid-Padilla**, Hua Zhou, Kenneth Lange.  Extensions to the Proximal Distance of Method of Constrained
@@ -113,10 +116,6 @@ Alexandre Belloni* , Mingli Chen* , **O. H. Madrid-Padilla*** , Zixuan (Kevin) W
 
 Marcos Matabuena , **O. H. Madrid-Padilla** .  Energy distance and kernel mean embeddings for two-sample
 survival testing. [Link](https://arxiv.org/pdf/1912.04160.pdf)
-
-
- **O.-H. Madrid-Padilla**, Yi Yu,  Carey E. Priebe. Change point localization in dependent
-dynamic nonparametric random dot product graphs. [Link](https://arxiv.org/abs/1911.07494)
  
  
 Shitong Wei, **O.-H. Madrid-Padilla**, James Sharpnack. Distributed Cartesian Power Graph Segmentation for Graphon Estimation. [Link](https://arxiv.org/abs/1805.09978).
