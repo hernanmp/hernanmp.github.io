@@ -23,6 +23,8 @@ UCLA 2022-23 Faculty Career Development Award
 
 ### Published/Accepted papers
 
+G. Ruiz, **O.-H. Madrid-Padilla**, Q. Zhou. Sequentially learning the topological ordering of causal directed acyclic graphs with likelihood ratio scores. [PDF](https://arxiv.org/pdf/2202.01748.pdf). **To appear in Transactions on Machine Learning Research.**
+
 Alexandre Belloni* , Mingli Chen* , **O. H. Madrid-Padilla*** , Zixuan (Kevin) Wang*  (alphabetical order).  High Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://arxiv.org/pdf/1912.02151.pdf). **To appear in Annals of Statistics.**
 
  **O.-H. Madrid-Padilla**, Yi Yu,  Carey E. Priebe. Change point localization in dependent
@@ -91,8 +93,6 @@ Y.L Kei, Y. Chen, **O.-H. Madrid-Padilla**.
 A Partially Separable Temporal Model for Dynamic Valued Networks. [PDF](https://arxiv.org/pdf/2205.13651.pdf). 
 
 G. Ruiz, **O.-H. Madrid-Padilla**. Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT). [PDF](https://arxiv.org/pdf/2205.09094.pdf). 
-
-G. Ruiz, **O.-H. Madrid-Padilla**, Q. Zhou. Sequential Learning of the Topological Ordering for the Linear Non-Gaussian Acyclic Model with Parametric Noise. [PDF](https://arxiv.org/pdf/2202.01748.pdf). 
 
 **O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). 
 
