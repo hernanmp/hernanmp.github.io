@@ -23,6 +23,9 @@ UCLA 2022-23 Faculty Career Development Award
 
 ### Published/Accepted papers
 
+H. Jiang, S. Qin, **O.-H. Madrid-Padilla**. Feature Grouping and Sparse Principal Component Analysis with
+Truncated Regularization. [PDF](https://arxiv.org/pdf/2106.13685.pdf). **To appear in Stat.**
+
 G. Ruiz, **O.-H. Madrid-Padilla**, Q. Zhou. Sequentially learning the topological ordering of causal directed acyclic graphs with likelihood ratio scores. [PDF](https://arxiv.org/pdf/2202.01748.pdf). **To appear in Transactions on Machine Learning Research.**
 
 Alexandre Belloni* , Mingli Chen* , **O. H. Madrid-Padilla*** , Zixuan (Kevin) Wang*  (alphabetical order).  High Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://arxiv.org/pdf/1912.02151.pdf). **To appear in Annals of Statistics.**
