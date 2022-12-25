@@ -86,8 +86,6 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 L. Cappello, **O.H.  Madrid-Padilla**. Variance change point detection with credible sets. 
 [PDF](https://arxiv.org/pdf/2211.14097.pdf).
 
-H. Jiang, S. Qin, **O.H.  Madrid-Padilla**. Feature Grouping and Sparse Principal Component Analysis with Truncated Regularization. [PDF](https://arxiv.org/pdf/2106.13685.pdf).
-
 **O.-H. Madrid-Padilla**. 
 Variance estimation in graphs with the fused lasso. [PDF](https://arxiv.org/pdf/2207.12638.pdf). 
 
