@@ -83,6 +83,11 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 
 ### Preprints
 
+
+C.M. Madrid-Padilla, H. Xu, D. Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
+nonparametric models under mixing conditions. (First author is one of my brothers).
+[PDF](https://arxiv.org/pdf/2301.11491.pdf).
+
 L. Cappello, **O.H.  Madrid-Padilla**. Variance change point detection with credible sets. 
 [PDF](https://arxiv.org/pdf/2211.14097.pdf).
 
