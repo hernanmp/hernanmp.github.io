@@ -23,6 +23,8 @@ UCLA 2022-23 Faculty Career Development Award
 
 ### Published/Accepted papers
 
+L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Scalable Bayesian change point detection with spike and slab priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). **To appear in Journal of Computational and Graphical Statistics.**
+
 H. Jiang, S. Qin, **O.-H. Madrid-Padilla**. Feature Grouping and Sparse Principal Component Analysis with
 Truncated Regularization. [PDF](https://arxiv.org/pdf/2106.13685.pdf). **To appear in Stat.**
 
@@ -114,9 +116,6 @@ of heterogeneous treatment effects. [PDF](https://arxiv.org/pdf/2110.02401.pdf).
 effects estimation. [PDF](https://arxiv.org/pdf/2110.00901.pdf). [Code](https://github.com/hernanmp/causal_fused_lasso).
 
 H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network Data. [PDF](https://arxiv.org/pdf/1905.10848.pdf). 
-
-L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Scalable Bayesian change point detection with spike and slab priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). 
-
 
 Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Optimal network online change point localisation. [PDF](https://arxiv.org/pdf/2101.05477.pdf). 
 
