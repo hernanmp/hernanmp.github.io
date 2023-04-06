@@ -86,6 +86,9 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 ### Preprints
 
 
+Y.L Kei, H. Li, Y. Chen, **O.H.  Madrid-Padilla**. Change Point Detection on a Separable Model for Dynamic Networks. 
+[PDF](https://arxiv.org/abs/2303.17642).
+
 C.M. Madrid-Padilla, H. Xu, D. Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
 nonparametric models under mixing conditions. (First author is one of my brothers).
 [PDF](https://arxiv.org/pdf/2301.11491.pdf).
