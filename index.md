@@ -84,7 +84,8 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 
 
 ### Preprints
-
+M. Essalat, **O.H.  Madrid-Padilla**, Essalat, V.Shetty, G. Pottie. Monitoring Brushing behaviors using Toothbrush Embedded Motion-Sensors. 
+[Link](https://www.techrxiv.org/articles/preprint/Monitoring_Brushing_behaviors_using_Toothbrush_Embedded_Motion-Sensors/22696360/1).
 
 Y.L Kei, H. Li, Y. Chen, **O.H.  Madrid-Padilla**. Change Point Detection on a Separable Model for Dynamic Networks. 
 [PDF](https://arxiv.org/abs/2303.17642).
