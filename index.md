@@ -23,6 +23,9 @@ UCLA 2022-23 Faculty Career Development Award
 
 ### Published/Accepted papers
 
+Y.L Kei, Y. Chen, **O.-H. Madrid-Padilla**. 
+A Partially Separable Temporal Model for Dynamic Valued Networks. [PDF](https://arxiv.org/pdf/2205.13651.pdf). **Accepted in Computational Statistics & Data Analysis.**
+
 L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Scalable Bayesian change point detection with spike and slab priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). **To appear in Journal of Computational and Graphical Statistics.**
 
 H. Jiang, S. Qin, **O.-H. Madrid-Padilla**. Feature Grouping and Sparse Principal Component Analysis with
@@ -105,9 +108,6 @@ Dynamic and heterogeneous treatment effects with abrupt changes. [PDF](https://a
 
 M. Matabuena, J.C. Vidal, **O.-H. Madrid-Padilla**, D. Sejdinovic. 
 Kernel Biclustering algorithm in Hilbert Spaces. [PDF](https://arxiv.org/pdf/2208.03675.pdf). 
-
-Y.L Kei, Y. Chen, **O.-H. Madrid-Padilla**. 
-A Partially Separable Temporal Model for Dynamic Valued Networks. [PDF](https://arxiv.org/pdf/2205.13651.pdf). 
 
 G. Ruiz, **O.-H. Madrid-Padilla**. Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT). [PDF](https://arxiv.org/pdf/2205.09094.pdf). 
 
