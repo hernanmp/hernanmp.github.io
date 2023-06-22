@@ -25,10 +25,13 @@ UCLA 2022-23 Faculty Career Development Award
 
 ### Published/Accepted papers
 
-Y.L Kei, Y. Chen, **O.-H. Madrid-Padilla**. 
-A Partially Separable Model for Dynamic Valued Networks. [PDF](https://arxiv.org/pdf/2205.13651.pdf). **Accepted in Computational Statistics & Data Analysis.**
+S. Ye, Y. Chen, **O.-H. Madrid-Padilla**. 2D score based estimation of heterogeneous treatment effects. [PDF](https://arxiv.org/pdf/2110.02401.pdf). [Code](https://github.com/stevenysw/causal_pp). **To appear in Journal of Causal Inference.**
 
-L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Scalable Bayesian change point detection with spike and slab priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). **To appear in Journal of Computational and Graphical Statistics.**
+
+Y.L Kei, Y. Chen, **O.-H. Madrid-Padilla**. 
+A Partially Separable Model for Dynamic Valued Networks. [PDF](https://arxiv.org/pdf/2205.13651.pdf). **To appear in Computational Statistics & Data Analysis.**
+
+L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Scalable Bayesian change point detection with spike and slab priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). **To appear in the Journal of Computational and Graphical Statistics.**
 
 H. Jiang, S. Qin, **O.-H. Madrid-Padilla**. Feature Grouping and Sparse Principal Component Analysis with
 Truncated Regularization. [PDF](https://arxiv.org/pdf/2106.13685.pdf). **To appear in Stat.**
@@ -114,9 +117,6 @@ Kernel Biclustering algorithm in Hilbert Spaces. [PDF](https://arxiv.org/pdf/220
 G. Ruiz, **O.-H. Madrid-Padilla**. Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT). [PDF](https://arxiv.org/pdf/2205.09094.pdf). 
 
 **O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). 
-
-S. Ye, Y. Chen, **O.-H. Madrid-Padilla**. Non-parametric interpretabe score based estimation
-of heterogeneous treatment effects. [PDF](https://arxiv.org/pdf/2110.02401.pdf). [Code](https://github.com/stevenysw/causal_pp).
 
 **O.-H. Madrid-Padilla**,  Y. Chen, G. Ruiz. A causal fused lasso for interpretable heterogeneous treatment
 effects estimation. [PDF](https://arxiv.org/pdf/2110.00901.pdf). [Code](https://github.com/hernanmp/causal_fused_lasso).
