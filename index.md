@@ -92,6 +92,10 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 
 
 ### Preprints
+
+F. Wang, W. Li, **O.H.  Madrid-Padilla**, Y. Yu, A. Rinaldo. Multilayer random dot product graphs:
+Estimation and online change point detection. [Link](https://arxiv.org/pdf/2306.15286.pdf).
+
 M. Essalat, **O.H.  Madrid-Padilla**, Essalat, V.Shetty, G. Pottie. Monitoring Brushing behaviors using Toothbrush Embedded Motion-Sensors. 
 [Link](https://www.techrxiv.org/articles/preprint/Monitoring_Brushing_behaviors_using_Toothbrush_Embedded_Motion-Sensors/22696360/1).
 
