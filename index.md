@@ -24,12 +24,17 @@ UCLA 2022-23 Faculty Career Development Award
 [Hellman Fellowship](https://www.hellmanfellows.org/), 2023-2024. 
 
 ### Former Ph.D. students:
+
 [Gabriel Ruiz](https://gabriel-ruiz.github.io/) Graduated in 2022
 
 ### Current Ph.D. students:
+
 [Davis Berlind](https://davis-berlind.github.io/)
+
 [Yik Lun (Allen) Kei](https://allenkei.github.io/)
+
 [Siwei Ye](https://stevenysw.github.io/)
+
 Zhi Zhang
 
 
