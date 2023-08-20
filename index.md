@@ -23,6 +23,16 @@ UCLA 2022-23 Faculty Career Development Award
 
 [Hellman Fellowship](https://www.hellmanfellows.org/), 2023-2024. 
 
+### Former Ph.D. students:
+[Gabriel Ruiz](https://gabriel-ruiz.github.io/) Graduated in 2022
+
+### Current Ph.D. students:
+[Davis Berlind](https://davis-berlind.github.io/)
+[Yik Lun (Allen) Kei](https://allenkei.github.io/)
+[Siwei Ye](https://stevenysw.github.io/)
+Zhi Zhang
+
+
 ### Published/Accepted papers
 
 S. Ye, Y. Chen, **O.-H. Madrid-Padilla**. 2D score based estimation of heterogeneous treatment effects. [PDF](https://arxiv.org/pdf/2110.02401.pdf). [Code](https://github.com/stevenysw/causal_pp). **To appear in Journal of Causal Inference.**
