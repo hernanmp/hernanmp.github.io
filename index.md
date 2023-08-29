@@ -29,7 +29,7 @@ UCLA 2022-23 Faculty Career Development Award
 
 ### Current Ph.D. students:
 
-[Davis Berlind](https://davis-berlind.github.io/), [Yik Lun (Allen) Kei](https://allenkei.github.io/), [Siwei Ye](https://stevenysw.github.io/), Zhi Zhang.
+[Davis Berlind](https://davis-berlind.github.io/), [Yik Lun (Allen) Kei](https://allenkei.github.io/), [Siwei Ye](https://stevenysw.github.io/), [Zhi Zhang](https://scholar.google.com/citations?user=O__axAoAAAAJ&hl=en).
 
 ### Former Ph.D. students that I have closely worked with:
 
