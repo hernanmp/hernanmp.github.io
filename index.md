@@ -106,6 +106,9 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 
 ### Preprints
 
+C.M. Madrid-Padilla, **O.H.  Madrid-Padilla**, D. Wang. Temporal-spatial model via Trend Filtering. (The first author is one of my brothers).
+[PDF](https://arxiv.org/pdf/2308.16172v1.pdf).
+
 F. Wang, W. Li, **O.H.  Madrid-Padilla**, Y. Yu, A. Rinaldo. Multilayer random dot product graphs:
 Estimation and online change point detection. [Link](https://arxiv.org/pdf/2306.15286.pdf).
 
@@ -116,7 +119,7 @@ Y.L Kei, H. Li, Y. Chen, **O.H.  Madrid-Padilla**. Change Point Detection on a S
 [PDF](https://arxiv.org/abs/2303.17642).
 
 C.M. Madrid-Padilla, H. Xu, D. Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
-nonparametric models under mixing conditions. (First author is one of my brothers).
+nonparametric models under mixing conditions.
 [PDF](https://arxiv.org/pdf/2301.11491.pdf).
 
 L. Cappello, **O.H.  Madrid-Padilla**. Variance change point detection with credible sets. 
