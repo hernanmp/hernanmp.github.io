@@ -107,7 +107,7 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 ### Preprints
 
 C.M. Madrid-Padilla, **O.H.  Madrid-Padilla**, D. Wang. Temporal-spatial model via Trend Filtering. (The first author is one of my brothers).
-[PDF](https://arxiv.org/pdf/2308.16172v1.pdf).
+[PDF](https://aps.arxiv.org/pdf/2308.16172.pdf).
 
 F. Wang, W. Li, **O.H.  Madrid-Padilla**, Y. Yu, A. Rinaldo. Multilayer random dot product graphs:
 Estimation and online change point detection. [PDF](https://arxiv.org/pdf/2306.15286.pdf).
