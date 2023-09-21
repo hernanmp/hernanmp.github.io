@@ -38,6 +38,10 @@ UCLA 2022-23 Faculty Career Development Award
 
 ### Published/Accepted papers
 
+C.M. Madrid-Padilla, H. Xu, D. Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
+nonparametric models under mixing conditions.
+[PDF](https://arxiv.org/pdf/2301.11491.pdf). **To appear in NeurIPS 2023.**
+
 S. Ye, Y. Chen, **O.-H. Madrid-Padilla**. 2D score based estimation of heterogeneous treatment effects. [PDF](https://arxiv.org/pdf/2110.02401.pdf). [Code](https://github.com/stevenysw/causal_pp). **To appear in Journal of Causal Inference.**
 
 
@@ -117,10 +121,6 @@ M. Essalat, **O.H.  Madrid-Padilla**,  V.Shetty, G. Pottie. Monitoring Brushing 
 
 Y.L Kei, H. Li, Y. Chen, **O.H.  Madrid-Padilla**. Change Point Detection on a Separable Model for Dynamic Networks. 
 [PDF](https://arxiv.org/abs/2303.17642).
-
-C.M. Madrid-Padilla, H. Xu, D. Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
-nonparametric models under mixing conditions.
-[PDF](https://arxiv.org/pdf/2301.11491.pdf).
 
 L. Cappello, **O.H.  Madrid-Padilla**. Variance change point detection with credible sets. 
 [PDF](https://arxiv.org/pdf/2211.14097.pdf).
