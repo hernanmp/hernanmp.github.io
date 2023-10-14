@@ -13,7 +13,7 @@ My  research interests  include:
 
 A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github.io/blob/master/cv_oscar_madrid.pdf).
 
-I was  born  and raised in Honduras.
+I was  born  and raised in Honduras. Here is a [bio](https://www.lathisms.org/calendar-2023/dr-oscar-hernan-madrid-padilla) featured in Lathisms 2023.
 
 
 ### Grants:
