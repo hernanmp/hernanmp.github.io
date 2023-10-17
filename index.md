@@ -42,6 +42,9 @@ C.M. Madrid-Padilla, H. Xu, D. Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change poi
 nonparametric models under mixing conditions.
 [PDF](https://arxiv.org/pdf/2301.11491.pdf). **To appear in NeurIPS 2023.**
 
+
+Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  A Note on Online Change Point Detection. [PDF](https://arxiv.org/pdf/2006.03283.pdf). **To appear in Sequential Analysis.**
+
 S. Ye, Y. Chen, **O.-H. Madrid-Padilla**. 2D score based estimation of heterogeneous treatment effects. [PDF](https://arxiv.org/pdf/2110.02401.pdf). [Code](https://github.com/stevenysw/causal_pp). **To appear in Journal of Causal Inference.**
 
 
@@ -144,10 +147,6 @@ effects estimation. [PDF](https://arxiv.org/pdf/2110.00901.pdf). [Code](https://
 H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network Data. [PDF](https://arxiv.org/pdf/1905.10848.pdf). 
 
 Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Optimal network online change point localisation. [PDF](https://arxiv.org/pdf/2101.05477.pdf). 
-
-
-Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  A Note on Online Change Point Detection. [PDF](https://arxiv.org/pdf/2006.03283.pdf). 
-
 
 Marcos Matabuena , **O. H. Madrid-Padilla** .  Energy distance and kernel mean embeddings for two-sample
 survival testing. [Link](https://arxiv.org/pdf/1912.04160.pdf)
