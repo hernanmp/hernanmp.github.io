@@ -38,7 +38,7 @@ UCLA 2022-23 Faculty Career Development Award
 
 ### Published/Accepted papers
 
-C.M. Madrid-Padilla, H. Xu, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
+C.M. Madrid-Padilla, H. Xu, Daren Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
 nonparametric models under mixing conditions.
 [PDF](https://arxiv.org/pdf/2301.11491.pdf). **To appear in NeurIPS 2023.**
 
@@ -113,7 +113,7 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 
 ### Preprints
 
-Zhi Zhang, Kyle Ritscher, **O.H.  Madrid-Padilla**, D. Wang. Risk Bounds for Quantile Additive Trend Filtering. [PDF](https://arxiv.org/pdf/2310.11711.pdf).
+Zhi Zhang, Kyle Ritscher, **O.H.  Madrid-Padilla**. Risk Bounds for Quantile Additive Trend Filtering. [PDF](https://arxiv.org/pdf/2310.11711.pdf).
 
 C.M. Madrid-Padilla, **O.H.  Madrid-Padilla**, D. Wang. Temporal-spatial model via Trend Filtering. (The first author is one of my brothers).
 [PDF](https://aps.arxiv.org/pdf/2308.16172.pdf).
