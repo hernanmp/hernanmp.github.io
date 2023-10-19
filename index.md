@@ -113,6 +113,8 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 
 ### Preprints
 
+Zhi Zhang, Kyle Ritscher, **O.H.  Madrid-Padilla**, D. Wang. Risk Bounds for Quantile Additive Trend Filtering. [PDF](https://arxiv.org/pdf/2310.11711.pdf).
+
 C.M. Madrid-Padilla, **O.H.  Madrid-Padilla**, D. Wang. Temporal-spatial model via Trend Filtering. (The first author is one of my brothers).
 [PDF](https://aps.arxiv.org/pdf/2308.16172.pdf).
 
