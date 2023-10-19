@@ -38,7 +38,7 @@ UCLA 2022-23 Faculty Career Development Award
 
 ### Published/Accepted papers
 
-C.M. Madrid-Padilla, H. Xu, D. Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
+C.M. Madrid-Padilla, H. Xu, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
 nonparametric models under mixing conditions.
 [PDF](https://arxiv.org/pdf/2301.11491.pdf). **To appear in NeurIPS 2023.**
 
