@@ -38,7 +38,7 @@ UCLA 2022-23 Faculty Career Development Award
 
 ### Published/Accepted papers
 
-Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Network online change point localization. [PDF](https://arxiv.org/pdf/2101.05477.pdf).  **SIAM Journal on Mathematics of Data Science (SIMODS).**
+Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Network online change point localization. [PDF](https://arxiv.org/pdf/2101.05477.pdf).  **To appear in SIAM Journal on Mathematics of Data Science (SIMODS).**
 
 C.M. Madrid-Padilla, H. Xu, Daren Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
 nonparametric models under mixing conditions.
