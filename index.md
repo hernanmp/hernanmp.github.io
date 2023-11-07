@@ -38,6 +38,8 @@ UCLA 2022-23 Faculty Career Development Award
 
 ### Published/Accepted papers
 
+Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Network online change point localization. [PDF](https://arxiv.org/pdf/2101.05477.pdf).  **SIAM Journal on Mathematics of Data Science (SIMODS).**
+
 C.M. Madrid-Padilla, H. Xu, Daren Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
 nonparametric models under mixing conditions.
 [PDF](https://arxiv.org/pdf/2301.11491.pdf). **To appear in NeurIPS 2023.**
@@ -147,8 +149,6 @@ G. Ruiz, **O.-H. Madrid-Padilla**. Non-asymptotic confidence bands on the probab
 effects estimation. [PDF](https://arxiv.org/pdf/2110.00901.pdf). [Code](https://github.com/hernanmp/causal_fused_lasso).
 
 H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network Data. [PDF](https://arxiv.org/pdf/1905.10848.pdf). 
-
-Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Optimal network online change point localisation. [PDF](https://arxiv.org/pdf/2101.05477.pdf). 
 
 Marcos Matabuena , **O. H. Madrid-Padilla** .  Energy distance and kernel mean embeddings for two-sample
 survival testing. [Link](https://arxiv.org/pdf/1912.04160.pdf)
