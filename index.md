@@ -7,7 +7,8 @@ My  research interests  include:
 - Nonparametric  statistics
 - Change point detection
 - Causal inference
-- Quantile regression 
+- Quantile regression
+- Deep learning
 - Bayesian and empirical bayes methodology
 - Graphical models
 
