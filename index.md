@@ -39,6 +39,8 @@ UCLA 2022-23 Faculty Career Development Award
 
 ### Published/Accepted papers
 
+**O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). **To appear in Electronic Journal of Statistics.**
+
 Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Network online change point localization. [PDF](https://arxiv.org/pdf/2101.05477.pdf).  **To appear in SIAM Journal on Mathematics of Data Science (SIMODS).**
 
 C.M. Madrid-Padilla, H. Xu, Daren Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
@@ -143,8 +145,6 @@ M. Matabuena, J.C. Vidal, **O.-H. Madrid-Padilla**, D. Sejdinovic.
 Kernel Biclustering algorithm in Hilbert Spaces. [PDF](https://arxiv.org/pdf/2208.03675.pdf). 
 
 G. Ruiz, **O.-H. Madrid-Padilla**. Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT). [PDF](https://arxiv.org/pdf/2205.09094.pdf). 
-
-**O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). 
 
 **O.-H. Madrid-Padilla**,  Y. Chen, G. Ruiz. A causal fused lasso for interpretable heterogeneous treatment
 effects estimation. [PDF](https://arxiv.org/pdf/2110.00901.pdf). [Code](https://github.com/hernanmp/causal_fused_lasso).
