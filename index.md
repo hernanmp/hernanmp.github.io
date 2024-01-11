@@ -127,7 +127,7 @@ F. Wang, W. Li, **O.H.  Madrid-Padilla**, Y. Yu, A. Rinaldo. Multilayer random d
 Estimation and online change point detection. [PDF](https://arxiv.org/pdf/2306.15286.pdf).
 
 M. Essalat, **O.H.  Madrid-Padilla**,  V.Shetty, G. Pottie. Monitoring Brushing behaviors using Toothbrush Embedded Motion-Sensors. 
-[Link](https://www.techrxiv.org/articles/preprint/Monitoring_Brushing_behaviors_using_Toothbrush_Embedded_Motion-Sensors/22696360/1).
+[Link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.22696360.v2).
 
 Y.L Kei, H. Li, Y. Chen, **O.H.  Madrid-Padilla**. Change Point Detection on a Separable Model for Dynamic Networks. 
 [PDF](https://arxiv.org/abs/2303.17642).
