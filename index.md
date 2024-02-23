@@ -26,9 +26,9 @@ UCLA 2022-23 Faculty Career Development Award
 [Hellman Fellowship](https://www.hellmanfellows.org/), 2023-2024. 
 
 ### Equity diversity and inclusion:
-2023-24 IMS Committee on Equality and Diversity
+2023-24 IMS Committee on Equality and Diversity member.
 
-2024 Lathisms Scholarship Committee.
+2024 Lathisms Scholarship Committee member.
 
 ### Former Ph.D. students:
 
