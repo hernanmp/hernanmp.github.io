@@ -126,7 +126,7 @@ M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count mat
 
 C.K. Nguen, **O.H.  Madrid-Padilla**, A.A. Amini. Network two-sample test for block models. [PDF](https://arxiv.org/pdf/2406.06014).
 
-M. Matabuena, R. Ghosal, P. Mozharovskyi, **O.H.  Madrid-Padilla**, J.-P. Onnela.  Conformal uncertainty quantification using kernel depth measures in separable Hilbert spaces. [PDF](https://arxiv.org/pdf/2405.13970).
+M. Matabuena, R. Ghosal, P. Mozharovskyi, **O.H.  Madrid-Padilla**, J.P. Onnela.  Conformal uncertainty quantification using kernel depth measures in separable Hilbert spaces. [PDF](https://arxiv.org/pdf/2405.13970).
 
 M. Matabuena, J.C. Vidal, **O.H.  Madrid-Padilla**, J.P. Onnela. kNN Algorithm for Conditional Mean and Variance Estimation with Automated Uncertainty Quantification and Variable Selection. [PDF](https://arxiv.org/pdf/2402.01635.pdf).
 
