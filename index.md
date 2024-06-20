@@ -45,6 +45,10 @@ UCLA 2022-23 Faculty Career Development Award
 
 ### Published/Accepted papers
 
+**O.-H. Madrid-Padilla**. **To appear in Journal of Machine Learning Research.** Variance estimation in graphs with the fused lasso. [PDF](https://arxiv.org/pdf/2207.12638.pdf). 
+
+Marcos Matabuena , **O. H. Madrid-Padilla** . Energy distance and kernel mean embeddings for two-sample survival testing with application in immunotherapy clinical trial.  **To appear in REVSTAT.** [Link](https://arxiv.org/pdf/1912.04160.pdf)
+
 **O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). **To appear in Electronic Journal of Statistics.**
 
 Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Network online change point localization. [PDF](https://arxiv.org/pdf/2101.05477.pdf).  **To appear in SIAM Journal on Mathematics of Data Science (SIMODS).**
@@ -147,8 +151,6 @@ Y.L Kei, H. Li, Y. Chen, **O.H.  Madrid-Padilla**. Change Point Detection on a S
 L. Cappello, **O.H.  Madrid-Padilla**. Variance change point detection with credible sets. 
 [PDF](https://arxiv.org/pdf/2211.14097.pdf).
 
-**O.-H. Madrid-Padilla**. 
-Variance estimation in graphs with the fused lasso. [PDF](https://arxiv.org/pdf/2207.12638.pdf). 
 
 **O.-H. Madrid-Padilla**, Y. Yu. 
 Dynamic and heterogeneous treatment effects with abrupt changes. [PDF](https://arxiv.org/pdf/2206.09092.pdf). 
@@ -162,9 +164,6 @@ G. Ruiz, **O.-H. Madrid-Padilla**. Non-asymptotic confidence bands on the probab
 effects estimation. [PDF](https://arxiv.org/pdf/2110.00901.pdf). [Code](https://github.com/hernanmp/causal_fused_lasso).
 
 H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network Data. [PDF](https://arxiv.org/pdf/1905.10848.pdf). 
-
-Marcos Matabuena , **O. H. Madrid-Padilla** .  Energy distance and kernel mean embeddings for two-sample
-survival testing. [Link](https://arxiv.org/pdf/1912.04160.pdf)
  
  
 Shitong Wei, **O.-H. Madrid-Padilla**, James Sharpnack. Distributed Cartesian Power Graph Segmentation for Graphon Estimation. [Link](https://arxiv.org/abs/1805.09978).
