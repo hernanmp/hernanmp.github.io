@@ -123,7 +123,7 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count matrices derived from a family of negative binomial processes," **Journal of the American Statistical Association   2016, Vol. 111, No. 515, 1144-1156, Theory and Methods**. [PDF](https://www.tandfonline.com/doi/abs/10.1080/01621459.2015.1075407#.V1SXkberSM8). [Code](https://github.com/mingyuanzhou/NBP_random_count_matrices).
                
-**1-** W. Tansey, **O.-H. Madrid-Padilla**, A. Suggala, and P. Ravikumar.  Vector-Space Markov Random Fields via Exponential Families.**In International Conference on Machine Learning (ICML) 32, 2015**. [PDF](http://proceedings.mlr.press/v37/tansey15.pdf). [Code](https://github.com/tansey/vsmrfs) 
+**1.** W. Tansey, **O.-H. Madrid-Padilla**, A. Suggala, and P. Ravikumar.  Vector-Space Markov Random Fields via Exponential Families.**In International Conference on Machine Learning (ICML) 32, 2015**. [PDF](http://proceedings.mlr.press/v37/tansey15.pdf). [Code](https://github.com/tansey/vsmrfs) 
 
 
 ### Preprints
