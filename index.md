@@ -121,9 +121,9 @@ D. Hernandez-Hernandez* and **O.H.  Madrid-Padilla***.  Worst portfolios for dyn
 
 **O.H.  Madrid-Padilla** and J.G. Scott.  Tensor decomposition with generalized lasso penalties. **Journal of Computational and Graphical Statistics 2017, 26:3, 537-546**. [arXiv](https://arxiv.org/abs/1502.06930). [Code](https://amstat.tandfonline.com/doi/suppl/10.1080/10618600.2016.1255638?scroll=top#.Wepa8ltSzIU).
 
-M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count matrices derived from a family of negative binomial processes," **Journal of the American Statistical Association   2016, Vol. 111, No. 515, 1144-1156, Theory and Methods**. [PDF](https://www.tandfonline.com/doi/abs/10.1080/01621459.2015.1075407#.V1SXkberSM8). [Code](https://github.com/mingyuanzhou/NBP_random_count_matrices).
+2. M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count matrices derived from a family of negative binomial processes," **Journal of the American Statistical Association   2016, Vol. 111, No. 515, 1144-1156, Theory and Methods**. [PDF](https://www.tandfonline.com/doi/abs/10.1080/01621459.2015.1075407#.V1SXkberSM8). [Code](https://github.com/mingyuanzhou/NBP_random_count_matrices).
                
-W. Tansey, **O.-H. Madrid-Padilla**, A. Suggala, and P. Ravikumar.  Vector-Space Markov Random Fields via Exponential Families.**In International Conference on Machine Learning (ICML) 32, 2015**. [PDF](http://proceedings.mlr.press/v37/tansey15.pdf). [Code](https://github.com/tansey/vsmrfs) 
+1. W. Tansey, **O.-H. Madrid-Padilla**, A. Suggala, and P. Ravikumar.  Vector-Space Markov Random Fields via Exponential Families.**In International Conference on Machine Learning (ICML) 32, 2015**. [PDF](http://proceedings.mlr.press/v37/tansey15.pdf). [Code](https://github.com/tansey/vsmrfs) 
 
 
 ### Preprints
