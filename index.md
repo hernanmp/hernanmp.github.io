@@ -117,9 +117,9 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 **O.H.  Madrid-Padilla**, N.G. Polson and J.G. Scott. A deconvolution path to mixtures. **Electronic Journal of Statistics Volume 12, Number 1 (2018), 1717-1751**.
 
- D. Hernandez-Hernandez* and **O.H.  Madrid-Padilla***.  Worst portfolios for dynamic monetary utility processes. **Stochastics, Vol. 90, Number 1 (2018), 78-101.**
+4.  D. Hernandez-Hernandez* and **O.H.  Madrid-Padilla***.  Worst portfolios for dynamic monetary utility processes. **Stochastics, Vol. 90, Number 1 (2018), 78-101.**
 
-**O.H.  Madrid-Padilla** and J.G. Scott.  Tensor decomposition with generalized lasso penalties. **Journal of Computational and Graphical Statistics 2017, 26:3, 537-546**. [arXiv](https://arxiv.org/abs/1502.06930). [Code](https://amstat.tandfonline.com/doi/suppl/10.1080/10618600.2016.1255638?scroll=top#.Wepa8ltSzIU).
+3.  **O.H.  Madrid-Padilla** and J.G. Scott.  Tensor decomposition with generalized lasso penalties. **Journal of Computational and Graphical Statistics 2017, 26:3, 537-546**. [arXiv](https://arxiv.org/abs/1502.06930). [Code](https://amstat.tandfonline.com/doi/suppl/10.1080/10618600.2016.1255638?scroll=top#.Wepa8ltSzIU).
 
 2.  M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count matrices derived from a family of negative binomial processes," **Journal of the American Statistical Association   2016, Vol. 111, No. 515, 1144-1156, Theory and Methods**. [PDF](https://www.tandfonline.com/doi/abs/10.1080/01621459.2015.1075407#.V1SXkberSM8). [Code](https://github.com/mingyuanzhou/NBP_random_count_matrices).
                
