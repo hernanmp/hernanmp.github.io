@@ -47,7 +47,8 @@ UCLA 2022-23 Faculty Career Development Award
 
 3\. **O.-H. Madrid-Padilla**. Variance estimation in graphs with the fused lasso. **To appear in Journal of Machine Learning Research.** [PDF](https://arxiv.org/pdf/2207.12638.pdf). 
 
-2\. Marcos Matabuena , **O. H. Madrid-Padilla** . Energy distance and kernel mean embeddings for two-sample survival testing with application in immunotherapy clinical trial.  **To appear in REVSTAT.** [Link](https://arxiv.org/pdf/1912.04160.pdf)
+2\. Marcos Matabuena , **O. H. Madrid-Padilla** . Energy distance and kernel mean embeddings for two-sample survival testing with application in immunotherapy clinical 
+    trial.  **To appear in REVSTAT.** [Link](https://arxiv.org/pdf/1912.04160.pdf)
 
 **O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). **To appear in Electronic Journal of Statistics.**
 
