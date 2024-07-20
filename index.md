@@ -131,48 +131,48 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 ### Preprints
 
-C.K. Nguen, **O.H.  Madrid-Padilla**, A.A. Amini. Network two-sample test for block models. [PDF](https://arxiv.org/pdf/2406.06014).
+1. C.K. Nguen, **O.H.  Madrid-Padilla**, A.A. Amini. Network two-sample test for block models. [PDF](https://arxiv.org/pdf/2406.06014).
 
-M. Matabuena, R. Ghosal, P. Mozharovskyi, **O.H.  Madrid-Padilla**, J.P. Onnela.  Conformal uncertainty quantification using kernel depth measures in separable Hilbert spaces. [PDF](https://arxiv.org/pdf/2405.13970).
+1. M. Matabuena, R. Ghosal, P. Mozharovskyi, **O.H.  Madrid-Padilla**, J.P. Onnela.  Conformal uncertainty quantification using kernel depth measures in separable Hilbert spaces. [PDF](https://arxiv.org/pdf/2405.13970).
 
-M. Matabuena, J.C. Vidal, **O.H.  Madrid-Padilla**, J.P. Onnela. kNN Algorithm for Conditional Mean and Variance Estimation with Automated Uncertainty Quantification and Variable Selection. [PDF](https://arxiv.org/pdf/2402.01635.pdf).
+1. M. Matabuena, J.C. Vidal, **O.H.  Madrid-Padilla**, J.P. Onnela. kNN Algorithm for Conditional Mean and Variance Estimation with Automated Uncertainty Quantification and Variable Selection. [PDF](https://arxiv.org/pdf/2402.01635.pdf).
 
-Zhi Zhang, Kyle Ritscher, **O.H.  Madrid-Padilla**. Risk Bounds for Quantile Additive Trend Filtering. [PDF](https://arxiv.org/pdf/2310.11711.pdf).
+1. Zhi Zhang, Kyle Ritscher, **O.H.  Madrid-Padilla**. Risk Bounds for Quantile Additive Trend Filtering. [PDF](https://arxiv.org/pdf/2310.11711.pdf).
 
-C.M. Madrid-Padilla, **O.H.  Madrid-Padilla**, D. Wang. Temporal-spatial model via Trend Filtering. (The first author is one of my brothers).
+1. C.M. Madrid-Padilla, **O.H.  Madrid-Padilla**, D. Wang. Temporal-spatial model via Trend Filtering. (The first author is one of my brothers).
 [PDF](https://aps.arxiv.org/pdf/2308.16172.pdf).
 
-F. Wang, W. Li, **O.H.  Madrid-Padilla**, Y. Yu, A. Rinaldo. Multilayer random dot product graphs:
+1. F. Wang, W. Li, **O.H.  Madrid-Padilla**, Y. Yu, A. Rinaldo. Multilayer random dot product graphs:
 Estimation and online change point detection. [PDF](https://arxiv.org/pdf/2306.15286.pdf).
 
-M. Essalat, **O.H.  Madrid-Padilla**,  V.Shetty, G. Pottie. Monitoring Brushing behaviors using Toothbrush Embedded Motion-Sensors. 
+1. M. Essalat, **O.H.  Madrid-Padilla**,  V.Shetty, G. Pottie. Monitoring Brushing behaviors using Toothbrush Embedded Motion-Sensors. 
 [Link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.22696360.v2).
 
-Y.L Kei, H. Li, Y. Chen, **O.H.  Madrid-Padilla**. Change Point Detection on a Separable Model for Dynamic Networks. 
+1. Y.L Kei, H. Li, Y. Chen, **O.H.  Madrid-Padilla**. Change Point Detection on a Separable Model for Dynamic Networks. 
 [PDF](https://arxiv.org/abs/2303.17642).
 
-L. Cappello, **O.H.  Madrid-Padilla**. Variance change point detection with credible sets. 
+1. L. Cappello, **O.H.  Madrid-Padilla**. Variance change point detection with credible sets. 
 [PDF](https://arxiv.org/pdf/2211.14097.pdf).
 
 
-**O.-H. Madrid-Padilla**, Y. Yu. 
+1. **O.-H. Madrid-Padilla**, Y. Yu. 
 Dynamic and heterogeneous treatment effects with abrupt changes. [PDF](https://arxiv.org/pdf/2206.09092.pdf). 
 
-M. Matabuena, J.C. Vidal, **O.-H. Madrid-Padilla**, D. Sejdinovic. 
+1. M. Matabuena, J.C. Vidal, **O.-H. Madrid-Padilla**, D. Sejdinovic. 
 Kernel Biclustering algorithm in Hilbert Spaces. [PDF](https://arxiv.org/pdf/2208.03675.pdf). 
 
-G. Ruiz, **O.-H. Madrid-Padilla**. Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT). [PDF](https://arxiv.org/pdf/2205.09094.pdf). 
+1. G. Ruiz, **O.-H. Madrid-Padilla**. Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT). [PDF](https://arxiv.org/pdf/2205.09094.pdf). 
 
-**O.-H. Madrid-Padilla**,  Y. Chen, G. Ruiz. A causal fused lasso for interpretable heterogeneous treatment
+1. **O.-H. Madrid-Padilla**,  Y. Chen, G. Ruiz. A causal fused lasso for interpretable heterogeneous treatment
 effects estimation. [PDF](https://arxiv.org/pdf/2110.00901.pdf). [Code](https://github.com/hernanmp/causal_fused_lasso).
 
-H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network Data. [PDF](https://arxiv.org/pdf/1905.10848.pdf). 
+1. H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network Data. [PDF](https://arxiv.org/pdf/1905.10848.pdf). 
  
  
-Shitong Wei, **O.-H. Madrid-Padilla**, James Sharpnack. Distributed Cartesian Power Graph Segmentation for Graphon Estimation. [Link](https://arxiv.org/abs/1805.09978).
+1. Shitong Wei, **O.-H. Madrid-Padilla**, James Sharpnack. Distributed Cartesian Power Graph Segmentation for Graphon Estimation. [Link](https://arxiv.org/abs/1805.09978).
 
 
-**O.H.  Madrid-Padilla** and J.G. Scott.  Nonparametric density estimation by histogram trend filtering. [Link](https://arxiv.org/abs/1509.04348).
+1. **O.H.  Madrid-Padilla** and J.G. Scott.  Nonparametric density estimation by histogram trend filtering. [Link](https://arxiv.org/abs/1509.04348).
 
 *Alphabetical order.
 
