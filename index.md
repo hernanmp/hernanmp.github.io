@@ -70,45 +70,45 @@ A Partially Separable Model for Dynamic Valued Networks. [PDF](https://arxiv.org
 
 10. L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Scalable Bayesian change point detection with spike and slab priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). **To appear in the Journal of Computational and Graphical Statistics.**
 
-H. Jiang, S. Qin, **O.-H. Madrid-Padilla**. Feature Grouping and Sparse Principal Component Analysis with
+1. H. Jiang, S. Qin, **O.-H. Madrid-Padilla**. Feature Grouping and Sparse Principal Component Analysis with
 Truncated Regularization. [PDF](https://arxiv.org/pdf/2106.13685.pdf). **To appear in Stat.**
 
-G. Ruiz, **O.-H. Madrid-Padilla**, Q. Zhou. Sequentially learning the topological ordering of causal directed acyclic graphs with likelihood ratio scores. [PDF](https://arxiv.org/pdf/2202.01748.pdf). **To appear in Transactions on Machine Learning Research.**
+1. G. Ruiz, **O.-H. Madrid-Padilla**, Q. Zhou. Sequentially learning the topological ordering of causal directed acyclic graphs with likelihood ratio scores. [PDF](https://arxiv.org/pdf/2202.01748.pdf). **To appear in Transactions on Machine Learning Research.**
 
-Alexandre Belloni* , Mingli Chen* , **O. H. Madrid-Padilla*** , Zixuan (Kevin) Wang*  (alphabetical order).  High Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://arxiv.org/pdf/1912.02151.pdf). **To appear in Annals of Statistics.**
+1. Alexandre Belloni* , Mingli Chen* , **O. H. Madrid-Padilla*** , Zixuan (Kevin) Wang*  (alphabetical order).  High Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://arxiv.org/pdf/1912.02151.pdf). **To appear in Annals of Statistics.**
 
- **O.-H. Madrid-Padilla**, Yi Yu,  Carey E. Priebe. Change point localization in dependent
+ 1. **O.-H. Madrid-Padilla**, Yi Yu,  Carey E. Priebe. Change point localization in dependent
 dynamic nonparametric random dot product graphs. [Link](https://arxiv.org/abs/1911.07494). **To appear in Journal of Machine Learning Research.**
 
-**O.H.  Madrid-Padilla**, W. Tansey, Y. Chen.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). **To appear in Journal of Machine Learning Research.** [Code](https://github.com/tansey/quantile-regression).
+1. **O.H.  Madrid-Padilla**, W. Tansey, Y. Chen.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). **To appear in Journal of Machine Learning Research.** [Code](https://github.com/tansey/quantile-regression).
 
-Alfonso Landeros, **O.H.  Madrid-Padilla**, Hua Zhou, Kenneth Lange.  Extensions to the Proximal Distance of Method of Constrained
+1. Alfonso Landeros, **O.H.  Madrid-Padilla**, Hua Zhou, Kenneth Lange.  Extensions to the Proximal Distance of Method of Constrained
 Optimization. [PDF](https://arxiv.org/pdf/2009.00801.pdf).  **Journal of Machine Learning Research, Vol. 23, No. 182, 1−45, 2022.**
 [Code](https://github.com/alanderos91/ProximalDistanceAlgorithms.jl).
 
-M. Essalat, D. Morrison, S. Kak, E. Chang, I. Penso, R. Kulchar, **O.-H. Madrid-Padilla**,  V. Shetty. A naturalistic study of brushing patterns using powered toothbrushes. **PLoS One. 2022 May 19;17(5):e0263638.** [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263638).
+1. M. Essalat, D. Morrison, S. Kak, E. Chang, I. Penso, R. Kulchar, **O.-H. Madrid-Padilla**,  V. Shetty. A naturalistic study of brushing patterns using powered toothbrushes. **PLoS One. 2022 May 19;17(5):e0263638.** [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263638).
 
-F. Wang, **O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo. Denoising and change point localisation in piecewise-constant
+1. F. Wang, **O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo. Denoising and change point localisation in piecewise-constant
 high-dimensional regression coefficients. **Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, PMLR 151:4309-4338.** **(Oral presentation, in the top 44 out of 1685 submissions).** [PDF](https://proceedings.mlr.press/v151/wang22c/wang22c.pdf).
 
-Y. Yu, **O.-H. Madrid-Padilla**, A. Rinaldo. Optimal partition recovery in general graphs. **Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, PMLR 151:4339-4358.** [PDF](https://proceedings.mlr.press/v151/yu22b/yu22b.pdf).
+1. Y. Yu, **O.-H. Madrid-Padilla**, A. Rinaldo. Optimal partition recovery in general graphs. **Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, PMLR 151:4339-4358.** [PDF](https://proceedings.mlr.press/v151/yu22b/yu22b.pdf).
 
- **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric multivariate change point detection and localization.
+1. **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric multivariate change point detection and localization.
  **IEEE Transactions on Information Theory,  Volume: 68, Issue: 3, March 2022.** [PDF](http://arxiv.org/abs/1910.13289)
  
-**O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo.  Lattice partition recovery with dyadic CART. **34th Conference on Neural Information Processing Systems. 2021.** [PDF](https://arxiv.org/pdf/2105.13504.pdf). 
+1. **O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo.  Lattice partition recovery with dyadic CART. **34th Conference on Neural Information Processing Systems. 2021.** [PDF](https://arxiv.org/pdf/2105.13504.pdf). 
 
-**O.H.  Madrid-Padilla**,  Sabyasachi Chatterjee.  Risk Bounds for Quantile Trend Filtering. **To appear in Biometrika.** [PDF](https://arxiv.org/pdf/2007.07472.pdf). 
+1. **O.H.  Madrid-Padilla**,  Sabyasachi Chatterjee.  Risk Bounds for Quantile Trend Filtering. **To appear in Biometrika.** [PDF](https://arxiv.org/pdf/2007.07472.pdf). 
 
-**O.-H. Madrid-Padilla** and Y. Chen.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. **To appear in  The Canadian Journal of Statistics.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
+1. **O.-H. Madrid-Padilla** and Y. Chen.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. **To appear in  The Canadian Journal of Statistics.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
 
-S. Woody, **O.-H. Madrid-Padilla**, J. G. Scott.  Optimal post-selection inference for sparse signals:
+1. S. Woody, **O.-H. Madrid-Padilla**, J. G. Scott.  Optimal post-selection inference for sparse signals:
 a nonparametric empirical-Bayes approach. [PDF](https://arxiv.org/pdf/1810.11042.pdf). **Biometrika, Volume 109, Issue 1, March 2022, Pages 1–16.** 
 
-S. Ye, **O.H.  Madrid-Padilla**.  Non-Parametric Quantile Regression via the K-NN
+1. S. Ye, **O.H.  Madrid-Padilla**.  Non-Parametric Quantile Regression via the K-NN
 Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine Learning Research, Vol. 22, No. 111, 1-38, 2021.** [Code](https://github.com/stevenysw/qt_knnfl).
 
- **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric change point detection and localization. **Electronic Journal of Statistics. 15 (1) 1154 - 1201, 2021.**  [Link](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-1/Optimal-nonparametric-change-point-analysis/10.1214/21-EJS1809.full).
+1. **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric change point detection and localization. **Electronic Journal of Statistics. 15 (1) 1154 - 1201, 2021.**  [Link](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-1/Optimal-nonparametric-change-point-analysis/10.1214/21-EJS1809.full).
 
 **O.H.  Madrid-Padilla**,  James Sharpnack, Yanzhen Chen, Daniela  Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso
 . **Biometrika, Volume 107, Issue 2, June 2020, Pages 293–310.** [Link](https://academic.oup.com/biomet/article-abstract/107/2/293/5717457). [Code](https://github.com/stevenysw/qt_knnfl).
