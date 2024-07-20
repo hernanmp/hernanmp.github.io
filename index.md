@@ -47,25 +47,25 @@ UCLA 2022-23 Faculty Career Development Award
 
 1.  **O.-H. Madrid-Padilla**. Variance estimation in graphs with the fused lasso. **To appear in Journal of Machine Learning Research.** [PDF](https://arxiv.org/pdf/2207.12638.pdf). 
 
-Marcos Matabuena , **O. H. Madrid-Padilla**. Energy distance and kernel mean embeddings for two-sample survival testing with application in immunotherapy clinical 
+2. Marcos Matabuena , **O. H. Madrid-Padilla**. Energy distance and kernel mean embeddings for two-sample survival testing with application in immunotherapy clinical 
 trial.  **To appear in REVSTAT.** [Link](https://arxiv.org/pdf/1912.04160.pdf)
 
-**O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). **To appear in Electronic Journal of Statistics.**
+3. **O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). **To appear in Electronic Journal of Statistics.**
 
 
-Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Network online change point localization. [PDF](https://arxiv.org/pdf/2101.05477.pdf).  **To appear in SIAM Journal on Mathematics of Data Science (SIMODS).**
+4. Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Network online change point localization. [PDF](https://arxiv.org/pdf/2101.05477.pdf).  **To appear in SIAM Journal on Mathematics of Data Science (SIMODS).**
 
-C.M. Madrid-Padilla, H. Xu, Daren Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
+5. C.M. Madrid-Padilla, H. Xu, Daren Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
 nonparametric models under mixing conditions.
 [PDF](https://arxiv.org/pdf/2301.11491.pdf). **To appear in NeurIPS 2023.**
 
 
-Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  A Note on Online Change Point Detection. [PDF](https://arxiv.org/pdf/2006.03283.pdf). **To appear in Sequential Analysis.**
+6. Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  A Note on Online Change Point Detection. [PDF](https://arxiv.org/pdf/2006.03283.pdf). **To appear in Sequential Analysis.**
 
-S. Ye, Y. Chen, **O.-H. Madrid-Padilla**. 2D score based estimation of heterogeneous treatment effects. [PDF](https://arxiv.org/pdf/2110.02401.pdf). [Code](https://github.com/stevenysw/causal_pp). **To appear in Journal of Causal Inference.**
+7. S. Ye, Y. Chen, **O.-H. Madrid-Padilla**. 2D score based estimation of heterogeneous treatment effects. [PDF](https://arxiv.org/pdf/2110.02401.pdf). [Code](https://github.com/stevenysw/causal_pp). **To appear in Journal of Causal Inference.**
 
 
-Y.L Kei, Y. Chen, **O.-H. Madrid-Padilla**. 
+8. Y.L Kei, Y. Chen, **O.-H. Madrid-Padilla**. 
 A Partially Separable Model for Dynamic Valued Networks. [PDF](https://arxiv.org/pdf/2205.13651.pdf). **To appear in Computational Statistics & Data Analysis.**
 
 L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Scalable Bayesian change point detection with spike and slab priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). **To appear in the Journal of Computational and Graphical Statistics.**
