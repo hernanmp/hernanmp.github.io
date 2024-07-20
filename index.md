@@ -68,7 +68,7 @@ nonparametric models under mixing conditions.
 8. Y.L Kei, Y. Chen, **O.-H. Madrid-Padilla**. 
 A Partially Separable Model for Dynamic Valued Networks. [PDF](https://arxiv.org/pdf/2205.13651.pdf). **To appear in Computational Statistics & Data Analysis.**
 
-L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Scalable Bayesian change point detection with spike and slab priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). **To appear in the Journal of Computational and Graphical Statistics.**
+10. L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Scalable Bayesian change point detection with spike and slab priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). **To appear in the Journal of Computational and Graphical Statistics.**
 
 H. Jiang, S. Qin, **O.-H. Madrid-Padilla**. Feature Grouping and Sparse Principal Component Analysis with
 Truncated Regularization. [PDF](https://arxiv.org/pdf/2106.13685.pdf). **To appear in Stat.**
