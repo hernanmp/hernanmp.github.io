@@ -110,22 +110,22 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 1. **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric change point detection and localization. **Electronic Journal of Statistics. 15 (1) 1154 - 1201, 2021.**  [Link](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-1/Optimal-nonparametric-change-point-analysis/10.1214/21-EJS1809.full).
 
-**O.H.  Madrid-Padilla**,  James Sharpnack, Yanzhen Chen, Daniela  Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso
+1. **O.H.  Madrid-Padilla**,  James Sharpnack, Yanzhen Chen, Daniela  Witten.  Adaptive Non-Parametric Regression With the K-NN Fused Lasso
 . **Biometrika, Volume 107, Issue 2, June 2020, Pages 293–310.** [Link](https://academic.oup.com/biomet/article-abstract/107/2/293/5717457). [Code](https://github.com/stevenysw/qt_knnfl).
 
-**O.H.  Madrid-Padilla**,  Alex Athey, Alex Reinhart, James G. Scott.  Sequential nonparametric tests for a change in distribution: an application to detecting radiological anomalies. **Journal of the American Statistical Association, Vol. 114, Issue  526, 514-528, 2019.** [Link](https://www.tandfonline.com/doi/abs/10.1080/01621459.2018.1476245?journalCode=uasa20). 
+1. **O.H.  Madrid-Padilla**,  Alex Athey, Alex Reinhart, James G. Scott.  Sequential nonparametric tests for a change in distribution: an application to detecting radiological anomalies. **Journal of the American Statistical Association, Vol. 114, Issue  526, 514-528, 2019.** [Link](https://www.tandfonline.com/doi/abs/10.1080/01621459.2018.1476245?journalCode=uasa20). 
 
-**O.H.  Madrid-Padilla**, J. Sharpnack, J.G. Scott, and R.J Tibshirani. The DFS Fused Lasso: Linear-Time Denoising over General Graphs.  **Journal of Machine Learning Research, Vol. 18, No. 176, 1-36, 2018**. [Link](http://www.jmlr.org/papers/volume18/16-532/16-532.pdf).
+1. **O.H.  Madrid-Padilla**, J. Sharpnack, J.G. Scott, and R.J Tibshirani. The DFS Fused Lasso: Linear-Time Denoising over General Graphs.  **Journal of Machine Learning Research, Vol. 18, No. 176, 1-36, 2018**. [Link](http://www.jmlr.org/papers/volume18/16-532/16-532.pdf).
 
-**O.H.  Madrid-Padilla**, N.G. Polson and J.G. Scott. A deconvolution path to mixtures. **Electronic Journal of Statistics Volume 12, Number 1 (2018), 1717-1751**.
+1. **O.H.  Madrid-Padilla**, N.G. Polson and J.G. Scott. A deconvolution path to mixtures. **Electronic Journal of Statistics Volume 12, Number 1 (2018), 1717-1751**.
 
-D. Hernandez-Hernandez* and **O.H.  Madrid-Padilla***.  Worst portfolios for dynamic monetary utility processes. **Stochastics, Vol. 90, Number 1 (2018), 78-101.**
+1. D. Hernandez-Hernandez* and **O.H.  Madrid-Padilla***.  Worst portfolios for dynamic monetary utility processes. **Stochastics, Vol. 90, Number 1 (2018), 78-101.**
 
-**O.H.  Madrid-Padilla** and J.G. Scott.  Tensor decomposition with generalized lasso penalties. **Journal of Computational and Graphical Statistics 2017, 26:3, 537-546**. [arXiv](https://arxiv.org/abs/1502.06930). [Code](https://amstat.tandfonline.com/doi/suppl/10.1080/10618600.2016.1255638?scroll=top#.Wepa8ltSzIU).
+1. **O.H.  Madrid-Padilla** and J.G. Scott.  Tensor decomposition with generalized lasso penalties. **Journal of Computational and Graphical Statistics 2017, 26:3, 537-546**. [arXiv](https://arxiv.org/abs/1502.06930). [Code](https://amstat.tandfonline.com/doi/suppl/10.1080/10618600.2016.1255638?scroll=top#.Wepa8ltSzIU).
 
-M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count matrices derived from a family of negative binomial processes," **Journal of the American Statistical Association   2016, Vol. 111, No. 515, 1144-1156, Theory and Methods**. [PDF](https://www.tandfonline.com/doi/abs/10.1080/01621459.2015.1075407#.V1SXkberSM8). [Code](https://github.com/mingyuanzhou/NBP_random_count_matrices).
+1. M. Zhou, **O.H.  Madrid-Padilla**, and J. G. Scott, "Priors for random count matrices derived from a family of negative binomial processes," **Journal of the American Statistical Association   2016, Vol. 111, No. 515, 1144-1156, Theory and Methods**. [PDF](https://www.tandfonline.com/doi/abs/10.1080/01621459.2015.1075407#.V1SXkberSM8). [Code](https://github.com/mingyuanzhou/NBP_random_count_matrices).
                
-W. Tansey, **O.-H. Madrid-Padilla**, A. Suggala, and P. Ravikumar.  Vector-Space Markov Random Fields via Exponential Families.**In International Conference on Machine Learning (ICML) 32, 2015**. [PDF](http://proceedings.mlr.press/v37/tansey15.pdf). [Code](https://github.com/tansey/vsmrfs) 
+1. W. Tansey, **O.-H. Madrid-Padilla**, A. Suggala, and P. Ravikumar.  Vector-Space Markov Random Fields via Exponential Families.**In International Conference on Machine Learning (ICML) 32, 2015**. [PDF](http://proceedings.mlr.press/v37/tansey15.pdf). [Code](https://github.com/tansey/vsmrfs) 
 
 
 
