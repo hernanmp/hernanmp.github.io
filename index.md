@@ -23,16 +23,13 @@ I was  born  and raised in Honduras. Here is a [bio](https://assets-global.websi
 - Associate Editor for Stat, 2022--present
 
 ### Grants:
-NSF DMS-2015489 
-
-UCLA 2022-23 Faculty Career Development Award 
-
-[Hellman Fellowship](https://www.hellmanfellows.org/), 2023-2024. 
+- NSF DMS-2015489 
+- UCLA 2022-23 Faculty Career Development Award 
+- [Hellman Fellowship](https://www.hellmanfellows.org/), 2023-2024. 
 
 ### Equity diversity and inclusion:
-2023-24 IMS Committee on Equality and Diversity member.
-
-2024 Lathisms Scholarship Committee member.
+- 2023-24 IMS Committee on Equality and Diversity member.
+- 2024 Lathisms Scholarship Committee member.
 
 ### Former Ph.D. students:
 
