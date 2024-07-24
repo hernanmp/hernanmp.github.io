@@ -76,7 +76,7 @@ Truncated Regularization. [PDF](https://arxiv.org/pdf/2106.13685.pdf). **To appe
 
 1. G. Ruiz, **O.-H. Madrid-Padilla**, Q. Zhou. Sequentially learning the topological ordering of causal directed acyclic graphs with likelihood ratio scores. [PDF](https://arxiv.org/pdf/2202.01748.pdf). **To appear in Transactions on Machine Learning Research.**
 
-1. Alexandre Belloni* , Mingli Chen* , **O. H. Madrid-Padilla*** , Zixuan (Kevin) Wang*  (alphabetical order).  High Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-1/High-dimensional-latent-panel-quantile-regression-with-an-application-to/10.1214/22-AOS2223.short). [arXiv](https://arxiv.org/pdf/1912.02151.pdf). **To appear in Annals of Statistics.**
+1. Alexandre Belloni* , Mingli Chen* , **O. H. Madrid-Padilla*** , Zixuan (Kevin) Wang*  (alphabetical order).  High-Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-1/High-dimensional-latent-panel-quantile-regression-with-an-application-to/10.1214/22-AOS2223.short). [arXiv](https://arxiv.org/pdf/1912.02151.pdf). **Annals of Statistics. 51(1): 96-121 (February 2023).**
 
  1. **O.-H. Madrid-Padilla**, Yi Yu,  Carey E. Priebe. Change point localization in dependent
 dynamic nonparametric random dot product graphs. [Link](https://arxiv.org/abs/1911.07494). **To appear in Journal of Machine Learning Research.**
