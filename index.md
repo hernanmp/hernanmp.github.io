@@ -99,9 +99,9 @@ high-dimensional regression coefficients. **Proceedings of The 25th Internationa
  
 1. **O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo.  Lattice partition recovery with dyadic CART. **34th Conference on Neural Information Processing Systems. 2021.** [PDF](https://arxiv.org/pdf/2105.13504.pdf). 
 
-1. **O.H.  Madrid-Padilla**,  Sabyasachi Chatterjee.  Risk Bounds for Quantile Trend Filtering. **To appear in Biometrika.** [PDF](https://arxiv.org/pdf/2007.07472.pdf). 
+1. **O.H.  Madrid-Padilla**,  Sabyasachi Chatterjee.  Risk Bounds for Quantile Trend Filtering. **Biometrika, 109(3), 751-768.** [PDF](https://arxiv.org/pdf/2007.07472.pdf). 
 
-1. **O.-H. Madrid-Padilla** and Y. Chen.  Graphon estimation via nearest neighbor algorithm and 2D fused lasso denoising. **To appear in  The Canadian Journal of Statistics.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
+1. **O.-H. Madrid-Padilla** and Y. Chen.  Graphon estimation via nearest-neighbour algorithm and two-dimensional fused-lasso denoising. **The Canadian Journal of Statistics, 51(1), 95-110, 2023.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
 
 1. S. Woody, **O.-H. Madrid-Padilla**, J. G. Scott.  Optimal post-selection inference for sparse signals:
 a nonparametric empirical-Bayes approach. [PDF](https://arxiv.org/pdf/1810.11042.pdf). **Biometrika, Volume 109, Issue 1, March 2022, Pages 1–16.** 
