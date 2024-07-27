@@ -79,7 +79,7 @@ Truncated Regularization. [PDF](https://arxiv.org/pdf/2106.13685.pdf). **Stat, 1
 1. Alexandre Belloni* , Mingli Chen* , **O. H. Madrid-Padilla*** , Zixuan (Kevin) Wang*  (alphabetical order).  High-Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-1/High-dimensional-latent-panel-quantile-regression-with-an-application-to/10.1214/22-AOS2223.short). [arXiv](https://arxiv.org/pdf/1912.02151.pdf). **Annals of Statistics. 51(1): 96-121 (February 2023).**
 
  1. **O.-H. Madrid-Padilla**, Yi Yu,  Carey E. Priebe. Change point localization in dependent
-dynamic nonparametric random dot product graphs. [Link](https://arxiv.org/abs/1911.07494). **To appear in Journal of Machine Learning Research.**
+dynamic nonparametric random dot product graphs. [Link](https://www.jmlr.org/papers/volume23/20-643/20-643.pdf). **Journal of Machine Learning Research, 23(234), 1-59, 2022**
 
 1. **O.H.  Madrid-Padilla**, W. Tansey, Y. Chen.  Quantile regression with ReLU Networks: Estimators and minimax rates. [PDF](https://arxiv.org/pdf/2010.08236.pdf). **To appear in Journal of Machine Learning Research.** [Code](https://github.com/tansey/quantile-regression).
 
