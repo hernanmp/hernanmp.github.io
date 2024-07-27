@@ -51,7 +51,7 @@ I was  born  and raised in Honduras. Here is a [bio](https://assets-global.websi
 2. Marcos Matabuena , **O. H. Madrid-Padilla**. Energy distance and kernel mean embeddings for two-sample survival testing with application in immunotherapy clinical 
 trial.  **To appear in REVSTAT.** [Link](https://arxiv.org/pdf/1912.04160.pdf)
 
-3. **O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). **To appear in Electronic Journal of Statistics.**
+3. **O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). **Electronic Journal of Statistics, 8(1), 1206-1247..**
 
 
 4. Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Network online change point localization. [PDF](https://arxiv.org/pdf/2101.05477.pdf).  **To appear in SIAM Journal on Mathematics of Data Science (SIMODS).**
