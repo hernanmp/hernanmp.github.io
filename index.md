@@ -18,6 +18,9 @@ My  research interests  include:
 
 A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github.io/blob/master/cv_oscar_madrid.pdf).
 
+### Email: 
+oscar dot madrid at  stat dot ucla dot edu
+
 ### Personal:
 I was  born  and raised in Honduras. Here is a [bio](https://assets-global.website-files.com/5f3e96827894c2ff19996e36/65058c12ffd1d227c01ea2b3_Oct%2014_Dr.%20Madrid%20Padilla_Poster.pdf) featured in Lathisms 2023. Despite growing up in some of the poorest regions of Honduras, thanks to my parent's tremendous efforts, my two brothers and I could become academics. [Carlos](https://cmadridp.github.io/) and [Jose](https://sites.google.com/site/joseramonmadridpadilla/home?authuser=2) work in statistics and pure mathematics, respectively.
 
