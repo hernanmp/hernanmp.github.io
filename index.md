@@ -54,7 +54,7 @@ trial.  **To appear in REVSTAT.** [Link](https://arxiv.org/pdf/1912.04160.pdf)
 3. **O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). **Electronic Journal of Statistics, 8(1), 1206-1247.**
 
 
-4. Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Network online change point localization. [PDF](https://arxiv.org/pdf/2101.05477.pdf).  **To appear in SIAM Journal on Mathematics of Data Science (SIMODS).**
+4. Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Network online change point localization. [PDF](https://arxiv.org/pdf/2101.05477.pdf).  **SIAM Journal on Mathematics of Data Science (SIMODS), 6(1), 176-198.**
 
 5. C.M. Madrid-Padilla, H. Xu, Daren Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
 nonparametric models under mixing conditions.
