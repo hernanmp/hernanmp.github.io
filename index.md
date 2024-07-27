@@ -63,7 +63,7 @@ nonparametric models under mixing conditions.
 
 6. Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  A Note on Online Change Point Detection. [PDF](https://arxiv.org/pdf/2006.03283.pdf). **Sequential Analysis, 42(4), 438-471.**
 
-7. S. Ye, Y. Chen, **O.-H. Madrid-Padilla**. 2D score based estimation of heterogeneous treatment effects. [PDF](https://arxiv.org/pdf/2110.02401.pdf). [Code](https://github.com/stevenysw/causal_pp). **To appear in Journal of Causal Inference.**
+7. S. Ye, Y. Chen, **O.-H. Madrid-Padilla**. 2D score based estimation of heterogeneous treatment effects. [PDF](https://arxiv.org/pdf/2110.02401.pdf). [Code](https://github.com/stevenysw/causal_pp). **Journal of Causal Inference, 11(1), 20220016.**
 
 
 8. Y.L Kei, Y. Chen, **O.-H. Madrid-Padilla**. 
