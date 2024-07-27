@@ -51,32 +51,34 @@ I was  born  and raised in Honduras. Here is a [bio](https://assets-global.websi
 2. Marcos Matabuena , **O. H. Madrid-Padilla**. Energy distance and kernel mean embeddings for two-sample survival testing with application in immunotherapy clinical 
 trial.  **To appear in REVSTAT.** [Link](https://arxiv.org/pdf/1912.04160.pdf)
 
-3. **O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). **Electronic Journal of Statistics, 8(1), 1206-1247.**
+3. **O.-H. Madrid-Padilla**, S. Chatterjee. Quantile Regression by Dyadic CART. [PDF](https://arxiv.org/pdf/2110.08665.pdf). **Electronic Journal of Statistics, 8(1), 1206-1247, 2024.**
 
 
-4. Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Network online change point localization. [PDF](https://arxiv.org/pdf/2101.05477.pdf).  **SIAM Journal on Mathematics of Data Science (SIMODS), 6(1), 176-198.**
+4. Y. Yu, **O.-H. Madrid-Padilla**, D. Wang, A. Rinaldo.  Network online change point localization. [PDF](https://arxiv.org/pdf/2101.05477.pdf).  **SIAM Journal on Mathematics of Data Science (SIMODS), 6(1), 176-198, 2024.**
 
 5. C.M. Madrid-Padilla, H. Xu, Daren Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
 nonparametric models under mixing conditions.
-[PDF](https://arxiv.org/pdf/2301.11491.pdf). **Advances in Neural Information Processing Systems (NeurIPS), 36 (2023): 21081-21134.**
+[PDF](https://arxiv.org/pdf/2301.11491.pdf). **Advances in Neural Information Processing Systems (NeurIPS), 36: 21081-21134, 2023.**
 
 
-6. Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  A Note on Online Change Point Detection. [PDF](https://arxiv.org/pdf/2006.03283.pdf). **Sequential Analysis, 42(4), 438-471.**
+6. Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  A Note on Online Change Point Detection. [PDF](https://arxiv.org/pdf/2006.03283.pdf). **Sequential Analysis, 42(4), 438-471, 2023.**
 
-7. S. Ye, Y. Chen, **O.-H. Madrid-Padilla**. 2D score based estimation of heterogeneous treatment effects. [PDF](https://arxiv.org/pdf/2110.02401.pdf). [Code](https://github.com/stevenysw/causal_pp). **Journal of Causal Inference, 11(1), 20220016.**
+7. S. Ye, Y. Chen, **O.-H. Madrid-Padilla**. 2D score based estimation of heterogeneous treatment effects. [PDF](https://arxiv.org/pdf/2110.02401.pdf). [Code](https://github.com/stevenysw/causal_pp). **Journal of Causal Inference, 11(1), 20220016, 2023.**
 
 
 8. Y.L Kei, Y. Chen, **O.-H. Madrid-Padilla**. 
-A Partially Separable Model for Dynamic Valued Networks. [PDF](https://arxiv.org/pdf/2205.13651.pdf). **Computational Statistics & Data Analysis, 187, 107811.**
+A Partially Separable Model for Dynamic Valued Networks. [PDF](https://arxiv.org/pdf/2205.13651.pdf). **Computational Statistics & Data Analysis, 187, 107811, 2023.**
 
-10. L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Bayesian Change Point Detection with Spike and Slab Priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). **Journal of Computational and Graphical Statistics, 32(4), 1488-1500.**
+10. L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Bayesian Change Point Detection with Spike and Slab Priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). **Journal of Computational and Graphical Statistics, 32(4), 1488-1500, 2023.**
 
 1. H. Jiang, S. Qin, **O.-H. Madrid-Padilla**. Feature Grouping and Sparse Principal Component Analysis with
-Truncated Regularization. [PDF](https://arxiv.org/pdf/2106.13685.pdf). **Stat, 12(1), e538.**
+Truncated Regularization. [PDF](https://arxiv.org/pdf/2106.13685.pdf). **Stat, 12(1), e538, 2023.**
 
-1. G. Ruiz, **O.-H. Madrid-Padilla**, Q. Zhou. Sequentially learning the topological ordering of causal directed acyclic graphs with likelihood ratio scores. [PDF](https://openreview.net/pdf?id=4pCjIGIjrt). **Transactions on Machine Learning Research 2022.**
 
 1. Alexandre Belloni* , Mingli Chen* , **O. H. Madrid-Padilla*** , Zixuan (Kevin) Wang*  (alphabetical order).  High-Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-1/High-dimensional-latent-panel-quantile-regression-with-an-application-to/10.1214/22-AOS2223.short). [arXiv](https://arxiv.org/pdf/1912.02151.pdf). **Annals of Statistics. 51(1): 96-121 (February 2023).**
+
+
+1. G. Ruiz, **O.-H. Madrid-Padilla**, Q. Zhou. Sequentially learning the topological ordering of causal directed acyclic graphs with likelihood ratio scores. [PDF](https://openreview.net/pdf?id=4pCjIGIjrt). **Transactions on Machine Learning Research 2022.**
 
  1. **O.-H. Madrid-Padilla**, Yi Yu,  Carey E. Priebe. Change point localization in dependent
 dynamic nonparametric random dot product graphs. [Link](https://www.jmlr.org/papers/volume23/20-643/20-643.pdf). **Journal of Machine Learning Research, 23(234), 1-59, 2022**
@@ -90,16 +92,16 @@ Optimization. [PDF](https://www.jmlr.org/papers/volume23/20-964/20-964.pdf).  **
 1. M. Essalat, D. Morrison, S. Kak, E. Chang, I. Penso, R. Kulchar, **O.-H. Madrid-Padilla**,  V. Shetty. A naturalistic study of brushing patterns using powered toothbrushes. **PLoS One. 2022 May 19;17(5):e0263638.** [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263638).
 
 1. F. Wang, **O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo. Denoising and change point localisation in piecewise-constant
-high-dimensional regression coefficients. **Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, PMLR 151:4309-4338.** **(Oral presentation, in the top 44 out of 1685 submissions).** [PDF](https://proceedings.mlr.press/v151/wang22c/wang22c.pdf).
+high-dimensional regression coefficients. **Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, PMLR 151:4309-4338.** **(Oral presentation, in the top 44 out of 1685 submissions), 2022.** [PDF](https://proceedings.mlr.press/v151/wang22c/wang22c.pdf).
 
-1. Y. Yu, **O.-H. Madrid-Padilla**, A. Rinaldo. Optimal partition recovery in general graphs. **Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, PMLR 151:4339-4358.** [PDF](https://proceedings.mlr.press/v151/yu22b/yu22b.pdf).
+1. Y. Yu, **O.-H. Madrid-Padilla**, A. Rinaldo. Optimal partition recovery in general graphs. **Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, PMLR 151:4339-4358, 2022.** [PDF](https://proceedings.mlr.press/v151/yu22b/yu22b.pdf).
 
 1. **O.-H. Madrid-Padilla**, Yi Yu, Daren Wang, Alessandro Rinaldo. Optimal nonparametric multivariate change point detection and localization.
  **IEEE Transactions on Information Theory,  Volume: 68, Issue: 3, March 2022.** [PDF](http://arxiv.org/abs/1910.13289)
  
 1. **O.-H. Madrid-Padilla**, Y. Yu, A. Rinaldo.  Lattice partition recovery with dyadic CART. **34th Conference on Neural Information Processing Systems. 2021.** [PDF](https://arxiv.org/pdf/2105.13504.pdf). 
 
-1. **O.H.  Madrid-Padilla**,  Sabyasachi Chatterjee.  Risk Bounds for Quantile Trend Filtering. **Biometrika, 109(3), 751-768.** [PDF](https://arxiv.org/pdf/2007.07472.pdf). 
+1. **O.H.  Madrid-Padilla**,  Sabyasachi Chatterjee.  Risk Bounds for Quantile Trend Filtering. **Biometrika, 109(3), 751-768, 2022.** [PDF](https://arxiv.org/pdf/2007.07472.pdf). 
 
 1. **O.-H. Madrid-Padilla** and Y. Chen.  Graphon estimation via nearest-neighbour algorithm and two-dimensional fused-lasso denoising. **The Canadian Journal of Statistics, 51(1), 95-110, 2023.**  [Link](https://arxiv.org/pdf/1805.07042.pdf).
 
