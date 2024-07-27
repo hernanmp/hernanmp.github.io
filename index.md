@@ -58,7 +58,7 @@ trial.  **To appear in REVSTAT.** [Link](https://arxiv.org/pdf/1912.04160.pdf)
 
 5. C.M. Madrid-Padilla, H. Xu, Daren Wang, **O.H.  Madrid-Padilla**, Y. Yu. Change point detection and inference in multivariable
 nonparametric models under mixing conditions.
-[PDF](https://arxiv.org/pdf/2301.11491.pdf). **To appear in NeurIPS 2023.**
+[PDF](https://arxiv.org/pdf/2301.11491.pdf). **Advances in Neural Information Processing Systems (NeurIPS), 36 (2023): 21081-21134.**
 
 
 6. Yi Yu, **O.-H. Madrid-Padilla**, Daren Wang, Alessandro Rinaldo.  A Note on Online Change Point Detection. [PDF](https://arxiv.org/pdf/2006.03283.pdf). **To appear in Sequential Analysis.**
