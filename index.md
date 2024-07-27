@@ -67,14 +67,14 @@ nonparametric models under mixing conditions.
 
 
 8. Y.L Kei, Y. Chen, **O.-H. Madrid-Padilla**. 
-A Partially Separable Model for Dynamic Valued Networks. [PDF](https://arxiv.org/pdf/2205.13651.pdf). **To appear in Computational Statistics & Data Analysis.**
+A Partially Separable Model for Dynamic Valued Networks. [PDF](https://arxiv.org/pdf/2205.13651.pdf). **Computational Statistics & Data Analysis, 187, 107811.**
 
-10. L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Scalable Bayesian change point detection with spike and slab priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). **To appear in the Journal of Computational and Graphical Statistics.**
+10. L. Cappello, **O.-H. Madrid-Padilla**,  J. A. Palacios.  Bayesian Change Point Detection with Spike and Slab Priors. [PDF](https://arxiv.org/pdf/2106.10383.pdf). **Journal of Computational and Graphical Statistics, 32(4), 1488-1500.**
 
 1. H. Jiang, S. Qin, **O.-H. Madrid-Padilla**. Feature Grouping and Sparse Principal Component Analysis with
-Truncated Regularization. [PDF](https://arxiv.org/pdf/2106.13685.pdf). **To appear in Stat.**
+Truncated Regularization. [PDF](https://arxiv.org/pdf/2106.13685.pdf). **Stat, 12(1), e538.**
 
-1. G. Ruiz, **O.-H. Madrid-Padilla**, Q. Zhou. Sequentially learning the topological ordering of causal directed acyclic graphs with likelihood ratio scores. [PDF](https://arxiv.org/pdf/2202.01748.pdf). **To appear in Transactions on Machine Learning Research.**
+1. G. Ruiz, **O.-H. Madrid-Padilla**, Q. Zhou. Sequentially learning the topological ordering of causal directed acyclic graphs with likelihood ratio scores. [PDF](https://openreview.net/pdf?id=4pCjIGIjrt). **Transactions on Machine Learning Research 2022.**
 
 1. Alexandre Belloni* , Mingli Chen* , **O. H. Madrid-Padilla*** , Zixuan (Kevin) Wang*  (alphabetical order).  High-Dimensional Latent Panel Quantile Regression with an Application to Asset Pricing. [Link](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-1/High-dimensional-latent-panel-quantile-regression-with-an-application-to/10.1214/22-AOS2223.short). [arXiv](https://arxiv.org/pdf/1912.02151.pdf). **Annals of Statistics. 51(1): 96-121 (February 2023).**
 
