@@ -40,11 +40,12 @@ I was  born  and raised in Honduras. Here is a [bio](https://assets-global.websi
 
 ### Former Ph.D. students:
 
+[Yik Lun (Allen) Kei](https://allenkei.github.io/) (Graduated in 2024).
 [Gabriel Ruiz](https://gabriel-ruiz.github.io/) (Graduated in 2022).
 
 ### Current Ph.D. students:
 
-[Davis Berlind](https://davis-berlind.github.io/), [Yik Lun (Allen) Kei](https://allenkei.github.io/), [Siwei Ye](https://stevenysw.github.io/), [Zhi Zhang](https://scholar.google.com/citations?user=O__axAoAAAAJ&hl=en).
+[Davis Berlind](https://davis-berlind.github.io/), [Siwei Ye](https://stevenysw.github.io/), [Zhi Zhang](https://scholar.google.com/citations?user=O__axAoAAAAJ&hl=en).
 
 ### Former Ph.D. students that I have closely worked with:
 
