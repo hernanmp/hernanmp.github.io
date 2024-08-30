@@ -153,7 +153,7 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 1. Zhi Zhang, Kyle Ritscher, **O.H.  Madrid-Padilla**. Risk Bounds for Quantile Additive Trend Filtering. [PDF](https://arxiv.org/pdf/2310.11711.pdf).
 
 1. C.M. Madrid-Padilla, **O.H.  Madrid-Padilla**, D. Wang. Temporal-spatial model via Trend Filtering. (The first author is one of my brothers).
-[PDF](https://aps.arxiv.org/pdf/2308.16172.pdf).
+[PDF](https://arxiv.org/pdf/2308.16172).
 
 1. F. Wang, W. Li, **O.H.  Madrid-Padilla**, Y. Yu, A. Rinaldo. Multilayer random dot product graphs:
 Estimation and online change point detection. [PDF](https://arxiv.org/pdf/2306.15286.pdf).
