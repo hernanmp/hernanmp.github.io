@@ -148,8 +148,6 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 1. M. Matabuena, R. Ghosal, P. Mozharovskyi, **O.H.  Madrid-Padilla**, J.P. Onnela.  Conformal uncertainty quantification using kernel depth measures in separable Hilbert spaces. [PDF](https://arxiv.org/pdf/2405.13970).
 
-1. Y. L. Kei, J. Li, H. Li, Y. Chen, **O.H.  Madrid-Padilla**.  Generative Model for Change Point Detection in Dynamic Graphs. [PDF](https://arxiv.org/pdf/2404.04719).    
-
 1. M. Matabuena, J.C. Vidal, **O.H.  Madrid-Padilla**, J.P. Onnela. kNN Algorithm for Conditional Mean and Variance Estimation with Automated Uncertainty Quantification and Variable Selection. [PDF](https://arxiv.org/pdf/2402.01635.pdf).
 
 1. Zhi Zhang, Kyle Ritscher, **O.H.  Madrid-Padilla**. Risk Bounds for Quantile Additive Trend Filtering. [PDF](https://arxiv.org/pdf/2310.11711.pdf).
@@ -159,6 +157,8 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 1. F. Wang, W. Li, **O.H.  Madrid-Padilla**, Y. Yu, A. Rinaldo. Multilayer random dot product graphs:
 Estimation and online change point detection. [PDF](https://arxiv.org/pdf/2306.15286.pdf).
+
+1. Y. L. Kei, J. Li, H. Li, Y. Chen, **O.H.  Madrid-Padilla**.  Generative Model for Change Point Detection in Dynamic Graphs. [PDF](https://arxiv.org/pdf/2404.04719).    
 
 1. M. Essalat, **O.H.  Madrid-Padilla**,  V.Shetty, G. Pottie. Monitoring Brushing behaviors using Toothbrush Embedded Motion-Sensors. 
 [Link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.22696360.v2).
