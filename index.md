@@ -56,7 +56,7 @@ I was  born  and raised in Honduras. Here is a [bio](https://assets-global.websi
 
 ### Published/Accepted papers
 
-1.  **O.-H. Madrid-Padilla**. Variance estimation in graphs with the fused lasso. **To appear in Journal of Machine Learning Research.** [PDF](https://arxiv.org/pdf/2207.12638.pdf). 
+1.  **O.-H. Madrid-Padilla**. Variance estimation in graphs with the fused lasso. **To appear in Journal of Machine Learning Research.** [PDF](https://jmlr.org/papers/v25/23-1061.html). 
 
 2. Marcos Matabuena , **O. H. Madrid-Padilla**. Energy distance and kernel mean embeddings for two-sample survival testing with application in immunotherapy clinical 
 trial.  **To appear in REVSTAT.** [Link](https://arxiv.org/pdf/1912.04160.pdf)
