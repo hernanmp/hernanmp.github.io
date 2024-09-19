@@ -35,7 +35,7 @@ I was  born  and raised in Honduras. Here is a [bio](https://assets-global.websi
 - [Hellman Fellowship](https://www.hellmanfellows.org/), 2023-2024. 
 
 ### Equity diversity and inclusion:
-- 2023-24 IMS Committee on Equality and Diversity member.
+- IMS Committee on Equality and Diversity member, 2023 - present.
 - 2024 Lathisms Scholarship Committee member.
 
 ### Former Ph.D. students:
