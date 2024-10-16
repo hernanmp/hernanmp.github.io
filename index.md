@@ -22,7 +22,7 @@ A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github
 oscar dot madrid at  stat dot ucla dot edu
 
 ### Personal:
-I grew up in some of the poorest areas of Honduras. My grandparents were either illiterate or never finished elementary school. My parents did not attend college, but thanks to their tremendous efforts, my brothers Jose [mathematician](https://sites.google.com/site/joseramonmadridpadilla/?authuser=1) and Carlos [statistician](https://cmadridp.github.io/) could become academics.   Here is a [bio](https://assets-global.website-files.com/5f3e96827894c2ff19996e36/65058c12ffd1d227c01ea2b3_Oct%2014_Dr.%20Madrid%20Padilla_Poster.pdf) featured in Lathisms 2023.![image](https://github.com/user-attachments/assets/2817628c-7a49-43f3-a9ec-8b667b70f2ad)
+
 
 
 ### Editorial Service:
