@@ -1,4 +1,4 @@
-## Welcome!
+![image](https://github.com/user-attachments/assets/06a09462-2c91-4ed5-b37f-b3829be615e5)## Welcome!
 
 <img width="399" alt="pic2" src="https://github.com/user-attachments/assets/798b217e-cbf0-417a-9309-fd2569daaa9d">
 
@@ -144,6 +144,8 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 
 ### Preprints
+
+1. Z. Zhang, C. Chow, Y. Zhang, Y. Sun, H. Zhang, E.H Jiang, H. Liu, F. Huang, Y. Cui,  **O.H.  Madrid-Padilla**.  Statistical Guarantees for Lifelong Reinforcement Learning using PAC-Bayesian Theory. [PDF](https://arxiv.org/pdf/2411.00401).
 
 1. C.K. Nguen, **O.H.  Madrid-Padilla**, A.A. Amini. Network two-sample test for block models. [PDF](https://arxiv.org/pdf/2406.06014).
 
