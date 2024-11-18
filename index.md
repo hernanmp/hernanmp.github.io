@@ -145,7 +145,7 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 ### Preprints
 
-1. Z. Zhang, C.M Madrid-Padilla, X. Luo,  **O.H.  Madrid-Padilla**, D. Wang. ense ReLU Neural Networks for Temporal-spatial Model. [PDF](https://arxiv.org/abs/2411.09961).
+1. Z. Zhang, C.M Madrid-Padilla, X. Luo,  **O.H.  Madrid-Padilla**, D. Wang. Dense ReLU Neural Networks for Temporal-spatial Model. [PDF](https://arxiv.org/abs/2411.09961).
 
 1. Z. Zhang, C. Chow, Y. Zhang, Y. Sun, H. Zhang, E.H Jiang, H. Liu, F. Huang, Y. Cui,  **O.H.  Madrid-Padilla**.  Statistical Guarantees for Lifelong Reinforcement Learning using PAC-Bayesian Theory. [PDF](https://arxiv.org/pdf/2411.00401).
 
