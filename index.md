@@ -57,6 +57,11 @@ I grew up in some of the poorest areas of Honduras. My grandparents were either 
 
 ### Published/Accepted papers
 
+1. H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network Data. **To appear in Journal of Machine Learning Research.**  [PDF](https://arxiv.org/pdf/1905.10848.pdf). 
+
+1. M. Matabuena, J.C. Vidal, **O.-H. Madrid-Padilla**, D. Sejdinovic. 
+Kernel Biclustering algorithm in Hilbert Spaces.  **Advances in Data Analysis and Classification.** [PDF](https://arxiv.org/pdf/2208.03675.pdf). 
+
 1.  **O.-H. Madrid-Padilla**. Variance estimation in graphs with the fused lasso. **Journal of Machine Learning Research, 25(250):1−45, 2024.** [PDF](https://jmlr.org/papers/volume25/23-1061/23-1061.pdf). 
 
 2. Marcos Matabuena , **O. H. Madrid-Padilla**. Energy distance and kernel mean embeddings for two-sample survival testing with application in immunotherapy clinical 
@@ -178,16 +183,12 @@ Estimation and online change point detection. [PDF](https://arxiv.org/pdf/2306.1
 1. **O.-H. Madrid-Padilla**, Y. Yu. 
 Dynamic and heterogeneous treatment effects with abrupt changes. [PDF](https://arxiv.org/pdf/2206.09092.pdf). 
 
-1. M. Matabuena, J.C. Vidal, **O.-H. Madrid-Padilla**, D. Sejdinovic. 
-Kernel Biclustering algorithm in Hilbert Spaces. [PDF](https://arxiv.org/pdf/2208.03675.pdf). 
 
 1. G. Ruiz, **O.-H. Madrid-Padilla**. Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT). [PDF](https://arxiv.org/pdf/2205.09094.pdf). 
 
 1. **O.-H. Madrid-Padilla**,  Y. Chen, G. Ruiz. A causal fused lasso for interpretable heterogeneous treatment
 effects estimation. [PDF](https://arxiv.org/pdf/2110.00901.pdf). [Code](https://github.com/hernanmp/causal_fused_lasso).
 
-1. H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network Data. [PDF](https://arxiv.org/pdf/1905.10848.pdf). 
- 
  
 1. Shitong Wei, **O.-H. Madrid-Padilla**, James Sharpnack. Distributed Cartesian Power Graph Segmentation for Graphon Estimation. [Link](https://arxiv.org/abs/1805.09978).
 
