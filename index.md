@@ -150,10 +150,12 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 ### Preprints
 
+1. H. Xu, C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. [PDF](https://www.researchgate.net/publication/386778035_Multivariate_Poisson_intensity_estimation_via_low-rank_tensor_decomposition?channel=doi&linkId=67596bff138b414414d594db&showFulltext=true).
+
 1. D. Lai,  **O.H.  Madrid-Padilla**, T. Guan. Bayesian Transfer Learning for Enhanced
 Estimation and Inference. [PDF](https://arxiv.org/pdf/2412.02986).
 
-1. Z. Zhang, C.M Madrid-Padilla, X. Luo,  **O.H.  Madrid-Padilla**, D. Wang. Dense ReLU Neural Networks for Temporal-spatial Model. [PDF](https://arxiv.org/pdf/2411.09961).
+1. Z. Zhang, C.M Madrid-Padilla, X. Luo, D. Wang, **O.H.  Madrid-Padilla**. Dense ReLU Neural Networks for Temporal-spatial Model. [PDF](https://arxiv.org/pdf/2411.09961).
 
 1. Z. Zhang, C. Chow, Y. Zhang, Y. Sun, H. Zhang, E.H Jiang, H. Liu, F. Huang, Y. Cui,  **O.H.  Madrid-Padilla**.  Statistical Guarantees for Lifelong Reinforcement Learning using PAC-Bayesian Theory. [PDF](https://arxiv.org/pdf/2411.00401).
 
