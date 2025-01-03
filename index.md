@@ -57,9 +57,6 @@ I grew up in some of the poorest areas of Honduras. My grandparents were either 
 
 ### Published/Accepted papers
 
-1.  C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, Y.L. Kei, Z. Zhang, Y. Chen. Confidence Interval Construction and Conditional
-Variance Estimation with Dense ReLU Networks. [PDF](https://arxiv.org/pdf/2412.20355). (Equal contribution from the first two authors).
-
 
 1. H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network Data. **To appear in Journal of Machine Learning Research.**  [PDF](https://arxiv.org/pdf/1905.10848.pdf). 
 
@@ -153,6 +150,10 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 
 ### Preprints
+
+1.  C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, Y.L. Kei, Z. Zhang, Y. Chen. Confidence Interval Construction and Conditional
+Variance Estimation with Dense ReLU Networks. [PDF](https://arxiv.org/pdf/2412.20355). (Equal contribution from the first two authors).
+
 
 1. H. Xu, C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. [PDF](https://www.researchgate.net/publication/386778035_Multivariate_Poisson_intensity_estimation_via_low-rank_tensor_decomposition?channel=doi&linkId=67596bff138b414414d594db&showFulltext=true).
 
