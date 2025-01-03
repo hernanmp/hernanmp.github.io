@@ -49,6 +49,8 @@ I grew up in some of the poorest areas of Honduras. My grandparents were either 
 - [Davis Berlind](https://davis-berlind.github.io/)
 - [Siwei Ye](https://stevenysw.github.io/)
 - [Zhi Zhang](https://scholar.google.com/citations?user=O__axAoAAAAJ&hl=en)
+- [Kyle Ritscher](https://www.linkedin.com/in/kyleritscher33)
+- [Xiaokai Luo](https://www.linkedin.com/in/xiaokai-luo-a67a1233a)
 
 ### Former Ph.D. students that I have closely worked with:
 
