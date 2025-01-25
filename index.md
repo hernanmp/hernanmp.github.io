@@ -60,7 +60,7 @@ I grew up in some of the poorest areas of Honduras. My grandparents were either 
 ### Published/Accepted papers
 
 
-1. H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network Data. **To appear in Journal of Machine Learning Research.**  [PDF](https://arxiv.org/pdf/1905.10848.pdf). 
+1. H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network Data. **Journal of Machine Learning Research, 25(377):1−52, 2024.**  [PDF](https://jmlr.org/papers/volume25/21-0846/21-0846.pdf). 
 
 1. M. Matabuena, J.C. Vidal, **O.-H. Madrid-Padilla**, D. Sejdinovic. 
 Kernel Biclustering algorithm in Hilbert Spaces.  **To appear in Advances in Data Analysis and Classification.** [PDF](https://arxiv.org/pdf/2208.03675.pdf). 
