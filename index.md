@@ -60,6 +60,11 @@ I grew up in some of the poorest areas of Honduras. My grandparents were either 
 ### Published/Accepted papers
 
 
+1. 1. Zhi Zhang, Kyle Ritscher, **O.H.  Madrid-Padilla**. Risk Bounds for Quantile Additive Trend Filtering. 
+ **To appear in Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, 2025.** [PDF](https://arxiv.org/pdf/2310.11711.pdf).
+
+1. Z. Zhang, C. Chow, Y. Zhang, Y. Sun, H. Zhang, E.H Jiang, H. Liu, F. Huang, Y. Cui,  **O.H.  Madrid-Padilla**.  Statistical Guarantees for Lifelong Reinforcement Learning using PAC-Bayesian Theory. **To appear in Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, 2025.** [PDF](https://arxiv.org/pdf/2411.00401).
+
 1. H. Li, **O.-H. Madrid-Padilla**,  Q. Zhou.  Learning Gaussian DAGs from Network Data. **Journal of Machine Learning Research, 25(377):1−52, 2024.**  [PDF](https://jmlr.org/papers/volume25/21-0846/21-0846.pdf). 
 
 1. M. Matabuena, J.C. Vidal, **O.-H. Madrid-Padilla**, D. Sejdinovic. 
@@ -164,15 +169,11 @@ Estimation and Inference. [PDF](https://arxiv.org/pdf/2412.02986).
 
 1. Z. Zhang, C.M Madrid-Padilla, X. Luo, D. Wang, **O.H.  Madrid-Padilla**. Dense ReLU Neural Networks for Temporal-spatial Model. [PDF](https://arxiv.org/pdf/2411.09961).
 
-1. Z. Zhang, C. Chow, Y. Zhang, Y. Sun, H. Zhang, E.H Jiang, H. Liu, F. Huang, Y. Cui,  **O.H.  Madrid-Padilla**.  Statistical Guarantees for Lifelong Reinforcement Learning using PAC-Bayesian Theory. [PDF](https://arxiv.org/pdf/2411.00401).
-
 1. C.K. Nguen, **O.H.  Madrid-Padilla**, A.A. Amini. Network two-sample test for block models. [PDF](https://arxiv.org/pdf/2406.06014).
 
 1. M. Matabuena, R. Ghosal, P. Mozharovskyi, **O.H.  Madrid-Padilla**, J.P. Onnela.  Conformal uncertainty quantification using kernel depth measures in separable Hilbert spaces. [PDF](https://arxiv.org/pdf/2405.13970).
 
 1. M. Matabuena, J.C. Vidal, **O.H.  Madrid-Padilla**, J.P. Onnela. kNN Algorithm for Conditional Mean and Variance Estimation with Automated Uncertainty Quantification and Variable Selection. [PDF](https://arxiv.org/pdf/2402.01635.pdf).
-
-1. Zhi Zhang, Kyle Ritscher, **O.H.  Madrid-Padilla**. Risk Bounds for Quantile Additive Trend Filtering. [PDF](https://arxiv.org/pdf/2310.11711.pdf).
 
 1. C.M. Madrid-Padilla, **O.H.  Madrid-Padilla**, D. Wang. Temporal-spatial model via Trend Filtering. (The first author is one of my brothers).
 [PDF](https://arxiv.org/pdf/2308.16172).
