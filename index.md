@@ -60,7 +60,7 @@ I grew up in some of the poorest areas of Honduras. My grandparents were either 
 ### Published/Accepted papers
 
 
-1. 1. Zhi Zhang, Kyle Ritscher, **O.H.  Madrid-Padilla**. Risk Bounds for Quantile Additive Trend Filtering. 
+1. Zhi Zhang, Kyle Ritscher, **O.H.  Madrid-Padilla**. Risk Bounds for Quantile Additive Trend Filtering. 
  **To appear in Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, 2025.** [PDF](https://arxiv.org/pdf/2310.11711.pdf).
 
 1. Z. Zhang, C. Chow, Y. Zhang, Y. Sun, H. Zhang, E.H Jiang, H. Liu, F. Huang, Y. Cui,  **O.H.  Madrid-Padilla**.  Statistical Guarantees for Lifelong Reinforcement Learning using PAC-Bayesian Theory. **To appear in Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, 2025.** [PDF](https://arxiv.org/pdf/2411.00401).
