@@ -59,6 +59,8 @@ I grew up in some of the poorest areas of Honduras. My grandparents were either 
 
 ### Published/Accepted papers
 
+1. L. Cappello, **O.H.  Madrid-Padilla**. Variance change point detection with credible sets. **To appear in IEEE Transactions on Pattern Analysis and Machine Intelligence .** [PDF](https://arxiv.org/pdf/2211.14097.pdf). **(Impact factor: 20.8).**
+
 
 1. Zhi Zhang, Kyle Ritscher, **O.H.  Madrid-Padilla**. Risk Bounds for Quantile Additive Trend Filtering. 
  **To appear in Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, 2025.** [PDF](https://arxiv.org/pdf/2310.11711.pdf).
@@ -188,9 +190,6 @@ Estimation and online change point detection. [PDF](https://arxiv.org/pdf/2306.1
 
 1. Y.L Kei, H. Li, Y. Chen, **O.H.  Madrid-Padilla**. Change Point Detection on a Separable Model for Dynamic Networks. 
 [PDF](https://arxiv.org/abs/2303.17642).
-
-1. L. Cappello, **O.H.  Madrid-Padilla**. Variance change point detection with credible sets. 
-[PDF](https://arxiv.org/pdf/2211.14097.pdf).
 
 
 1. **O.-H. Madrid-Padilla**, Y. Yu. 
