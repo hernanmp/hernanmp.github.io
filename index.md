@@ -59,7 +59,7 @@ I grew up in some of the poorest areas of Honduras. My grandparents were either 
 
 ### Published/Accepted papers
 
-1. L. Cappello, **O.H.  Madrid-Padilla**. Variance change point detection with credible sets. **To appear in IEEE Transactions on Pattern Analysis and Machine Intelligence .** [PDF](https://arxiv.org/pdf/2211.14097.pdf). **(Impact factor: 20.8).**
+1. L. Cappello, **O.H.  Madrid-Padilla**. Variance change point detection with credible sets. **To appear in IEEE Transactions on Pattern Analysis and Machine Intelligence .** [PDF](https://arxiv.org/pdf/2211.14097.pdf). **(Impact factor: 20.8).** [Code](https://github.com/lorenzocapp/prisca).
 
 
 1. Zhi Zhang, Kyle Ritscher, **O.H.  Madrid-Padilla**. Risk Bounds for Quantile Additive Trend Filtering. 
