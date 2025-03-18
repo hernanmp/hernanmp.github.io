@@ -40,14 +40,13 @@ I grew up in some of the poorest areas of Honduras. My grandparents were either 
 - 2024 Lathisms Scholarship Committee member.
 
 ### Former Ph.D. students:
-
-- [Yik Lun (Allen) Kei](https://allenkei.github.io/) (Graduated in 2024).
-- [Gabriel Ruiz](https://gabriel-ruiz.github.io/) (Graduated in 2022).
+- [Siwei Ye](https://stevenysw.github.io/) (Grduates in 2025, Placement: Google)
+- [Yik Lun (Allen) Kei](https://allenkei.github.io/) (Graduated in 2024, Placement: UC Santa Cruz postdoc).
+- [Gabriel Ruiz](https://gabriel-ruiz.github.io/) (Graduated in 2022, Placement: Adobe).
 
 ### Current Ph.D. students:
 
 - [Davis Berlind](https://davis-berlind.github.io/)
-- [Siwei Ye](https://stevenysw.github.io/)
 - [Zhi Zhang](https://scholar.google.com/citations?user=O__axAoAAAAJ&hl=en)
 - [Kyle Ritscher](https://www.linkedin.com/in/kyleritscher33)
 - [Xiaokai Luo](https://www.linkedin.com/in/xiaokai-luo-a67a1233a)
