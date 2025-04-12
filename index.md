@@ -58,6 +58,8 @@ I grew up in some of the poorest areas of Honduras. My grandparents were either 
 
 ### Published/Accepted papers
 
+1. Y. L. Kei, J. Li, H. Li, Y. Chen, **O.H.  Madrid-Padilla**.  Change Point Detection in Dynamic Graphs with Decoder-only Latent Space Model. **To appear in Transactions on Machine Learning Research.**  [PDF](https://arxiv.org/pdf/2404.04719).    
+
 1. L. Cappello, **O.H.  Madrid-Padilla**. Variance change point detection with credible sets. **To appear in IEEE Transactions on Pattern Analysis and Machine Intelligence .** [PDF](https://arxiv.org/pdf/2211.14097.pdf). **(Impact factor: 20.8).** [Code](https://github.com/lorenzocapp/prisca).
 
 
@@ -182,7 +184,6 @@ Estimation and Inference. [PDF](https://arxiv.org/pdf/2412.02986).
 1. F. Wang, W. Li, **O.H.  Madrid-Padilla**, Y. Yu, A. Rinaldo. Multilayer random dot product graphs:
 Estimation and online change point detection. [PDF](https://arxiv.org/pdf/2306.15286.pdf).
 
-1. Y. L. Kei, J. Li, H. Li, Y. Chen, **O.H.  Madrid-Padilla**.  Generative Model for Change Point Detection in Dynamic Graphs. [PDF](https://arxiv.org/pdf/2404.04719).    
 
 1. M. Essalat, **O.H.  Madrid-Padilla**,  V.Shetty, G. Pottie. Monitoring Brushing behaviors using Toothbrush Embedded Motion-Sensors. 
 [Link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.22696360.v2).
