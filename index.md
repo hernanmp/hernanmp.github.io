@@ -165,7 +165,7 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 Variance Estimation with Dense ReLU Networks. [PDF](https://arxiv.org/pdf/2412.20355). (Equal contribution from the first two authors). [Code](https://github.com/allenkei/Var_ReLU/tree/main).
 
 
-1. H. Xu, C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. [PDF](https://www.researchgate.net/publication/386778035_Multivariate_Poisson_intensity_estimation_via_low-rank_tensor_decomposition?channel=doi&linkId=67596bff138b414414d594db&showFulltext=true).
+1. H. Xu, C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. [PDF](https://arxiv.org/pdf/2504.15879).
 
 1. D. Lai,  **O.H.  Madrid-Padilla**, T. Guan. Bayesian Transfer Learning for Enhanced
 Estimation and Inference. [PDF](https://arxiv.org/pdf/2412.02986).
