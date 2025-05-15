@@ -161,6 +161,8 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 ### Preprints
 
+1. C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, S. Chatterjee. Risk Bounds For Distributional Regression. [PDF](https://arxiv.org/pdf/2505.09075).
+
 1.  C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, Y.L. Kei, Z. Zhang, Y. Chen. Confidence Interval Construction and Conditional
 Variance Estimation with Dense ReLU Networks. [PDF](https://arxiv.org/pdf/2412.20355). (Equal contribution from the first two authors). [Code](https://github.com/allenkei/Var_ReLU/tree/main).
 
