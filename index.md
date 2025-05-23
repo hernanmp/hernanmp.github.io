@@ -21,10 +21,6 @@ A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github
 ### Email: 
 oscar dot madrid at  stat dot ucla dot edu
 
-### Personal:
-I grew up in some of the poorest areas of Honduras. My grandparents were either illiterate or never finished elementary school. My parents did not attend college, but thanks to their tremendous efforts, my brothers [Jose](https://sites.google.com/site/joseramonmadridpadilla/?authuser=1) (mathematics), [Carlos](https://cmadridp.github.io/) (statistics), and I could become academics.   Here is a [bio](https://assets-global.website-files.com/5f3e96827894c2ff19996e36/65058c12ffd1d227c01ea2b3_Oct%2014_Dr.%20Madrid%20Padilla_Poster.pdf) featured in Lathisms 2023.
-
-
 
 ### Editorial Service:
 - Associate Editor for Journal of Computational and Graphical Statistics, 2024--present 
@@ -34,10 +30,6 @@ I grew up in some of the poorest areas of Honduras. My grandparents were either 
 - NSF DMS-2015489 
 - UCLA 2022-23 Faculty Career Development Award 
 - [Hellman Fellowship](https://www.hellmanfellows.org/), 2023-2024. 
-
-### Equity diversity and inclusion:
-- IMS Committee on Equality and Diversity member, 2023 - present.
-- 2024 Lathisms Scholarship Committee member.
 
 ### Former Ph.D. students:
 - [Siwei Ye](https://stevenysw.github.io/) (Grduates in 2025, Placement: Google)
