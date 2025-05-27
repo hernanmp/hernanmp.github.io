@@ -56,7 +56,7 @@ with Decoder-only Latent Space Model. **Transactions on Machine Learning Researc
 1. L. Cappello, **O.H.  Madrid-Padilla**. Variance change point detection with credible sets. **IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 47, No. 6, 2025.** [PDF](https://arxiv.org/pdf/2211.14097.pdf). **(Impact factor: 20.8).** [Code](https://github.com/lorenzocapp/prisca).
 
 
-1. Zhi Zhang, Kyle Ritscher, **O.H.  Madrid-Padilla**. Risk Bounds for Quantile Additive Trend Filtering. 
+1. Zhi Zhang, Kyle Ritscher, **O.H.  Madrid-Padilla**. Quantile Additive Trend Filtering. 
  **To appear in Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, 2025.** [PDF](https://arxiv.org/pdf/2310.11711.pdf).
 
 1. Z. Zhang, C. Chow, Y. Zhang, Y. Sun, H. Zhang, E.H Jiang, H. Liu, F. Huang, Y. Cui,  **O.H.  Madrid-Padilla**.  Statistical Guarantees for Lifelong Reinforcement Learning using PAC-Bayesian Theory. **To appear in Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, 2025.** [PDF](https://arxiv.org/pdf/2411.00401).
