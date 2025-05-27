@@ -51,7 +51,7 @@ oscar dot madrid at  stat dot ucla dot edu
 ### Published/Accepted papers
 
 1. Y. L. Kei, J. Li, H. Li, Y. Chen, **O.H.  Madrid-Padilla**.  Change Point Detection in Dynamic Graphs
-with Decoder-only Latent Space Model. **Transactions on Machine Learning Research, 2025.**  [PDF](https://arxiv.org/pdf/2404.04719](https://openreview.net/pdf?id=DVeFqV56Iz).    
+with Decoder-only Latent Space Model. **Transactions on Machine Learning Research, 2025.**  [PDF](https://openreview.net/pdf?id=DVeFqV56Iz).    
 
 1. L. Cappello, **O.H.  Madrid-Padilla**. Variance change point detection with credible sets. **IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 47, No. 6, 2025.** [PDF](https://arxiv.org/pdf/2211.14097.pdf). **(Impact factor: 20.8).** [Code](https://github.com/lorenzocapp/prisca).
 
