@@ -154,7 +154,7 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 ### Preprints
 
-1.F. Wang, K. Ritscher, Y.L. Kei, X. Ma,  **O.H.  Madrid-Padilla**. Change Point Localization and Inference in Dynamic Multilayer Networks. [PDF](https://arxiv.org/pdf/2506.21878).
+1. F. Wang, K. Ritscher, Y.L. Kei, X. Ma,  **O.H.  Madrid-Padilla**. Change Point Localization and Inference in Dynamic Multilayer Networks. [PDF](https://arxiv.org/pdf/2506.21878).
 
 1. C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, S. Chatterjee. Risk Bounds For Distributional Regression. [PDF](https://arxiv.org/pdf/2505.09075).
 
