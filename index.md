@@ -32,7 +32,7 @@ oscar dot madrid at  stat dot ucla dot edu
 - [Hellman Fellowship](https://www.hellmanfellows.org/), 2023-2024. 
 
 ### Former Ph.D. students:
-- [Siwei Ye](https://stevenysw.github.io/) (Graduatedin 2025, Placement: Google)
+- [Siwei Ye](https://stevenysw.github.io/) (Graduated in 2025, Placement: Google)
 - [Yik Lun (Allen) Kei](https://allenkei.github.io/) (Graduated in 2024, Placement: UC Santa Cruz postdoc).
 - [Gabriel Ruiz](https://gabriel-ruiz.github.io/) (Graduated in 2022, Placement: Adobe).
 
