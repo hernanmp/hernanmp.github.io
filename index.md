@@ -50,6 +50,9 @@ oscar dot madrid at  stat dot ucla dot edu
 
 ### Published/Accepted papers
 
+1. F. Wang, W. Li, **O.H.  Madrid-Padilla**, Y. Yu, A. Rinaldo. Multilayer random dot product graphs:
+Estimation and online change point detection. [PDF](https://arxiv.org/pdf/2306.15286.pdf). **To appear in Journal of the Royal Statistical Society Series B.**
+
 1. Y. L. Kei, J. Li, H. Li, Y. Chen, **O.H.  Madrid-Padilla**.  Change Point Detection in Dynamic Graphs
 with Decoder-only Latent Space Model. **Transactions on Machine Learning Research, 2025.**  [PDF](https://openreview.net/pdf?id=DVeFqV56Iz).    
 
@@ -180,9 +183,6 @@ Estimation and Inference. [PDF](https://arxiv.org/pdf/2412.02986).
 
 1. C.M. Madrid-Padilla, **O.H.  Madrid-Padilla**, D. Wang. Temporal-spatial model via Trend Filtering. (The first author is one of my brothers).
 [PDF](https://arxiv.org/pdf/2308.16172).
-
-1. F. Wang, W. Li, **O.H.  Madrid-Padilla**, Y. Yu, A. Rinaldo. Multilayer random dot product graphs:
-Estimation and online change point detection. [PDF](https://arxiv.org/pdf/2306.15286.pdf).
 
 
 1. M. Essalat, **O.H.  Madrid-Padilla**,  V.Shetty, G. Pottie. Monitoring Brushing behaviors using Toothbrush Embedded Motion-Sensors. 
