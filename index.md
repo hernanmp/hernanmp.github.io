@@ -171,7 +171,7 @@ Variance Estimation with Dense ReLU Networks. [PDF](https://arxiv.org/pdf/2412.2
 1. H. Xu, C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. [PDF](https://arxiv.org/pdf/2504.15879).
 
 1. D. Lai,  **O.H.  Madrid-Padilla**, T. Guan. Bayesian Transfer Learning for Enhanced
-Estimation and Inference. [PDF](https://arxiv.org/pdf/2412.02986).
+Estimation and Inference. [PDF](https://arxiv.org/pdf/2412.02986). **2025 ASA Student Paper Award**.  
 
 1. Z. Zhang, C.M Madrid-Padilla, X. Luo, D. Wang, **O.H.  Madrid-Padilla**. Dense ReLU Neural Networks for Temporal-spatial Model. [PDF](https://arxiv.org/pdf/2411.09961).
 
