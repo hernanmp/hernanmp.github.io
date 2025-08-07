@@ -199,7 +199,7 @@ Dynamic and heterogeneous treatment effects with abrupt changes. [PDF](https://a
 
 1. G. Ruiz, **O.-H. Madrid-Padilla**. Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT). [PDF](https://arxiv.org/pdf/2205.09094.pdf). 
 
-1. **O.-H. Madrid-Padilla**,  Y. Chen, G. Ruiz, C.-M Madrid-Padilla. A causal fused lasso for interpretable heterogeneous treatment
+1. **O.-H. Madrid-Padilla**,  Y. Chen, C.-M Madrid-Padilla, G. Ruiz. A causal fused lasso for interpretable heterogeneous treatment
 effects estimation. [PDF](https://arxiv.org/pdf/2110.00901.pdf). [Code](https://github.com/hernanmp/causal_fused_lasso).
 
  
