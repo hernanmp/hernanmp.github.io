@@ -23,6 +23,7 @@ oscar dot madrid at  stat dot ucla dot edu
 
 
 ### Editorial Service:
+- Associate Editor for Journal of Journal of the Royal Statistical Society Series B (Starting on January, 2026)  
 - Associate Editor for Journal of Computational and Graphical Statistics, 2024--present 
 - Associate Editor for Stat, 2022--present
 
