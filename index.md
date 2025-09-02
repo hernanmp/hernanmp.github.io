@@ -44,6 +44,7 @@ oscar dot madrid at  stat dot ucla dot edu
 - [Kyle Ritscher](https://www.linkedin.com/in/kyleritscher33)
 - [Xiaokai Luo](https://www.linkedin.com/in/xiaokai-luo-a67a1233a)
 - [Junpeng Ren](https://www.linkedin.com/in/junpeng-ren-8ab2b9294)
+- [Austin Froelich](https://www.linkedin.com/in/austin-t-froelich)
 
 ### Former Ph.D. students that I have closely worked with:
 
