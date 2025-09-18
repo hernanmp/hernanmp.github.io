@@ -55,6 +55,9 @@ oscar dot madrid at  stat dot ucla dot edu
 
 1. C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, S. Chatterjee. Risk Bounds For Distributional Regression.  **To appear in NeurIPS 2025.** [PDF](https://arxiv.org/pdf/2505.09075).
 
+1. C.K. Nguen, **O.H.  Madrid-Padilla**, A.A. Amini. Network two-sample test for block models.  **To appear in NeurIPS 2025.** [PDF](https://arxiv.org/pdf/2406.06014).
+
+
 1. Y.L Kei, H. Li, Y. Chen, **O.H.  Madrid-Padilla**. Change Point Detection on a Separable Model for Dynamic Networks. **To appear in Transactions on Machine Learning Research.** [PDF](https://arxiv.org/abs/2303.17642).
 
 1. F. Wang, W. Li, **O.H.  Madrid-Padilla**, Y. Yu, A. Rinaldo. Multilayer random dot product graphs:
@@ -179,8 +182,6 @@ Variance Estimation with Dense ReLU Networks. [PDF](https://arxiv.org/pdf/2412.2
 Estimation and Inference. [PDF](https://arxiv.org/pdf/2412.02986). **2025 ASA Student Paper Award**.  
 
 1. Z. Zhang, C.M Madrid-Padilla, X. Luo, D. Wang, **O.H.  Madrid-Padilla**. Dense ReLU Neural Networks for Temporal-spatial Model. [PDF](https://arxiv.org/pdf/2411.09961).
-
-1. C.K. Nguen, **O.H.  Madrid-Padilla**, A.A. Amini. Network two-sample test for block models. [PDF](https://arxiv.org/pdf/2406.06014).
 
 1. M. Matabuena, R. Ghosal, P. Mozharovskyi, **O.H.  Madrid-Padilla**, J.P. Onnela.  Conformal uncertainty quantification using kernel depth measures in separable Hilbert spaces. [PDF](https://arxiv.org/pdf/2405.13970).
 
