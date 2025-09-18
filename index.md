@@ -53,6 +53,8 @@ oscar dot madrid at  stat dot ucla dot edu
 
 ### Published/Accepted papers
 
+1. C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, S. Chatterjee. Risk Bounds For Distributional Regression.  **To appear in NeurIPS 2025.** [PDF](https://arxiv.org/pdf/2505.09075).
+
 1. Y.L Kei, H. Li, Y. Chen, **O.H.  Madrid-Padilla**. Change Point Detection on a Separable Model for Dynamic Networks. **To appear in Transactions on Machine Learning Research.** [PDF](https://arxiv.org/abs/2303.17642).
 
 1. F. Wang, W. Li, **O.H.  Madrid-Padilla**, Y. Yu, A. Rinaldo. Multilayer random dot product graphs:
@@ -166,8 +168,6 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 quantification. [PDF](https://arxiv.org/pdf/2507.01558).
 
 1. F. Wang, K. Ritscher, Y.L. Kei, X. Ma,  **O.H.  Madrid-Padilla**. Change Point Localization and Inference in Dynamic Multilayer Networks. [PDF](https://arxiv.org/pdf/2506.21878).
-
-1. C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, S. Chatterjee. Risk Bounds For Distributional Regression. [PDF](https://arxiv.org/pdf/2505.09075).
 
 1.  C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, Y.L. Kei, Z. Zhang, Y. Chen. Confidence Interval Construction and Conditional
 Variance Estimation with Dense ReLU Networks. [PDF](https://arxiv.org/pdf/2412.20355). (Equal contribution from the first two authors). [Code](https://github.com/allenkei/Var_ReLU/tree/main).
