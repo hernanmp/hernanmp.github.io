@@ -40,7 +40,6 @@ oscar dot madrid at  stat dot ucla dot edu
 ### Current Ph.D. students:
 
 - [Davis Berlind](https://davis-berlind.github.io/)
-- [Zhi Zhang](https://scholar.google.com/citations?user=O__axAoAAAAJ&hl=en)
 - [Kyle Ritscher](https://www.linkedin.com/in/kyleritscher33)
 - [Xiaokai Luo](https://www.linkedin.com/in/xiaokai-luo-a67a1233a)
 - [Junpeng Ren](https://www.linkedin.com/in/junpeng-ren-8ab2b9294)
