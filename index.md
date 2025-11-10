@@ -166,6 +166,7 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 ### Preprints
 
+1. Y.L Kei,  **O.H.  Madrid-Padilla**, R. Killick, J. Wilson, X. Chen, R. Lund. Clustering in Networks with Time-varying Nodal Attributes. [PDF](https://arxiv.org/pdf/2511.04859).
 
 1. S. Kumar, H. Xu, C.M. Madrid-Padilla, Y. Khoo, **O.H.  Madrid-Padilla**, D. Wang. Bias-variance Tradeoff in Tensor Estimation. [PDF](https://arxiv.org/pdf/2509.17382).
 
