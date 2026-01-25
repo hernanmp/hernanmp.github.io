@@ -52,6 +52,9 @@ oscar dot madrid at  stat dot ucla dot edu
 
 ### Published/Accepted papers
 
+1. **O.-H. Madrid-Padilla**,  Y. Chen, C.-M Madrid-Padilla, G. Ruiz. A causal fused lasso for interpretable heterogeneous treatment
+effects estimation.  **To appear in Journal of Machine Learning Research.** [PDF](https://arxiv.org/pdf/2110.00901.pdf). [Code](https://github.com/hernanmp/causal_fused_lasso). (Second and third authors contributed equally).
+
 1. C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, S. Chatterjee. Risk Bounds For Distributional Regression.  **To appear in NeurIPS 2025.** [PDF](https://arxiv.org/pdf/2505.09075).
 
 1. C.K. Nguen, **O.H.  Madrid-Padilla**, A.A. Amini. Network two-sample test for block models.  **To appear in NeurIPS 2025.** [PDF](https://arxiv.org/pdf/2406.06014).
@@ -202,9 +205,6 @@ Dynamic and heterogeneous treatment effects with abrupt changes. [PDF](https://a
 
 
 1. G. Ruiz, **O.-H. Madrid-Padilla**. Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT). [PDF](https://arxiv.org/pdf/2205.09094.pdf). 
-
-1. **O.-H. Madrid-Padilla**,  Y. Chen, C.-M Madrid-Padilla, G. Ruiz. A causal fused lasso for interpretable heterogeneous treatment
-effects estimation. [PDF](https://arxiv.org/pdf/2110.00901.pdf). [Code](https://github.com/hernanmp/causal_fused_lasso).
 
  
 1. Shitong Wei, **O.-H. Madrid-Padilla**, James Sharpnack. Distributed Cartesian Power Graph Segmentation for Graphon Estimation. [Link](https://arxiv.org/abs/1805.09978).
