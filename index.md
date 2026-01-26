@@ -52,6 +52,9 @@ oscar dot madrid at  stat dot ucla dot edu
 
 ### Published/Accepted papers
 
+1. F. Wang, K. Ritscher, Y.L. Kei, X. Ma,  **O.H.  Madrid-Padilla**. Change Point Localization and Inference in Dynamic Multilayer Networks.  **To appear in International Conference on Learning Representations 2026.** [PDF](https://arxiv.org/pdf/2506.21878).
+
+
 1. **O.-H. Madrid-Padilla**,  Y. Chen, C.-M Madrid-Padilla, G. Ruiz. A causal fused lasso for interpretable heterogeneous treatment
 effects estimation.  **To appear in Journal of Machine Learning Research.** [PDF](https://arxiv.org/pdf/2110.00901.pdf). [Code](https://github.com/hernanmp/causal_fused_lasso). (Second and third authors contributed equally).
 
@@ -176,7 +179,6 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 1. D. Berlind, L. Cappello,  **O.H.  Madrid-Padilla**. A Bayesian framework for change-point detection with uncertainty.
 quantification. [PDF](https://arxiv.org/pdf/2507.01558).
 
-1. F. Wang, K. Ritscher, Y.L. Kei, X. Ma,  **O.H.  Madrid-Padilla**. Change Point Localization and Inference in Dynamic Multilayer Networks. [PDF](https://arxiv.org/pdf/2506.21878).
 
 1.  C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, Y.L. Kei, Z. Zhang, Y. Chen. Confidence Interval Construction and Conditional
 Variance Estimation with Dense ReLU Networks. [PDF](https://arxiv.org/pdf/2412.20355). (Equal contribution from the first two authors). [Code](https://github.com/allenkei/Var_ReLU/tree/main).
