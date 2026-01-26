@@ -52,7 +52,7 @@ oscar dot madrid at  stat dot ucla dot edu
 
 ### Published/Accepted papers
 
-1. F. Wang, K. Ritscher, Y.L. Kei, X. Ma,  **O.H.  Madrid-Padilla**. Change Point Localization and Inference in Dynamic Multilayer Networks.  **To appear in International Conference on Learning Representations 2026.** [PDF](https://arxiv.org/pdf/2506.21878).
+1. F. Wang, K. Ritscher, Y.L. Kei, X. Ma,  **O.H.  Madrid-Padilla**. Change Point Localization and Inference in Dynamic Multilayer Networks.  **To appear in International Conference on Learning Representations (ICLR) 2026.** [PDF](https://arxiv.org/pdf/2506.21878).
 
 
 1. **O.-H. Madrid-Padilla**,  Y. Chen, C.-M Madrid-Padilla, G. Ruiz. A causal fused lasso for interpretable heterogeneous treatment
