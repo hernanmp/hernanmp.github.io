@@ -52,7 +52,7 @@ oscar dot madrid at  stat dot ucla dot edu
 
 ### Published/Accepted papers
 
-1. A collaborative paper has been accepted to **Science**. More details to come soon.
+1. A collaborative paper has been accepted to **Science** **(Impact factor: 49.7)**. More details to come soon.
 
 1. F. Wang, K. Ritscher, Y.L. Kei, X. Ma,  **O.H.  Madrid-Padilla**. Change Point Localization and Inference in Dynamic Multilayer Networks.  **To appear in International Conference on Learning Representations (ICLR) 2026.** [PDF](https://arxiv.org/pdf/2506.21878).
 
