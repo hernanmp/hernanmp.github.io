@@ -1,5 +1,10 @@
 ## Welcome!
 
+---
+layout: default
+title: Welcome!
+---
+
 <img width="399" alt="pic2" src="https://github.com/user-attachments/assets/798b217e-cbf0-417a-9309-fd2569daaa9d">
 
 
