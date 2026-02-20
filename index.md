@@ -220,8 +220,5 @@ Dynamic and heterogeneous treatment effects with abrupt changes. [PDF](https://a
 1. **O.H.  Madrid-Padilla** and J.G. Scott.  Nonparametric density estimation by histogram trend filtering. [Link](https://arxiv.org/abs/1509.04348).
 
 *Alphabetical order.
-  
 
-<!-- Contador de visitas -->
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=EBYPWQy20NjXizST4__XUvNIbKpzqPE2D7NuYf0xQMw&cl=ffffff&w=a"></script>
-<!-- Fin Contador de visitas -->
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=dCymF_7G4e3eC1aCdRrP3PWmd9ybKefUOFsDcIG5Ga4&cl=ffffff&w=a"></script>
