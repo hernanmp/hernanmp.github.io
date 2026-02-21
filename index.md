@@ -223,7 +223,7 @@ Dynamic and heterogeneous treatment effects with abrupt changes. [PDF](https://a
 
 <div style="margin-top:40px;">
 <script type="text/javascript" id="mapmyvisitors"
-src="//mapmyvisitors.com/map.js?d=YOUR_CODE&cl=ffffff&w=a">
+src="//mapmyvisitors.com/map.js?d=1c2pk&cl=ffffff&w=a">
 </script>
 </div>
 
