@@ -222,9 +222,9 @@ Dynamic and heterogeneous treatment effects with abrupt changes. [PDF](https://a
 *Alphabetical order.
 
 
-<div style="margin-top:30px;">
-<script type="text/javascript" id="mapmyvisitors"
-src="//mapmyvisitors.com/map.js?d=1c2pk&cl=ffffff&w=a">
-</script>
-</div>
+<hr>
 
+<h3>Visitors</h3>
+<a href="https://mapmyvisitors.com/web/1c2pk" title="Visit tracker">
+  <img src="https://mapmyvisitors.com/map.png?d=1c2pk&cl=ffffff" alt="Visitor map" />
+</a>
