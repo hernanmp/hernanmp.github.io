@@ -221,7 +221,8 @@ Dynamic and heterogeneous treatment effects with abrupt changes. [PDF](https://a
 
 *Alphabetical order.
 
-<div style="margin-top:40px;">
+
+<div style="margin-top:30px;">
 <script type="text/javascript" id="mapmyvisitors"
 src="//mapmyvisitors.com/map.js?d=1c2pk&cl=ffffff&w=a">
 </script>
