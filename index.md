@@ -58,7 +58,7 @@ oscar dot madrid at  stat dot ucla dot edu
 
 
 1. **O.-H. Madrid-Padilla**,  Y. Chen, C.-M Madrid-Padilla, G. Ruiz. A causal fused lasso for interpretable heterogeneous treatment
-effects estimation.  **To appear in Journal of Machine Learning Research.** [PDF](https://arxiv.org/pdf/2110.00901.pdf). [Code](https://github.com/hernanmp/causal_fused_lasso). (Second and third authors contributed equally).
+effects estimation.  **To appear in Journal of Machine Learning Research, 27(40):1−56, 2026.** [PDF](https://jmlr.org/papers/volume27/23-0535/23-0535.pdf). [Code](https://github.com/hernanmp/causal_fused_lasso). (Second and third authors contributed equally).
 
 1. C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, S. Chatterjee. Risk Bounds For Distributional Regression.  **To appear in NeurIPS 2025.** [PDF](https://arxiv.org/pdf/2505.09075).
 
