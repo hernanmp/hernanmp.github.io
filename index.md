@@ -53,8 +53,7 @@ oscar dot madrid at  stat dot ucla dot edu
 ### Published/Accepted papers
 
 1. A. Sandel, Y. He, J. Ren, Y. Kei,...**O.H.  Madrid-Padilla**,...,J. Mitani.  Lethal conflict after group fission in wild chimpanzees. **Science, 392 (6794)** **(Impact factor: 49.7)** [Link](https://www.science.org/doi/10.1126/science.adz4944). Related article: [Link](https://www.science.org/doi/10.1126/science.aeg6719).
- 
-**Note**: I am especially proud of my mentees, Junpeng Ren and Yik Kei; Yik Kei contributed equally with Y. He. A trailer for a documentary featuring the same chimpanzee group is available: [Link](https://www.youtube.com/watch?v=NjgL7Pumb4Q).
+ **Note**: I am especially proud of my mentees, Junpeng Ren and Yik Kei; Yik Kei contributed equally with Y. He. A trailer for a documentary featuring the same chimpanzee group is available: [Link](https://www.youtube.com/watch?v=NjgL7Pumb4Q).
 
 1. F. Wang, K. Ritscher, Y.L. Kei, X. Ma,  **O.H.  Madrid-Padilla**. Change Point Localization and Inference in Dynamic Multilayer Networks.  **To appear in International Conference on Learning Representations (ICLR) 2026.** [PDF](https://arxiv.org/pdf/2506.21878).
 
