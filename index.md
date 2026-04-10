@@ -40,7 +40,7 @@ oscar dot madrid at  stat dot ucla dot edu
 ### Current Ph.D. students:
 
 - [Davis Berlind](https://davis-berlind.github.io/)
-- [Kyle Ritscher](https://www.linkedin.com/in/kyleritscher33)
+- [Kyle Ritscher](https://kritscher33.github.io/)
 - [Xiaokai Luo](https://www.linkedin.com/in/xiaokai-luo-a67a1233a)
 - [Junpeng Ren](https://www.linkedin.com/in/junpeng-ren-8ab2b9294)
 - [Austin Froelich](https://www.linkedin.com/in/austin-t-froelich)
