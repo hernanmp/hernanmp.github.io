@@ -1,7 +1,6 @@
 ## Welcome!
 
 <img width="399" alt="pic2" src="https://github.com/user-attachments/assets/798b217e-cbf0-417a-9309-fd2569daaa9d">
-<img width="399" height="400" alt="maracana" src="https://github.com/user-attachments/assets/e571edd6-91da-46da-b10a-fbfef9651cab" />
 
 
 
