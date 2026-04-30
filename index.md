@@ -52,6 +52,12 @@ oscar dot madrid at  stat dot ucla dot edu
 
 ### Published/Accepted papers
 
+1. Transfer learning paper **to appear in International Conference on Machine Learning (ICML) 2026.** More details coming soon.
+
+
+1. X. Luo, H. Xu, C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**. Online Change Point Detection for Multivariate Inhomogeneous
+Poisson Processes Time Series. [PDF](https://arxiv.org/pdf/2601.20192). **To appear in International Conference on Machine Learning (ICML) 2026.**
+
 1. A. Sandel, Y. He, J. Ren, Y. Kei,...**O.H.  Madrid-Padilla**,...,J. Mitani.  Lethal conflict after group fission in wild chimpanzees. **Science, 392 (6794)** **(Impact factor: 49.7)**. [Link to paper](https://www.science.org/doi/10.1126/science.adz4944). Perspective article: [Link](https://www.science.org/doi/10.1126/science.aeg6719). **Media coverage**: [New York Times](https://www.nytimes.com/2026/04/09/science/chimpanzees-war-ngogo-uganda.html), [WSJ](https://www.wsj.com/us-news/ngogo-uganda-chimpanzee-civil-war-99f04332?mod=e2tw), [The Guardian](https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe), [BBC](https://www.discoverwildlife.com/animal-facts/ngogo-chimpanzee-conflict), [NBCN](https://www.nbcnews.com/science/science-news/chimpanzee-study-infighting-violent-attacks-rcna267179), [El Pais](https://elpais.com/ciencia/2026-04-09/guerra-civil-en-el-paraiso-de-los-chimpances-han-diezmado-al-grupo-rival.html), [rtve](https://www.rtve.es/noticias/20260409/guerra-civil-chimpances-peligro-divisiones-sociales-humanos/17016714.shtml), [UT Austin](https://news.utexas.edu/2026/04/09/first-clearly-documented-split-in-worlds-largest-known-chimpanzee-community-leads-to-deadly-violence/), [Scientific American](https://www.scientificamerican.com/article/two-hundred-chimpanzees-are-embroiled-in-a-civil-war/), [The Times](https://www.thetimes.com/uk/science/article/chimpanzee-group-splits-bloody-civil-war-59dk6swzr), [Science alert](https://www.sciencealert.com/scientists-announce-the-first-clear-evidence-of-a-chimpanzee-civil-war), [New Scientist](https://www.newscientist.com/article/2522541-chimpanzee-groups-violent-rupture-hints-at-evolutionary-roots-of-war/), [phys.org](https://phys.org/news/2026-04-chimpanzee-empire-falls-rare-instance.html?fbclid=IwY2xjawRF_TBleHRuA2FlbQIxMQBicmlkETF2eXlYdjk2UFhxQmo1Ylltc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvSZiAfI_lasHn1h1gdCX4yLSBzrf-r7BtmPcpw9FMDir9cV710xz-YsarcS_aem_-RU9sU31GpIWUuNOrSJxkg), [CBC](https://www.cbc.ca/radio/chimpanzee-civil-war-9.7165831).  **Note**: I am especially proud of my mentees, Junpeng Ren and Yik Kei; they contributed equally with Y. He. A trailer for a documentary featuring the same chimpanzee group is available here: [Link](https://www.youtube.com/watch?v=NjgL7Pumb4Q).
 
 1. F. Wang, K. Ritscher, Y.L. Kei, X. Ma,  **O.H.  Madrid-Padilla**. Change Point Localization and Inference in Dynamic Multilayer Networks.  **To appear in International Conference on Learning Representations (ICLR) 2026.** [PDF](https://arxiv.org/pdf/2506.21878).
@@ -173,9 +179,6 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 
 ### Preprints
-
-1. X. Luo, H. Xu, C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**. Online Change Point Detection for Multivariate Inhomogeneous
-Poisson Processes Time Series. [PDF](https://arxiv.org/pdf/2601.20192).
 
 1. Y.L Kei,  **O.H.  Madrid-Padilla**, R. Killick, J. Wilson, X. Chen, R. Lund. Clustering in Networks with Time-varying Nodal Attributes. [PDF](https://arxiv.org/pdf/2511.04859).
 
