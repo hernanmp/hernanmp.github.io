@@ -8,15 +8,18 @@ I am  a Tenure-track Assistant Professor in the [Department of Statistics at Uni
 
 My  research interests  include:
 - High-dimensional and nonparametric statistics
+- Deep learning
 - Change point detection
 - Network problems
-- Deep learning
 - Causal inference
 - Quantile regression
 - Bayesian and empirical Bayes methodology
 - Graphical models
 
 A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github.io/blob/master/cv_oscar_madrid.pdf). My work has been published in interdisciplinary journals: **Science, PLOS One**; the top four statistics journals:  **JASA, AOS, JRSS B, Biometrika**; the top machine learning journals: **JMLR, IEEE TPAMI**; the top machine learning conferences: **NeurIPS, ICLR, ICML**; the top coding theory journal: **IEEE Information Theory**.
+
+### News: 
+- Area chair for NeurIPS 2026.
 
 ### Email: 
 oscar dot madrid at  stat dot ucla dot edu
