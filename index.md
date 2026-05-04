@@ -46,6 +46,9 @@ oscar dot madrid at  stat dot ucla dot edu
 - [Junpeng Ren](https://www.linkedin.com/in/junpeng-ren-8ab2b9294)
 - [Austin Froelich](https://www.linkedin.com/in/austin-t-froelich)
 
+### Ph.D. students that I work closely with:
+- Chung Kyong Nguen
+
 ### Former Ph.D. students that I have closely worked with:
 
 [Hangjian Li](https://www.linkedin.com/in/hangjian-li-53581960?original_referer=https%3A%2F%2Fwww.google.com%2F), [Mahmoud Essalat](https://www.linkedin.com/in/mahmoud-essalat-61560871?original_referer=https%3A%2F%2Fwww.google.com%2F), [Alfonso Landeros](https://alanderos91.github.io/research/).
