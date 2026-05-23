@@ -56,6 +56,9 @@ oscar dot madrid at  stat dot ucla dot edu
 
 ### Published/Accepted papers
 
+1. D. Lai,  **O.H.  Madrid-Padilla**, X. Li, T. Guan. Bayesian Transfer Learning for Enhanced
+Estimation and Inference. [PDF](https://arxiv.org/pdf/2412.02986). **2025 ASA Student Paper Award**. **To appear in Journal of the American Statistical Association.**
+
 1. Transfer learning paper **to appear in International Conference on Machine Learning (ICML) 2026.** More details coming soon.
 
 
@@ -181,7 +184,6 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 1. W. Tansey, **O.-H. Madrid-Padilla**, A. Suggala, and P. Ravikumar.  Vector-Space Markov Random Fields via Exponential Families.**In International Conference on Machine Learning (ICML) 32, 2015**. [PDF](http://proceedings.mlr.press/v37/tansey15.pdf). [Code](https://github.com/tansey/vsmrfs) 
 
 
-
 ### Preprints
 
 1. Y.L Kei,  **O.H.  Madrid-Padilla**, R. Killick, J. Wilson, X. Chen, R. Lund. Clustering in Networks with Time-varying Nodal Attributes. [PDF](https://arxiv.org/pdf/2511.04859).
@@ -196,10 +198,7 @@ quantification. [PDF](https://arxiv.org/pdf/2507.01558).
 Variance Estimation with Dense ReLU Networks. [PDF](https://arxiv.org/pdf/2412.20355). (Equal contribution from the first two authors). [Code](https://github.com/allenkei/Var_ReLU/tree/main).
 
 
-1. H. Xu, C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. [PDF](https://arxiv.org/pdf/2504.15879).
-
-1. D. Lai,  **O.H.  Madrid-Padilla**, T. Guan. Bayesian Transfer Learning for Enhanced
-Estimation and Inference. [PDF](https://arxiv.org/pdf/2412.02986). **2025 ASA Student Paper Award**.  
+1. H. Xu, C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. [PDF](https://arxiv.org/pdf/2504.15879). 
 
 1. Z. Zhang, C.M Madrid-Padilla, X. Luo, D. Wang, **O.H.  Madrid-Padilla**. Dense ReLU Neural Networks for Temporal-spatial Model. [PDF](https://arxiv.org/pdf/2411.09961).
 
