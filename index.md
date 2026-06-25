@@ -4,7 +4,7 @@
 
 
 
-I am  a Tenure-track Assistant Professor in the [Department of Statistics at University of California, Los Angeles](http://statistics.ucla.edu/). Previously,  from  July,  2017 to June, 2019, I was Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at [The University of Texas at Austin](https://stat.utexas.edu/) in May 2017 under the supervision of  [Prof. James Scott](http://jgscott.github.io/). My undergraudate degree was a B.S in Mathematics completed at [CIMAT](https://www.cimat.mx/en) (in Mexico) in April 2013, advised by [Prof. Daniel Hernandez-Hernandez](https://www.cimat.mx/~dher/). In 2026, I was awarded the  **CAREER award from the National Science Foundation**.
+I am  a Tenure-track Assistant Professor in the [Department of Statistics at University of California, Los Angeles](http://statistics.ucla.edu/). Previously,  from  July,  2017 to June, 2019, I was Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at [The University of Texas at Austin](https://stat.utexas.edu/) in May 2017 under the supervision of  [Prof. James Scott](http://jgscott.github.io/). My undergraudate degree was a B.S in Mathematics completed at [CIMAT](https://www.cimat.mx/en) (in Mexico) in April 2013, advised by [Prof. Daniel Hernandez-Hernandez](https://www.cimat.mx/~dher/). In 2026, I received the **National Science Foundation CAREER Award** for the project “CAREER: Theory and Methods for Nonparametric Estimation with Neural Networks” (NSF Award No. 2541747)
 
 My  research interests  include:
 - High-dimensional and nonparametric statistics
@@ -29,6 +29,7 @@ oscar dot madrid at  stat dot ucla dot edu
 - Associate Editor for Stat, 2022--present
 
 ### Grants:
+- NSF DMS CAREER Award (No. 2541747).
 - NSF DMS-2015489 
 - UCLA 2022-23 Faculty Career Development Award 
 - [Hellman Fellowship](https://www.hellmanfellows.org/), 2023-2024. 
