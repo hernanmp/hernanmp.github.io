@@ -1,7 +1,7 @@
 ## Welcome!
 
 <img width="448" height="336" alt="maracana2" src="https://github.com/user-attachments/assets/2552d582-504f-4563-9b9c-3f28c7661e58" />
-<img width="453" height="254" alt="Monosnap P8120743 JPG 2026-08-12 13-27-26" src="https://github.com/user-attachments/assets/60fa4ea0-0b65-4abc-94ec-40302766f2e2" />
+<img width="448" height="336" alt="Monosnap P8120743 JPG 2026-08-12 13-27-26" src="https://github.com/user-attachments/assets/60fa4ea0-0b65-4abc-94ec-40302766f2e2" />
 
 
 
