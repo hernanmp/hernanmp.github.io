@@ -1,6 +1,8 @@
 ## Welcome!
 
-<img width="448" height="336" alt="maracana2" src="https://github.com/user-attachments/assets/2552d582-504f-4563-9b9c-3f28c7661e58" />
+<img width="453" height="254" alt="Monosnap P8120743 JPG 2026-08-12 13-27-26" src="https://github.com/user-attachments/assets/b9813ff0-22e6-4404-8a3a-fb2fcc685cf7" />
+
+
 
 I am an Associate Professor of Statistics  in the [Department of Statistics at University of California, Los Angeles](http://statistics.ucla.edu/). I joined UCLA as an Assistant Professor in July 2019 and was promoted to Associate Professor in July, 2026. From  July,  2017 to June, 2019, I was Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at [The University of Texas at Austin](https://stat.utexas.edu/) in May 2017 under the supervision of  [Prof. James Scott](http://jgscott.github.io/). My undergraudate degree was a B.S in Mathematics completed at [CIMAT](https://www.cimat.mx/en) (in Mexico) in April 2013, advised by [Prof. Daniel Hernandez-Hernandez](https://www.cimat.mx/~dher/). In 2026, I received the **National Science Foundation CAREER Award** for the project “CAREER: Theory and Methods for Nonparametric Estimation with Neural Networks” (NSF Award No. 2541747).
 
