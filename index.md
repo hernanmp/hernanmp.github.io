@@ -1,6 +1,7 @@
 ## Welcome!
 
-<img width="453" height="254" alt="Monosnap P8120743 JPG 2026-08-12 13-27-26" src="https://github.com/user-attachments/assets/b9813ff0-22e6-4404-8a3a-fb2fcc685cf7" />
+<img width="395" height="254" alt="oscar" src="https://github.com/user-attachments/assets/681c991f-af09-424e-b338-4d1bb56f3a1d" />
+
 
 
 
