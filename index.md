@@ -60,7 +60,7 @@ oscar dot madrid at  stat dot ucla dot edu
 1. D. Lai,  **O.H.  Madrid-Padilla**, X. Li, T. Guan. Bayesian Transfer Learning for Enhanced
 Estimation and Inference. [PDF](https://arxiv.org/pdf/2412.02986). **2025 ASA Student Paper Award**. **To appear in Journal of the American Statistical Association.**
 
-1. J. Ren, C.M. Madrid-Padilla, Y. Chen, O.H. Madrid-Padilla. Transfer Learning in Nonparametric Regression with Deep ReLU Networks.  [PDF](https://openreview.net/pdf?id=RVEhUx4fOs). **To appear in International Conference on Machine Learning (ICML) 2026.** 
+1. J. Ren, C.M. Madrid-Padilla, Y. Chen, O.H. Madrid-Padilla. Transfer Learning in Nonparametric Regression with Deep ReLU Networks.  [PDF](https://arxiv.org/pdf/2608.20255). **To appear in International Conference on Machine Learning (ICML) 2026.** 
 
 
 1. X. Luo, H. Xu, C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**. Online Change Point Detection for Multivariate Inhomogeneous
