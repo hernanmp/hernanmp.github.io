@@ -58,6 +58,8 @@ oscar dot madrid at  stat dot ucla dot edu
 ### Published/Accepted papers
 
 
+1. Z. Zhang, C.M Madrid-Padilla, X. Luo, D. Wang, **O.H.  Madrid-Padilla**. Dense ReLU Neural Networks for Temporal-spatial Model. [PDF](https://arxiv.org/pdf/2411.09961). **IEEE Transactions on Information Theory.**
+2. 
 1. H. Xu, C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. [PDF](https://arxiv.org/pdf/2504.15879). **To appear in Journal of the American Statistical Association.**
 
 
@@ -207,8 +209,6 @@ quantification. [PDF](https://arxiv.org/pdf/2507.01558).
 1.  C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, Y.L. Kei, Z. Zhang, Y. Chen. Confidence Interval Construction and Conditional
 Variance Estimation with Dense ReLU Networks. [PDF](https://arxiv.org/pdf/2412.20355). (Equal contribution from the first two authors). [Code](https://github.com/allenkei/Var_ReLU/tree/main).
 
-
-1. Z. Zhang, C.M Madrid-Padilla, X. Luo, D. Wang, **O.H.  Madrid-Padilla**. Dense ReLU Neural Networks for Temporal-spatial Model. [PDF](https://arxiv.org/pdf/2411.09961).
 
 1. M. Matabuena, R. Ghosal, P. Mozharovskyi, **O.H.  Madrid-Padilla**, J.P. Onnela.  Conformal uncertainty quantification using kernel depth measures in separable Hilbert spaces. [PDF](https://arxiv.org/pdf/2405.13970).
 
