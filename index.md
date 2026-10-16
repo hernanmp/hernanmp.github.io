@@ -57,6 +57,7 @@ oscar dot madrid at  stat dot ucla dot edu
 
 ### Published/Accepted papers
 
+
 1. H. Xu, C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. [PDF](https://arxiv.org/pdf/2504.15879). **To appear in Journal of the American Statistical Association.**
 
 
@@ -189,6 +190,11 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 
 ### Preprints
+
+1. H. Yang,  **O.H.  Madrid-Padilla**. Two-Stage Score Estimation for Group-Specific Diffusion Models. [PDF](https://arxiv.org/pdf/2610.20979).
+
+1. Y.L Kei,  **O.H.  Madrid-Padilla**, R. Killick, J. Wilson, X. Chen, R. Lund. Clustering in Networks with Time-varying Nodal Attributes. [PDF](https://arxiv.org/pdf/2511.04859).
+
 
 1. Y.L Kei,  **O.H.  Madrid-Padilla**, R. Killick, J. Wilson, X. Chen, R. Lund. Clustering in Networks with Time-varying Nodal Attributes. [PDF](https://arxiv.org/pdf/2511.04859).
 
