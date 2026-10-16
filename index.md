@@ -59,7 +59,8 @@ oscar dot madrid at  stat dot ucla dot edu
 
 
 1. Z. Zhang, C.M Madrid-Padilla, X. Luo, D. Wang, **O.H.  Madrid-Padilla**. Dense ReLU Neural Networks for Temporal-spatial Model. [PDF](https://arxiv.org/pdf/2411.09961). **IEEE Transactions on Information Theory.**
-2. 
+
+  
 1. H. Xu, C.M Madrid-Padilla,  **O.H.  Madrid-Padilla**, D. Wang. Multivariate Poisson intensity estimation via low-rank tensor decomposition. [PDF](https://arxiv.org/pdf/2504.15879). **To appear in Journal of the American Statistical Association.**
 
 
