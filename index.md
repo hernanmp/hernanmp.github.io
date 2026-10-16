@@ -194,6 +194,9 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 ### Preprints
 
+1. Y. Ren, C.M-Madrid-Padilla, **O.H.  Madrid-Padilla**. Distributional Regression for Arbitrary Response Variables Using
+ReLU Neural Networks. [PDF](https://arxiv.org/pdf/2610.16142v1).
+
 1. H. Yang,  **O.H.  Madrid-Padilla**. Two-Stage Score Estimation for Group-Specific Diffusion Models. [PDF](https://arxiv.org/pdf/2610.20979).
 
 1. Y.L Kei,  **O.H.  Madrid-Padilla**, R. Killick, J. Wilson, X. Chen, R. Lund. Clustering in Networks with Time-varying Nodal Attributes. [PDF](https://arxiv.org/pdf/2511.04859).
