@@ -194,6 +194,11 @@ Fused Lasso. [PDF](https://arxiv.org/pdf/2012.01758.pdf). **Journal of Machine L
 
 ### Preprints
 
+1. M. Matabuena, X. Luo, **O.H.  Madrid-Padilla**. Deep Learning for Random Objects in Metric Spaces:
+Beyond Manifold Assumptions. [PDF](https://arxiv.org/pdf/2610.31328).
+
+
+
 1. Y. Ren, C.M-Madrid-Padilla, **O.H.  Madrid-Padilla**. Distributional Regression for Arbitrary Response Variables Using
 ReLU Neural Networks. [PDF](https://arxiv.org/pdf/2610.16142v1).
 
